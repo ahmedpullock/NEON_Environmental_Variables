@@ -11,9 +11,7 @@ Each dataset is accompanied by a metadata file describing variables, units, and 
 - A master site-average dataset
 - A metadata file containing variable descriptions and units
 
-* Data Processing
-
-Environmental data were obtained directly from NEON data products and summarized at the site level which involves --
+* Data Processing: Environmental data were obtained directly from NEON data products and summarized at the site level which involves --
 
 - Downloading NEON data products.
 - Extracting relevant environmental variables.
