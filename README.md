@@ -8,16 +8,16 @@ Each dataset is accompanied by a metadata file describing variables, units, and 
 * Temporal Coverage: January 2018 – December 2024 (All summaries were generated using NEON observations available through the 2024 data release)
 
 * Data Organization: Each environmental variable is stored in its own directory and includes:
-- A master site-average dataset
-- A metadata file containing variable descriptions and units
+1. A master site-average dataset
+2. A metadata file containing variable descriptions and units
 
 * Data Processing: Environmental data were obtained directly from NEON data products and summarized at the site level which involves --
 
-- Downloading NEON data products.
-- Extracting relevant environmental variables.
-- Applying available quality-control information.
-- Calculating site-level summaries across the 2018–2024 observation period.
-- Compiling metadata and measurement units for reference.
+1. Downloading NEON data products.
+2. Extracting relevant environmental variables.
+3. Applying available quality-control information.
+4. Calculating site-level summaries across the 2018–2024 observation period.
+5. Compiling metadata and measurement units for reference.
 
 ** Included Datasets So Far **
 
