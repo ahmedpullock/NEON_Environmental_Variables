@@ -34,4 +34,4 @@ Each dataset is accompanied by a metadata file describing variables, units, and 
 
 Each dataset is accompanied by a metadata file describing variables, units, and data provenance.
 
-P.S. for Collaborators: Please feel free to reach out if you find any discrepenct and/or with any suggestons.
+P.S. for Collaborators: Please feel free to reach out if you find any discrepency and/or with any suggestons.
