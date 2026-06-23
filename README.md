@@ -37,15 +37,4 @@ Environmental data were obtained directly from NEON data products and summarized
 
 Each dataset is accompanied by a metadata file describing variables, units, and data provenance.
 
-
-
-
-
-
-
-
-
-
-## Notes for Collaborators
-
-If you identify discrepancies, missing variables, or opportunities to improve data organization, please feel free to reach out or submit suggested revisions. The objective of this repository is to provide a transparent, reproducible, and easily accessible environmental data resource for collaborative research.
+P.S. for Collaborators: Please feel free to reach out if you find any discrepenct and/or with any suggestons.
