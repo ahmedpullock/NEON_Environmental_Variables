@@ -21,16 +21,16 @@ Each dataset is accompanied by a metadata file describing variables, units, and 
 ** Included Datasets So Far **
 
 1. Air Temperature --
-   NEON Data Product: DP1.00002.001: Site-level summaries of air temperature measurements from 2018–2024. 
+   (NEON Data Product DP1.00002.001): Site-level summaries of air temperature measurements from 2018–2024. 
 
 2. Photosynthetically Active Radiation (PAR) --
-   NEON Data Product: DP1.00024.001: Site-level summaries of photosynthetically active radiation (PAR).
+   (NEON Data Product: DP1.00024.001): Site-level summaries of photosynthetically active radiation (PAR).
 
 3. Precipitation --
-   NEON Data Product: DP1.00044.001: Site-level precipitation summaries derived from NEON meteorological observations.
+   (NEON Data Product: DP1.00044.001): Site-level precipitation summaries derived from NEON meteorological observations.
 
 4. Soil Moisture --
-   NEON Data Product: DP1.00094.001: Site-level summaries of volumetric soil water content across NEON terrestrial sites.
+   (NEON Data Product: DP1.00094.001): Site-level summaries of volumetric soil water content across NEON terrestrial sites.
 
 Each dataset is accompanied by a metadata file describing variables, units, and data provenance.
 
