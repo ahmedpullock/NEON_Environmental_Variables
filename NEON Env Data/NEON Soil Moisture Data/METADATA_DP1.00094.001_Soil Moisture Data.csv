@@ -1,0 +1,181 @@
+"table","fieldName","description","units"
+"sensor_positions","HOR.VER","The combined value of the horizontal and vertical location indices specified in each data file name. The HOR index is a three-character alphanumeric code for the measurement locations within one horizontal plane. For example, if one surface measurement were made at each of five soil array plots, the number in the HOR field would range from 001-005. The VER index is a three-character alphanumeric code for the measurement locations within one vertical plane. For example, if one temperature measurement is made at each vertical level of a tower with 8 levels, the number in the VER field would range from 010-080.",NA
+"sensor_positions","sensorLocationID","The unique identifier for the location used by NEON for where the sensor was installed.",NA
+"sensor_positions","sensorLocationDescription","The description of the location where the sensor was installed.",NA
+"sensor_positions","positionStartDateTime","The start date and time in UTC for the position information supplied for the location. If the position or orientation of the location changed over time, additional rows will supply the full history.",NA
+"sensor_positions","positionEndDateTime","The end date and time in UTC for the position information supplied for the location. A blank value indicates that the position information was still valid for the location at the time of publishing.",NA
+"sensor_positions","referenceLocationID","The unique identifier for the reference location from which the xOffset, yOffset, and zOffset distances are measured.",NA
+"sensor_positions","referenceLocationIDDescription","The description of the reference location.",NA
+"sensor_positions","referenceLocationIDStartDateTime","The start date and time in UTC for the position information supplied for the reference location. If the position of the reference location changed over time, additional rows will supply the full history.",NA
+"sensor_positions","referenceLocationIDEndDateTime","The end date and time in UTC for the position information supplied for the reference location.",NA
+"sensor_positions","xOffset","The offset along the x-axis of the local coordinate frame, in meters, from the reference location to the location where the sensor was installed.","meter"
+"sensor_positions","yOffset","The offset along the y-axis of the local coordinate frame, in meters, from the reference location to the location where the sensor was installed.","meter"
+"sensor_positions","zOffset","The offset along the z-axis of the local coordinate frame, in meters, from the reference location to the location where the sensor was installed. The z-axis is always aligned with up, positive values indicating heights above the reference location.","meter"
+"sensor_positions","pitch","The elevation angle, in degrees, in the vertical plane at which the sensor is oriented relative to the horizontal plane. Some sensors differ from this convention. See the product detail page for any exceptions.","degrees"
+"sensor_positions","roll","The roll angle at which the sensor is oriented, in degrees, about the longitudinal axis of the sensor","degrees"
+"sensor_positions","azimuth","The azimuth or yaw angle, in degrees, at which the sensor is facing relative to true north. Some sensors differ from this convention. See the product detail page for any exceptions.","degrees"
+"sensor_positions","locationReferenceLatitude","The geographic latitude, in degrees, of the reference location.","degrees"
+"sensor_positions","locationReferenceLongitude","The geographic longitude, in degrees, of the reference location.","degrees"
+"sensor_positions","locationReferenceElevation","The elevation, in meters, above mean sea level.","meter"
+"sensor_positions","eastOffset","The offset along the cardinal east direction, in meters, from the reference location to the location where the sensor was installed.","meter"
+"sensor_positions","northOffset","The offset along the cardinal north (true) direction, in meters, from the reference location to the location where the sensor was installed.","meter"
+"sensor_positions","xAzimuth","The azimuth, in degrees, of the local x-axis with respect to true north, used to convert the distance offset measured along the local x-axis (xOffset) to the offset along the cardinal east direction (eastOffset).","degrees"
+"sensor_positions","yAzimuth","The azimuth, in degrees, of the local y-axis with respect to true north, used to convert the distance offset measured along the local y-axis (yOffset) to the offset along the cardinal north direction (northOffset).","degrees"
+"sensor_positions","publicationDate","Date of data publication on the NEON data portal",NA
+"sensor_positions","release","Identifier for data release",NA
+"SWS_1_minute","domainID","Unique identifier of the NEON domain",NA
+"SWS_1_minute","siteID","NEON site code",NA
+"SWS_1_minute","horizontalPosition","Index of horizontal location at a NEON site",NA
+"SWS_1_minute","verticalPosition","Index of vertical location at a NEON site",NA
+"SWS_1_minute","startDateTime","Date and time at which a sampling is initiated",NA
+"SWS_1_minute","endDateTime","Date and time at which a sampling is completed",NA
+"SWS_1_minute","VSWCMean","Arithmetic mean of volumetric soil water content","cubicCentimetersPerCubicCentimeter"
+"SWS_1_minute","VSWCMinimum","Minimum volumetric soil water content","cubicCentimetersPerCubicCentimeter"
+"SWS_1_minute","VSWCMaximum","Maximum volumetric soil water content","cubicCentimetersPerCubicCentimeter"
+"SWS_1_minute","VSWCVariance","Variance in volumetric soil water content","cubicCentimetersPerCubicCentimeterSquared"
+"SWS_1_minute","VSWCNumPts","Number of points used to calculate the arithmetic mean of volumetric soil water content","number"
+"SWS_1_minute","VSWCExpUncert","Expanded uncertainty for volumetric soil water content","cubicCentimetersPerCubicCentimeter"
+"SWS_1_minute","VSWCStdErMean","Standard error of the mean for volumetric soil water content","cubicCentimetersPerCubicCentimeter"
+"SWS_1_minute","VSWCRangeFailQM","Volumetric soil water content quality metric that summarizes the failed outcomes of the range test over the averaging period, as a percent","percent"
+"SWS_1_minute","VSWCRangePassQM","Volumetric soil water content quality metric that summarizes the passed outcomes of the range test over the averaging period, as a percent","percent"
+"SWS_1_minute","VSWCRangeNAQM","Volumetric soil water content quality metric that summarizes when the range test could not be run over the averaging period, as a percent","percent"
+"SWS_1_minute","VSWCPersistenceFailQM","Volumetric soil water content quality metric that summarizes  the failed outcomes of the persistence test over the averaging period, as a percent","percent"
+"SWS_1_minute","VSWCPersistencePassQM","Volumetric soil water content quality metric that summarizes the passed outcomes of the persistence test over the averaging period, as a percent","percent"
+"SWS_1_minute","VSWCPersistenceNAQM","Volumetric soil water content quality metric that summarizes when the persistence test could not be run over the averaging period, as a percent","percent"
+"SWS_1_minute","VSWCStepFailQM","Volumetric soil water content quality metric that summarizes the failed outcomes of the step test over the averaging period, as a percent","percent"
+"SWS_1_minute","VSWCStepPassQM","Volumetric soil water content quality metric that summarizes the passed outcomes of the step test over the averaging period, as a percent","percent"
+"SWS_1_minute","VSWCStepNAQM","Volumetric soil water content quality metric that summarizes when the step test could not be run over the averaging period, as a percent","percent"
+"SWS_1_minute","VSWCNullFailQM","Volumetric soil water content quality metric that summarizes the failed outcomes of the null test over the averaging period, as a percent","percent"
+"SWS_1_minute","VSWCNullPassQM","Volumetric soil water content quality metric that summarizes the passed outcomes of the null test over the averaging period, as a percent","percent"
+"SWS_1_minute","VSWCNullNAQM","Volumetric soil water content quality metric that summarizes when the null test could not be run over the averaging period, as a percent","percent"
+"SWS_1_minute","VSWCGapFailQM","Volumetric soil water content quality metric that summarizes the failed outcomes of the gap test over the averaging period, as a percent","percent"
+"SWS_1_minute","VSWCGapPassQM","Volumetric soil water content quality metric that summarizes the passed outcomes of the gap test over the averaging period, as a percent","percent"
+"SWS_1_minute","VSWCGapNAQM","Volumetric soil water content quality metric that summarizes when the gap test could not be run over the averaging period, as a percent","percent"
+"SWS_1_minute","VSWCSpikeFailQM","Volumetric soil water content quality metric that summarizes the failed outcomes of the spike test over the averaging period, as a percent","percent"
+"SWS_1_minute","VSWCSpikePassQM","Volumetric soil water content quality metric that summarizes the passed outcomes of the spike test over the averaging period, as a percent","percent"
+"SWS_1_minute","VSWCSpikeNAQM","Volumetric soil water content quality metric that summarizes when the spike test could not be run over the averaging period, as a percent","percent"
+"SWS_1_minute","VSWCValidCalFailQM","Volumetric soil water content quality metric that summarizes the failed outcomes of the valid calibration check over the averaging period, as a percent","percent"
+"SWS_1_minute","VSWCValidCalPassQM","Volumetric soil water content quality metric that summarizes the passed outcomes of the valid calibration check over the averaging period, as a percent","percent"
+"SWS_1_minute","VSWCValidCalNAQM","Volumetric soil water content quality metric that summarizes when the valid calibration check could not be run over the averaging period, as a percent","percent"
+"SWS_1_minute","VSWCAlphaQM","Volumetric soil water content quality metric detailing the outcomes of the alpha quality flag over the averaging period, as a percent and detailed in NEON.DOC.001113","percent"
+"SWS_1_minute","VSWCBetaQM","Volumetric soil water content quality metric detailing the outcomes of the beta quality flag over the averaging period, as a percent and detailed in NEON.DOC.001113","percent"
+"SWS_1_minute","VSWCFinalQF","Volumetric soil water content quality flag indicating whether a data product has passed or failed an overall assessment of its quality, detailed in NEON.DOC.001113 (1=fail, 0=pass)",NA
+"SWS_1_minute","VSWCFinalQFSciRvw","Volumetric soil water content quality flag indicating whether a data product has failed a science review of its quality, detailed in NEON.DOC.001113 (2=fail and data redacted, 1=fail but data retained and may be useful with additional corrections or filtering, 0=previous quality concern resolved and final quality flag correctly reflects data quality, Empty=pass/not reviewed)",NA
+"SWS_1_minute","VSICMean","Arithmetic mean of volumetric soil ion content","dimensionless"
+"SWS_1_minute","VSICMinimum","Minimum volumetric soil ion content","dimensionless"
+"SWS_1_minute","VSICMaximum","Maximum volumetric soil ion content","dimensionless"
+"SWS_1_minute","VSICVariance","Variance in volumetric soil ion content","dimensionless"
+"SWS_1_minute","VSICNumPts","Number of points used to calculate the arithmetic mean of volumetric soil ion content",NA
+"SWS_1_minute","VSICExpUncert","Expanded uncertainty for volumetric soil ion content","dimensionless"
+"SWS_1_minute","VSICStdErMean","Standard error of the mean for volumetric soil ion content","dimensionless"
+"SWS_1_minute","VSICRangeFailQM","Volumetric soil ion content quality metric that summarizes the failed outcomes of the range test over the averaging period, as a percent","percent"
+"SWS_1_minute","VSICRangePassQM","Volumetric soil ion content quality metric that summarizes the passed outcomes of the range test over the averaging period, as a percent","percent"
+"SWS_1_minute","VSICRangeNAQM","Volumetric soil ion content quality metric that summarizes when the range test could not be run over the averaging period, as a percent","percent"
+"SWS_1_minute","VSICPersistenceFailQM","Volumetric soil ion content quality metric that summarizes  the failed outcomes of the persistence test over the averaging period, as a percent","percent"
+"SWS_1_minute","VSICPersistencePassQM","Volumetric soil ion content quality metric that summarizes the passed outcomes of the persistence test over the averaging period, as a percent","percent"
+"SWS_1_minute","VSICPersistenceNAQM","Volumetric soil ion content quality metric that summarizes when the persistence test could not be run over the averaging period, as a percent","percent"
+"SWS_1_minute","VSICStepFailQM","Volumetric soil ion content quality metric that summarizes the failed outcomes of the step test over the averaging period, as a percent","percent"
+"SWS_1_minute","VSICStepPassQM","Volumetric soil ion content quality metric that summarizes the passed outcomes of the step test over the averaging period, as a percent","percent"
+"SWS_1_minute","VSICStepNAQM","Volumetric soil ion content quality metric that summarizes when the step test could not be run over the averaging period, as a percent","percent"
+"SWS_1_minute","VSICNullFailQM","Volumetric soil ion content quality metric that summarizes the failed outcomes of the null test over the averaging period, as a percent","percent"
+"SWS_1_minute","VSICNullPassQM","Volumetric soil ion content quality metric that summarizes the passed outcomes of the null test over the averaging period, as a percent","percent"
+"SWS_1_minute","VSICNullNAQM","Volumetric soil ion content quality metric that summarizes when the null test could not be run over the averaging period, as a percent","percent"
+"SWS_1_minute","VSICGapFailQM","Volumetric soil ion content quality metric that summarizes the failed outcomes of the gap test over the averaging period, as a percent","percent"
+"SWS_1_minute","VSICGapPassQM","Volumetric soil ion content quality metric that summarizes the passed outcomes of the gap test over the averaging period, as a percent","percent"
+"SWS_1_minute","VSICGapNAQM","Volumetric soil ion content quality metric that summarizes when the gap test could not be run over the averaging period, as a percent","percent"
+"SWS_1_minute","VSICSpikeFailQM","Volumetric soil ion content quality metric that summarizes the failed outcomes of the spike test over the averaging period, as a percent","percent"
+"SWS_1_minute","VSICSpikePassQM","Volumetric soil ion content quality metric that summarizes the passed outcomes of the spike test over the averaging period, as a percent","percent"
+"SWS_1_minute","VSICSpikeNAQM","Volumetric soil ion content quality metric that summarizes when the spike test could not be run over the averaging period, as a percent","percent"
+"SWS_1_minute","VSICValidCalFailQM","Volumetric soil ion content quality metric that summarizes the failed outcomes of the valid calibration check over the averaging period, as a percent","percent"
+"SWS_1_minute","VSICValidCalPassQM","Volumetric soil ion content quality metric that summarizes the passed outcomes of the valid calibration check over the averaging period, as a percent","percent"
+"SWS_1_minute","VSICValidCalNAQM","Volumetric soil ion content quality metric that summarizes when the valid calibration check could not be run over the averaging period, as a percent","percent"
+"SWS_1_minute","VSICAlphaQM","Volumetric soil ion content quality metric detailing the outcomes of the alpha quality flag over the averaging period, as a percent and detailed in NEON.DOC.001113","percent"
+"SWS_1_minute","VSICBetaQM","Volumetric soil ion content quality metric detailing the outcomes of the beta quality flag over the averaging period, as a percent and detailed in NEON.DOC.001113","percent"
+"SWS_1_minute","VSICFinalQF","Volumetric soil ion content quality flag indicating whether a data product has passed or failed an overall assessment of its quality, detailed in NEON.DOC.001113 (1=fail, 0=pass)",NA
+"SWS_1_minute","VSICFinalQFSciRvw","Volumetric soil ion content quality flag indicating whether a data product has failed a science review of its quality, detailed in NEON.DOC.001113 (2=fail and data redacted, 1=fail but data retained and may be useful with additional corrections or filtering, 0=previous quality concern resolved and final quality flag correctly reflects data quality, Empty=pass/not reviewed)",NA
+"SWS_1_minute","tempFailQM","Quality metric that summarizes the failed outcomes of the temperature test over the averaging period, as a percent","percent"
+"SWS_1_minute","tempPassQM","Quality metric that summarizes the passed outcomes of the temperature test over the averaging period, as a percent","percent"
+"SWS_1_minute","tempNAQM","Quality metric that summarizes when the temperature test could not be run over the averaging period, as a percent","percent"
+"SWS_1_minute","calDefaultQM","Quality metric that summarizes the occurrence of manufacturer default calibration coefficient outcomes of the calibration test over the averaging period, as a percent","percent"
+"SWS_1_minute","calNEONQM","Quality metric that summarizes the occurrence of NEON site- and depth-specific calibration coefficient outcomes of the calibration test over the averaging period, as a percent","percent"
+"SWS_1_minute","calNAQM","Quality metric that summarizes when the calibration test could not be run over the averaging period, as a percent","percent"
+"SWS_1_minute","publicationDate","Date of data publication on the NEON data portal",NA
+"SWS_1_minute","release","Identifier for data release",NA
+"SWS_30_minute","domainID","Unique identifier of the NEON domain",NA
+"SWS_30_minute","siteID","NEON site code",NA
+"SWS_30_minute","horizontalPosition","Index of horizontal location at a NEON site",NA
+"SWS_30_minute","verticalPosition","Index of vertical location at a NEON site",NA
+"SWS_30_minute","startDateTime","Date and time at which a sampling is initiated",NA
+"SWS_30_minute","endDateTime","Date and time at which a sampling is completed",NA
+"SWS_30_minute","VSWCMean","Arithmetic mean of volumetric soil water content","cubicCentimetersPerCubicCentimeter"
+"SWS_30_minute","VSWCMinimum","Minimum volumetric soil water content","cubicCentimetersPerCubicCentimeter"
+"SWS_30_minute","VSWCMaximum","Maximum volumetric soil water content","cubicCentimetersPerCubicCentimeter"
+"SWS_30_minute","VSWCVariance","Variance in volumetric soil water content","cubicCentimetersPerCubicCentimeterSquared"
+"SWS_30_minute","VSWCNumPts","Number of points used to calculate the arithmetic mean of volumetric soil water content","number"
+"SWS_30_minute","VSWCExpUncert","Expanded uncertainty for volumetric soil water content","cubicCentimetersPerCubicCentimeter"
+"SWS_30_minute","VSWCStdErMean","Standard error of the mean for volumetric soil water content","cubicCentimetersPerCubicCentimeter"
+"SWS_30_minute","VSWCRangeFailQM","Volumetric soil water content quality metric that summarizes the failed outcomes of the range test over the averaging period, as a percent","percent"
+"SWS_30_minute","VSWCRangePassQM","Volumetric soil water content quality metric that summarizes the passed outcomes of the range test over the averaging period, as a percent","percent"
+"SWS_30_minute","VSWCRangeNAQM","Volumetric soil water content quality metric that summarizes when the range test could not be run over the averaging period, as a percent","percent"
+"SWS_30_minute","VSWCPersistenceFailQM","Volumetric soil water content quality metric that summarizes  the failed outcomes of the persistence test over the averaging period, as a percent","percent"
+"SWS_30_minute","VSWCPersistencePassQM","Volumetric soil water content quality metric that summarizes the passed outcomes of the persistence test over the averaging period, as a percent","percent"
+"SWS_30_minute","VSWCPersistenceNAQM","Volumetric soil water content quality metric that summarizes when the persistence test could not be run over the averaging period, as a percent","percent"
+"SWS_30_minute","VSWCStepFailQM","Volumetric soil water content quality metric that summarizes the failed outcomes of the step test over the averaging period, as a percent","percent"
+"SWS_30_minute","VSWCStepPassQM","Volumetric soil water content quality metric that summarizes the passed outcomes of the step test over the averaging period, as a percent","percent"
+"SWS_30_minute","VSWCStepNAQM","Volumetric soil water content quality metric that summarizes when the step test could not be run over the averaging period, as a percent","percent"
+"SWS_30_minute","VSWCNullFailQM","Volumetric soil water content quality metric that summarizes the failed outcomes of the null test over the averaging period, as a percent","percent"
+"SWS_30_minute","VSWCNullPassQM","Volumetric soil water content quality metric that summarizes the passed outcomes of the null test over the averaging period, as a percent","percent"
+"SWS_30_minute","VSWCNullNAQM","Volumetric soil water content quality metric that summarizes when the null test could not be run over the averaging period, as a percent","percent"
+"SWS_30_minute","VSWCGapFailQM","Volumetric soil water content quality metric that summarizes the failed outcomes of the gap test over the averaging period, as a percent","percent"
+"SWS_30_minute","VSWCGapPassQM","Volumetric soil water content quality metric that summarizes the passed outcomes of the gap test over the averaging period, as a percent","percent"
+"SWS_30_minute","VSWCGapNAQM","Volumetric soil water content quality metric that summarizes when the gap test could not be run over the averaging period, as a percent","percent"
+"SWS_30_minute","VSWCSpikeFailQM","Volumetric soil water content quality metric that summarizes the failed outcomes of the spike test over the averaging period, as a percent","percent"
+"SWS_30_minute","VSWCSpikePassQM","Volumetric soil water content quality metric that summarizes the passed outcomes of the spike test over the averaging period, as a percent","percent"
+"SWS_30_minute","VSWCSpikeNAQM","Volumetric soil water content quality metric that summarizes when the spike test could not be run over the averaging period, as a percent","percent"
+"SWS_30_minute","VSWCValidCalFailQM","Volumetric soil water content quality metric that summarizes the failed outcomes of the valid calibration check over the averaging period, as a percent","percent"
+"SWS_30_minute","VSWCValidCalPassQM","Volumetric soil water content quality metric that summarizes the passed outcomes of the valid calibration check over the averaging period, as a percent","percent"
+"SWS_30_minute","VSWCValidCalNAQM","Volumetric soil water content quality metric that summarizes when the valid calibration check could not be run over the averaging period, as a percent","percent"
+"SWS_30_minute","VSWCAlphaQM","Volumetric soil water content quality metric detailing the outcomes of the alpha quality flag over the averaging period, as a percent and detailed in NEON.DOC.001113","percent"
+"SWS_30_minute","VSWCBetaQM","Volumetric soil water content quality metric detailing the outcomes of the beta quality flag over the averaging period, as a percent and detailed in NEON.DOC.001113","percent"
+"SWS_30_minute","VSWCFinalQF","Volumetric soil water content quality flag indicating whether a data product has passed or failed an overall assessment of its quality, detailed in NEON.DOC.001113 (1=fail, 0=pass)",NA
+"SWS_30_minute","VSWCFinalQFSciRvw","Volumetric soil water content quality flag indicating whether a data product has failed a science review of its quality, detailed in NEON.DOC.001113 (2=fail and data redacted, 1=fail but data retained and may be useful with additional corrections or filtering, 0=previous quality concern resolved and final quality flag correctly reflects data quality, Empty=pass/not reviewed)",NA
+"SWS_30_minute","VSICMean","Arithmetic mean of volumetric soil ion content","dimensionless"
+"SWS_30_minute","VSICMinimum","Minimum volumetric soil ion content","dimensionless"
+"SWS_30_minute","VSICMaximum","Maximum volumetric soil ion content","dimensionless"
+"SWS_30_minute","VSICVariance","Variance in volumetric soil ion content","dimensionless"
+"SWS_30_minute","VSICNumPts","Number of points used to calculate the arithmetic mean of volumetric soil ion content",NA
+"SWS_30_minute","VSICExpUncert","Expanded uncertainty for volumetric soil ion content","dimensionless"
+"SWS_30_minute","VSICStdErMean","Standard error of the mean for volumetric soil ion content","dimensionless"
+"SWS_30_minute","VSICRangeFailQM","Volumetric soil ion content quality metric that summarizes the failed outcomes of the range test over the averaging period, as a percent","percent"
+"SWS_30_minute","VSICRangePassQM","Volumetric soil ion content quality metric that summarizes the passed outcomes of the range test over the averaging period, as a percent","percent"
+"SWS_30_minute","VSICRangeNAQM","Volumetric soil ion content quality metric that summarizes when the range test could not be run over the averaging period, as a percent","percent"
+"SWS_30_minute","VSICPersistenceFailQM","Volumetric soil ion content quality metric that summarizes  the failed outcomes of the persistence test over the averaging period, as a percent","percent"
+"SWS_30_minute","VSICPersistencePassQM","Volumetric soil ion content quality metric that summarizes the passed outcomes of the persistence test over the averaging period, as a percent","percent"
+"SWS_30_minute","VSICPersistenceNAQM","Volumetric soil ion content quality metric that summarizes when the persistence test could not be run over the averaging period, as a percent","percent"
+"SWS_30_minute","VSICStepFailQM","Volumetric soil ion content quality metric that summarizes the failed outcomes of the step test over the averaging period, as a percent","percent"
+"SWS_30_minute","VSICStepPassQM","Volumetric soil ion content quality metric that summarizes the passed outcomes of the step test over the averaging period, as a percent","percent"
+"SWS_30_minute","VSICStepNAQM","Volumetric soil ion content quality metric that summarizes when the step test could not be run over the averaging period, as a percent","percent"
+"SWS_30_minute","VSICNullFailQM","Volumetric soil ion content quality metric that summarizes the failed outcomes of the null test over the averaging period, as a percent","percent"
+"SWS_30_minute","VSICNullPassQM","Volumetric soil ion content quality metric that summarizes the passed outcomes of the null test over the averaging period, as a percent","percent"
+"SWS_30_minute","VSICNullNAQM","Volumetric soil ion content quality metric that summarizes when the null test could not be run over the averaging period, as a percent","percent"
+"SWS_30_minute","VSICGapFailQM","Volumetric soil ion content quality metric that summarizes the failed outcomes of the gap test over the averaging period, as a percent","percent"
+"SWS_30_minute","VSICGapPassQM","Volumetric soil ion content quality metric that summarizes the passed outcomes of the gap test over the averaging period, as a percent","percent"
+"SWS_30_minute","VSICGapNAQM","Volumetric soil ion content quality metric that summarizes when the gap test could not be run over the averaging period, as a percent","percent"
+"SWS_30_minute","VSICSpikeFailQM","Volumetric soil ion content quality metric that summarizes the failed outcomes of the spike test over the averaging period, as a percent","percent"
+"SWS_30_minute","VSICSpikePassQM","Volumetric soil ion content quality metric that summarizes the passed outcomes of the spike test over the averaging period, as a percent","percent"
+"SWS_30_minute","VSICSpikeNAQM","Volumetric soil ion content quality metric that summarizes when the spike test could not be run over the averaging period, as a percent","percent"
+"SWS_30_minute","VSICValidCalFailQM","Volumetric soil ion content quality metric that summarizes the failed outcomes of the valid calibration check over the averaging period, as a percent","percent"
+"SWS_30_minute","VSICValidCalPassQM","Volumetric soil ion content quality metric that summarizes the passed outcomes of the valid calibration check over the averaging period, as a percent","percent"
+"SWS_30_minute","VSICValidCalNAQM","Volumetric soil ion content quality metric that summarizes when the valid calibration check could not be run over the averaging period, as a percent","percent"
+"SWS_30_minute","VSICAlphaQM","Volumetric soil ion content quality metric detailing the outcomes of the alpha quality flag over the averaging period, as a percent and detailed in NEON.DOC.001113","percent"
+"SWS_30_minute","VSICBetaQM","Volumetric soil ion content quality metric detailing the outcomes of the beta quality flag over the averaging period, as a percent and detailed in NEON.DOC.001113","percent"
+"SWS_30_minute","VSICFinalQF","Volumetric soil ion content quality flag indicating whether a data product has passed or failed an overall assessment of its quality, detailed in NEON.DOC.001113 (1=fail, 0=pass)",NA
+"SWS_30_minute","VSICFinalQFSciRvw","Volumetric soil ion content quality flag indicating whether a data product has failed a science review of its quality, detailed in NEON.DOC.001113 (2=fail and data redacted, 1=fail but data retained and may be useful with additional corrections or filtering, 0=previous quality concern resolved and final quality flag correctly reflects data quality, Empty=pass/not reviewed)",NA
+"SWS_30_minute","tempFailQM","Quality metric that summarizes the failed outcomes of the temperature test over the averaging period, as a percent","percent"
+"SWS_30_minute","tempPassQM","Quality metric that summarizes the passed outcomes of the temperature test over the averaging period, as a percent","percent"
+"SWS_30_minute","tempNAQM","Quality metric that summarizes when the temperature test could not be run over the averaging period, as a percent","percent"
+"SWS_30_minute","calDefaultQM","Quality metric that summarizes the occurrence of manufacturer default calibration coefficient outcomes of the calibration test over the averaging period, as a percent","percent"
+"SWS_30_minute","calNEONQM","Quality metric that summarizes the occurrence of NEON site- and depth-specific calibration coefficient outcomes of the calibration test over the averaging period, as a percent","percent"
+"SWS_30_minute","calNAQM","Quality metric that summarizes when the calibration test could not be run over the averaging period, as a percent","percent"
+"SWS_30_minute","publicationDate","Date of data publication on the NEON data portal",NA
+"SWS_30_minute","release","Identifier for data release",NA
