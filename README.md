@@ -4,7 +4,6 @@ This repository contains environmental datasets compiled from the National Ecolo
 Reference: (NEON Data Portal: https://data.neonscience.org).
 Each dataset is accompanied by a metadata file describing variables, units, and data provenance.
 
-
 * Temporal Coverage: January 2018 – December 2024 (All summaries were generated using NEON observations available through the 2024 data release)
 
 * Data Organization: Each environmental variable is stored in its own directory and includes:
