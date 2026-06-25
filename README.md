@@ -2,7 +2,7 @@
 
 This repository contains environmental datasets compiled from the National Ecological Observatory Network (NEON) 
 Reference: (NEON Data Portal: https://data.neonscience.org).
-Each dataset is accompanied by a metadata file describing variables, units, and data provenance.
+Each dataset is accompanied by a metadata file describing variables, units, and data provenance. Each folder also contains a unique R scripts that I have used for downloading the data belongs to each DP code.
 
 * Temporal Coverage: January 2018 – December 2024 (All summaries were generated using NEON observations available through the 2024 data release)
 
