@@ -1,0 +1,11 @@
+dpID,site,table,years_averaged,siteID,plotID,namedLocation,plotType,n_raw_records,incubationLength_mean_2018_2024,soilFreshMass_mean_2018_2024,kclVolume_mean_2018_2024,year_download_mean_2018_2024,collectYear_mean_2018_2024,incubationLength_mean_2018_2024_unit,soilFreshMass_mean_2018_2024_unit,kclVolume_mean_2018_2024_unit,year_download_mean_2018_2024_unit,collectYear_mean_2018_2024_unit
+DP1.10086.001,STEI,ntr_internalLab,2018-2024,STEI,STEI_001,STEI_001.basePlot.bgc,distributed,10,9.948,10.124,100.2,2022,2022,day,gram,milliliter,NA,NA
+DP1.10086.001,STEI,ntr_internalLab,2018-2024,STEI,STEI_002,STEI_002.basePlot.bgc,distributed,12,9.953333333333333,10.2,99.75,2022,2022,day,gram,milliliter,NA,NA
+DP1.10086.001,STEI,ntr_internalLab,2018-2024,STEI,STEI_003,STEI_003.basePlot.bgc,distributed,16,10.7025,10.0975,100.25,2022,2022,day,gram,milliliter,NA,NA
+DP1.10086.001,STEI,ntr_internalLab,2018-2024,STEI,STEI_004,STEI_004.basePlot.bgc,distributed,12,10.03,10.270833333333334,99.83333333333333,2022,2022,day,gram,milliliter,NA,NA
+DP1.10086.001,STEI,ntr_internalLab,2018-2024,STEI,STEI_008,STEI_008.basePlot.bgc,distributed,12,10.0025,10.206666666666667,100,2022,2022,day,gram,milliliter,NA,NA
+DP1.10086.001,STEI,ntr_internalLab,2018-2024,STEI,STEI_021,STEI_021.basePlot.bgc,distributed,19,10.29,10.158947368421053,100.05263157894737,2022,2022,day,gram,milliliter,NA,NA
+DP1.10086.001,STEI,ntr_internalLab,2018-2024,STEI,STEI_047,STEI_047.basePlot.bgc,tower,18,10.706111111111111,10.225555555555555,99.83333333333333,2022,2022,day,gram,milliliter,NA,NA
+DP1.10086.001,STEI,ntr_internalLab,2018-2024,STEI,STEI_053,STEI_053.basePlot.bgc,tower,18,10.351666666666667,10.022777777777778,100.11111111111111,2022,2022,day,gram,milliliter,NA,NA
+DP1.10086.001,STEI,ntr_internalLab,2018-2024,STEI,STEI_059,STEI_059.basePlot.bgc,tower,18,10.696111111111112,10.166666666666666,100,2022,2022,day,gram,milliliter,NA,NA
+DP1.10086.001,STEI,ntr_internalLab,2018-2024,STEI,STEI_060,STEI_060.basePlot.bgc,tower,20,9.3175,10.1395,99.8,2022,2022,day,gram,milliliter,NA,NA

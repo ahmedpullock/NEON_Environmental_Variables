@@ -1,0 +1,11 @@
+dpID,site,table,years_averaged,siteID,plotID,namedLocation,n_raw_records,year_download_mean_2018_2024,collectYear_mean_2018_2024,year_download_mean_2018_2024_unit,collectYear_mean_2018_2024_unit
+DP1.10086.001,DEJU,sls_metagenomicsPooling,2018-2024,DEJU,DEJU_001,DEJU_001.basePlot.bgc,3,2019.6666666666667,2019.6666666666667,NA,NA
+DP1.10086.001,DEJU,sls_metagenomicsPooling,2018-2024,DEJU,DEJU_002,DEJU_002.basePlot.bgc,4,2020.5,2020.5,NA,NA
+DP1.10086.001,DEJU,sls_metagenomicsPooling,2018-2024,DEJU,DEJU_006,DEJU_006.basePlot.bgc,4,2020.5,2020.5,NA,NA
+DP1.10086.001,DEJU,sls_metagenomicsPooling,2018-2024,DEJU,DEJU_009,DEJU_009.basePlot.bgc,4,2020.5,2020.5,NA,NA
+DP1.10086.001,DEJU,sls_metagenomicsPooling,2018-2024,DEJU,DEJU_014,DEJU_014.basePlot.bgc,4,2020.5,2020.5,NA,NA
+DP1.10086.001,DEJU,sls_metagenomicsPooling,2018-2024,DEJU,DEJU_015,DEJU_015.basePlot.bgc,4,2020.5,2020.5,NA,NA
+DP1.10086.001,DEJU,sls_metagenomicsPooling,2018-2024,DEJU,DEJU_045,DEJU_045.basePlot.bgc,4,2020.5,2020.5,NA,NA
+DP1.10086.001,DEJU,sls_metagenomicsPooling,2018-2024,DEJU,DEJU_046,DEJU_046.basePlot.bgc,4,2020.5,2020.5,NA,NA
+DP1.10086.001,DEJU,sls_metagenomicsPooling,2018-2024,DEJU,DEJU_047,DEJU_047.basePlot.bgc,4,2020.5,2020.5,NA,NA
+DP1.10086.001,DEJU,sls_metagenomicsPooling,2018-2024,DEJU,DEJU_048,DEJU_048.basePlot.bgc,4,2020.5,2020.5,NA,NA

@@ -1,0 +1,11 @@
+dpID,site,table,years_averaged,siteID,plotID,namedLocation,horizon,n_raw_records,bgcArchiveMass_mean_2018_2024,year_download_mean_2018_2024,collectYear_mean_2018_2024,bgcArchiveMass_mean_2018_2024_unit,year_download_mean_2018_2024_unit,collectYear_mean_2018_2024_unit
+DP1.10086.001,OAES,sls_bgcSubsampling,2018-2024,OAES,OAES_001,OAES_001.basePlot.bgc,M,6,220.23333333333332,2020.5,2020.5,gram,NA,NA
+DP1.10086.001,OAES,sls_bgcSubsampling,2018-2024,OAES,OAES_002,OAES_002.basePlot.bgc,M,6,207.93333333333334,2020.5,2020.5,gram,NA,NA
+DP1.10086.001,OAES,sls_bgcSubsampling,2018-2024,OAES,OAES_003,OAES_003.basePlot.bgc,M,6,211.9,2020.5,2020.5,gram,NA,NA
+DP1.10086.001,OAES,sls_bgcSubsampling,2018-2024,OAES,OAES_004,OAES_004.basePlot.bgc,M,6,199.9,2020.5,2020.5,gram,NA,NA
+DP1.10086.001,OAES,sls_bgcSubsampling,2018-2024,OAES,OAES_007,OAES_007.basePlot.bgc,M,6,224.36666666666667,2020.5,2020.5,gram,NA,NA
+DP1.10086.001,OAES,sls_bgcSubsampling,2018-2024,OAES,OAES_009,OAES_009.basePlot.bgc,M,6,224.20000000000002,2020.5,2020.5,gram,NA,NA
+DP1.10086.001,OAES,sls_bgcSubsampling,2018-2024,OAES,OAES_042,OAES_042.basePlot.bgc,M,6,226.5,2020.5,2020.5,gram,NA,NA
+DP1.10086.001,OAES,sls_bgcSubsampling,2018-2024,OAES,OAES_043,OAES_043.basePlot.bgc,M,6,233.29999999999998,2020.5,2020.5,gram,NA,NA
+DP1.10086.001,OAES,sls_bgcSubsampling,2018-2024,OAES,OAES_044,OAES_044.basePlot.bgc,M,6,208.70000000000002,2020.5,2020.5,gram,NA,NA
+DP1.10086.001,OAES,sls_bgcSubsampling,2018-2024,OAES,OAES_045,OAES_045.basePlot.bgc,M,6,214.63333333333333,2020.5,2020.5,gram,NA,NA

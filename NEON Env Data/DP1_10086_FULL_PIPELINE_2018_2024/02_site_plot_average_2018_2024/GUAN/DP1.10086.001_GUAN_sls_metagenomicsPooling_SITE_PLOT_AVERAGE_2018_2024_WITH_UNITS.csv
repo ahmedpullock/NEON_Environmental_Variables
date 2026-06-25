@@ -1,0 +1,11 @@
+dpID,site,table,years_averaged,siteID,plotID,namedLocation,n_raw_records,year_download_mean_2018_2024,collectYear_mean_2018_2024,year_download_mean_2018_2024_unit,collectYear_mean_2018_2024_unit
+DP1.10086.001,GUAN,sls_metagenomicsPooling,2018-2024,GUAN,GUAN_001,GUAN_001.basePlot.bgc,7,2021,2021,NA,NA
+DP1.10086.001,GUAN,sls_metagenomicsPooling,2018-2024,GUAN,GUAN_002,GUAN_002.basePlot.bgc,7,2021,2021,NA,NA
+DP1.10086.001,GUAN,sls_metagenomicsPooling,2018-2024,GUAN,GUAN_003,GUAN_003.basePlot.bgc,7,2021,2021,NA,NA
+DP1.10086.001,GUAN,sls_metagenomicsPooling,2018-2024,GUAN,GUAN_004,GUAN_004.basePlot.bgc,7,2021,2021,NA,NA
+DP1.10086.001,GUAN,sls_metagenomicsPooling,2018-2024,GUAN,GUAN_006,GUAN_006.basePlot.bgc,7,2021,2021,NA,NA
+DP1.10086.001,GUAN,sls_metagenomicsPooling,2018-2024,GUAN,GUAN_007,GUAN_007.basePlot.bgc,7,2021,2021,NA,NA
+DP1.10086.001,GUAN,sls_metagenomicsPooling,2018-2024,GUAN,GUAN_042,GUAN_042.basePlot.bgc,7,2021,2021,NA,NA
+DP1.10086.001,GUAN,sls_metagenomicsPooling,2018-2024,GUAN,GUAN_043,GUAN_043.basePlot.bgc,7,2021,2021,NA,NA
+DP1.10086.001,GUAN,sls_metagenomicsPooling,2018-2024,GUAN,GUAN_048,GUAN_048.basePlot.bgc,7,2021,2021,NA,NA
+DP1.10086.001,GUAN,sls_metagenomicsPooling,2018-2024,GUAN,GUAN_049,GUAN_049.basePlot.bgc,7,2021,2021,NA,NA

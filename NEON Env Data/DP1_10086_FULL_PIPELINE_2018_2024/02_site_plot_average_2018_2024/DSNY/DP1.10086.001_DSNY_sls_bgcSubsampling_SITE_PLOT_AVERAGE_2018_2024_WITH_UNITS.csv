@@ -1,0 +1,11 @@
+dpID,site,table,years_averaged,siteID,plotID,namedLocation,horizon,n_raw_records,bgcArchiveMass_mean_2018_2024,year_download_mean_2018_2024,collectYear_mean_2018_2024,bgcArchiveMass_mean_2018_2024_unit,year_download_mean_2018_2024_unit,collectYear_mean_2018_2024_unit
+DP1.10086.001,DSNY,sls_bgcSubsampling,2018-2024,DSNY,DSNY_001,DSNY_001.basePlot.bgc,M,6,281.26666666666665,2020.5,2020.5,gram,NA,NA
+DP1.10086.001,DSNY,sls_bgcSubsampling,2018-2024,DSNY,DSNY_003,DSNY_003.basePlot.bgc,M,6,276.3,2020.5,2020.5,gram,NA,NA
+DP1.10086.001,DSNY,sls_bgcSubsampling,2018-2024,DSNY,DSNY_004,DSNY_004.basePlot.bgc,M,6,235.96666666666667,2020.5,2020.5,gram,NA,NA
+DP1.10086.001,DSNY,sls_bgcSubsampling,2018-2024,DSNY,DSNY_005,DSNY_005.basePlot.bgc,M,6,255.03333333333333,2020.5,2020.5,gram,NA,NA
+DP1.10086.001,DSNY,sls_bgcSubsampling,2018-2024,DSNY,DSNY_006,DSNY_006.basePlot.bgc,M,6,311.4,2020.5,2020.5,gram,NA,NA
+DP1.10086.001,DSNY,sls_bgcSubsampling,2018-2024,DSNY,DSNY_009,DSNY_009.basePlot.bgc,M,6,242.96666666666667,2020.5,2020.5,gram,NA,NA
+DP1.10086.001,DSNY,sls_bgcSubsampling,2018-2024,DSNY,DSNY_041,DSNY_041.basePlot.bgc,M,6,273.46666666666664,2020.5,2020.5,gram,NA,NA
+DP1.10086.001,DSNY,sls_bgcSubsampling,2018-2024,DSNY,DSNY_042,DSNY_042.basePlot.bgc,M,6,202.53333333333333,2020.5,2020.5,gram,NA,NA
+DP1.10086.001,DSNY,sls_bgcSubsampling,2018-2024,DSNY,DSNY_043,DSNY_043.basePlot.bgc,M,6,272.1,2020.5,2020.5,gram,NA,NA
+DP1.10086.001,DSNY,sls_bgcSubsampling,2018-2024,DSNY,DSNY_044,DSNY_044.basePlot.bgc,M,6,287.8333333333333,2020.5,2020.5,gram,NA,NA

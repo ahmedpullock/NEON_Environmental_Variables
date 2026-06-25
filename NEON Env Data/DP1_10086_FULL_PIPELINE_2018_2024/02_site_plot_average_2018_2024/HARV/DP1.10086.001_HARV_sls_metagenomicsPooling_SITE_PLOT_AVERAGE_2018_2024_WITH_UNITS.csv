@@ -1,0 +1,11 @@
+dpID,site,table,years_averaged,siteID,plotID,namedLocation,n_raw_records,year_download_mean_2018_2024,collectYear_mean_2018_2024,year_download_mean_2018_2024_unit,collectYear_mean_2018_2024_unit
+DP1.10086.001,HARV,sls_metagenomicsPooling,2018-2024,HARV,HARV_001,HARV_001.basePlot.bgc,9,2021,2021,NA,NA
+DP1.10086.001,HARV,sls_metagenomicsPooling,2018-2024,HARV,HARV_002,HARV_002.basePlot.bgc,9,2021,2021,NA,NA
+DP1.10086.001,HARV,sls_metagenomicsPooling,2018-2024,HARV,HARV_004,HARV_004.basePlot.bgc,9,2021,2021,NA,NA
+DP1.10086.001,HARV,sls_metagenomicsPooling,2018-2024,HARV,HARV_005,HARV_005.basePlot.bgc,9,2021,2021,NA,NA
+DP1.10086.001,HARV,sls_metagenomicsPooling,2018-2024,HARV,HARV_013,HARV_013.basePlot.bgc,9,2021,2021,NA,NA
+DP1.10086.001,HARV,sls_metagenomicsPooling,2018-2024,HARV,HARV_021,HARV_021.basePlot.bgc,9,2021,2021,NA,NA
+DP1.10086.001,HARV,sls_metagenomicsPooling,2018-2024,HARV,HARV_033,HARV_033.basePlot.bgc,9,2021,2021,NA,NA
+DP1.10086.001,HARV,sls_metagenomicsPooling,2018-2024,HARV,HARV_034,HARV_034.basePlot.bgc,9,2021,2021,NA,NA
+DP1.10086.001,HARV,sls_metagenomicsPooling,2018-2024,HARV,HARV_035,HARV_035.basePlot.bgc,9,2021,2021,NA,NA
+DP1.10086.001,HARV,sls_metagenomicsPooling,2018-2024,HARV,HARV_037,HARV_037.basePlot.bgc,9,2021,2021,NA,NA

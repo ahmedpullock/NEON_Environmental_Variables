@@ -1,0 +1,11 @@
+dpID,site,table,years_averaged,siteID,plotID,namedLocation,plotType,n_raw_records,incubationLength_mean_2018_2024,soilFreshMass_mean_2018_2024,kclVolume_mean_2018_2024,year_download_mean_2018_2024,collectYear_mean_2018_2024,incubationLength_mean_2018_2024_unit,soilFreshMass_mean_2018_2024_unit,kclVolume_mean_2018_2024_unit,year_download_mean_2018_2024_unit,collectYear_mean_2018_2024_unit
+DP1.10086.001,SERC,ntr_internalLab,2018-2024,SERC,SERC_001,SERC_001.basePlot.bgc,distributed,18,10.66611111111111,6.78,66.77777777777777,2021,2021,day,gram,milliliter,NA,NA
+DP1.10086.001,SERC,ntr_internalLab,2018-2024,SERC,SERC_002,SERC_002.basePlot.bgc,distributed,18,10.351111111111111,6.777777777777778,66.44444444444444,2021,2021,day,gram,milliliter,NA,NA
+DP1.10086.001,SERC,ntr_internalLab,2018-2024,SERC,SERC_003,SERC_003.basePlot.bgc,distributed,18,10.328333333333333,6.756111111111111,67,2021,2021,day,gram,milliliter,NA,NA
+DP1.10086.001,SERC,ntr_internalLab,2018-2024,SERC,SERC_004,SERC_004.basePlot.bgc,distributed,12,10.2875,5.135833333333333,50,2021,2021,day,gram,milliliter,NA,NA
+DP1.10086.001,SERC,ntr_internalLab,2018-2024,SERC,SERC_005,SERC_005.basePlot.bgc,distributed,12,10.256666666666668,5.109166666666667,49.916666666666664,2021,2021,day,gram,milliliter,NA,NA
+DP1.10086.001,SERC,ntr_internalLab,2018-2024,SERC,SERC_007,SERC_007.basePlot.bgc,distributed,18,10.455,6.799444444444444,66.88888888888889,2021,2021,day,gram,milliliter,NA,NA
+DP1.10086.001,SERC,ntr_internalLab,2018-2024,SERC,SERC_044,SERC_044.basePlot.bgc,tower,18,10.185555555555556,6.835555555555556,66.77777777777777,2021,2021,day,gram,milliliter,NA,NA
+DP1.10086.001,SERC,ntr_internalLab,2018-2024,SERC,SERC_045,SERC_045.basePlot.bgc,tower,18,10.498333333333333,6.756111111111111,66.94444444444444,2021,2021,day,gram,milliliter,NA,NA
+DP1.10086.001,SERC,ntr_internalLab,2018-2024,SERC,SERC_047,SERC_047.basePlot.bgc,tower,18,10.374444444444444,6.745555555555556,66.77777777777777,2021,2021,day,gram,milliliter,NA,NA
+DP1.10086.001,SERC,ntr_internalLab,2018-2024,SERC,SERC_049,SERC_049.basePlot.bgc,tower,18,10.353333333333333,6.735,66.72222222222223,2021,2021,day,gram,milliliter,NA,NA

@@ -1,0 +1,11 @@
+dpID,site,table,years_averaged,siteID,plotID,namedLocation,plotType,n_raw_records,incubationLength_mean_2018_2024,soilFreshMass_mean_2018_2024,kclVolume_mean_2018_2024,year_download_mean_2018_2024,collectYear_mean_2018_2024,incubationLength_mean_2018_2024_unit,soilFreshMass_mean_2018_2024_unit,kclVolume_mean_2018_2024_unit,year_download_mean_2018_2024_unit,collectYear_mean_2018_2024_unit
+DP1.10086.001,MOAB,ntr_internalLab,2018-2024,MOAB,MOAB_001,MOAB_001.basePlot.bgc,distributed,18,10.462777777777777,10.121666666666666,100,2022,2022,day,gram,milliliter,NA,NA
+DP1.10086.001,MOAB,ntr_internalLab,2018-2024,MOAB,MOAB_002,MOAB_002.basePlot.bgc,distributed,18,10.477222222222222,9.246666666666666,91.66666666666667,2022,2022,day,gram,milliliter,NA,NA
+DP1.10086.001,MOAB,ntr_internalLab,2018-2024,MOAB,MOAB_003,MOAB_003.basePlot.bgc,distributed,18,10.472222222222221,10.146666666666667,100,2022,2022,day,gram,milliliter,NA,NA
+DP1.10086.001,MOAB,ntr_internalLab,2018-2024,MOAB,MOAB_004,MOAB_004.basePlot.bgc,distributed,12,10.498333333333333,10.165,100,2022,2022,day,gram,milliliter,NA,NA
+DP1.10086.001,MOAB,ntr_internalLab,2018-2024,MOAB,MOAB_005,MOAB_005.basePlot.bgc,distributed,18,10.48611111111111,9.295,91.66666666666667,2022,2022,day,gram,milliliter,NA,NA
+DP1.10086.001,MOAB,ntr_internalLab,2018-2024,MOAB,MOAB_006,MOAB_006.basePlot.bgc,distributed,12,10.491666666666667,10.175833333333333,100,2022,2022,day,gram,milliliter,NA,NA
+DP1.10086.001,MOAB,ntr_internalLab,2018-2024,MOAB,MOAB_044,MOAB_044.basePlot.bgc,tower,18,10.466666666666667,10.104444444444445,100,2022,2022,day,gram,milliliter,NA,NA
+DP1.10086.001,MOAB,ntr_internalLab,2018-2024,MOAB,MOAB_045,MOAB_045.basePlot.bgc,tower,18,10.491111111111111,10.159444444444444,100,2022,2022,day,gram,milliliter,NA,NA
+DP1.10086.001,MOAB,ntr_internalLab,2018-2024,MOAB,MOAB_046,MOAB_046.basePlot.bgc,tower,18,10.456111111111111,9.320555555555556,91.66666666666667,2022,2022,day,gram,milliliter,NA,NA
+DP1.10086.001,MOAB,ntr_internalLab,2018-2024,MOAB,MOAB_047,MOAB_047.basePlot.bgc,tower,18,10.466666666666667,9.283333333333333,91.66666666666667,2022,2022,day,gram,milliliter,NA,NA

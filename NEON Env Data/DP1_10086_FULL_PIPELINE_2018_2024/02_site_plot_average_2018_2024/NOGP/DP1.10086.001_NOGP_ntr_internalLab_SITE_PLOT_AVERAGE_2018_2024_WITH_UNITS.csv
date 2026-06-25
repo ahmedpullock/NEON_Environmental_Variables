@@ -1,0 +1,11 @@
+dpID,site,table,years_averaged,siteID,plotID,namedLocation,plotType,n_raw_records,incubationLength_mean_2018_2024,soilFreshMass_mean_2018_2024,kclVolume_mean_2018_2024,year_download_mean_2018_2024,collectYear_mean_2018_2024,incubationLength_mean_2018_2024_unit,soilFreshMass_mean_2018_2024_unit,kclVolume_mean_2018_2024_unit,year_download_mean_2018_2024_unit,collectYear_mean_2018_2024_unit
+DP1.10086.001,NOGP,ntr_internalLab,2018-2024,NOGP,NOGP_001,NOGP_001.basePlot.bgc,distributed,12,11.278333333333332,10.025,100,2020,2020,day,gram,milliliter,NA,NA
+DP1.10086.001,NOGP,ntr_internalLab,2018-2024,NOGP,NOGP_002,NOGP_002.basePlot.bgc,distributed,6,9.9783333333333335,10.026666666666667,100,2020,2020,day,gram,milliliter,NA,NA
+DP1.10086.001,NOGP,ntr_internalLab,2018-2024,NOGP,NOGP_003,NOGP_003.basePlot.bgc,distributed,12,10.020833333333334,10.090833333333332,100,2020,2020,day,gram,milliliter,NA,NA
+DP1.10086.001,NOGP,ntr_internalLab,2018-2024,NOGP,NOGP_005,NOGP_005.basePlot.bgc,distributed,12,10.01,10.030833333333334,100,2020,2020,day,gram,milliliter,NA,NA
+DP1.10086.001,NOGP,ntr_internalLab,2018-2024,NOGP,NOGP_006,NOGP_006.basePlot.bgc,distributed,6,9.996666666666666,9.998333333333333,100,2020,2020,day,gram,milliliter,NA,NA
+DP1.10086.001,NOGP,ntr_internalLab,2018-2024,NOGP,NOGP_012,NOGP_012.basePlot.bgc,distributed,12,9.998333333333333,10.041666666666666,100,2020,2020,day,gram,milliliter,NA,NA
+DP1.10086.001,NOGP,ntr_internalLab,2018-2024,NOGP,NOGP_061,NOGP_061.basePlot.bgc,tower,6,7.5,10.038333333333334,100,2020,2020,day,gram,milliliter,NA,NA
+DP1.10086.001,NOGP,ntr_internalLab,2018-2024,NOGP,NOGP_062,NOGP_062.basePlot.bgc,tower,6,7.578333333333333,10.051666666666666,100,2020,2020,day,gram,milliliter,NA,NA
+DP1.10086.001,NOGP,ntr_internalLab,2018-2024,NOGP,NOGP_064,NOGP_064.basePlot.bgc,tower,6,8.415,10.013333333333334,100,2020,2020,day,gram,milliliter,NA,NA
+DP1.10086.001,NOGP,ntr_internalLab,2018-2024,NOGP,NOGP_065,NOGP_065.basePlot.bgc,tower,7,7.207142857142857,9.281428571428572,92.85714285714286,2020,2020,day,gram,milliliter,NA,NA

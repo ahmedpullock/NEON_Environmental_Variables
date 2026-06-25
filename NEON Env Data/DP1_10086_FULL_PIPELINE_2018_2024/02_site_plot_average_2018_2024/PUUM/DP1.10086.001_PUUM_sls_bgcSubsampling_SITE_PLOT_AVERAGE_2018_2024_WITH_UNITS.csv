@@ -1,0 +1,15 @@
+dpID,site,table,years_averaged,siteID,plotID,namedLocation,horizon,n_raw_records,bgcArchiveMass_mean_2018_2024,year_download_mean_2018_2024,collectYear_mean_2018_2024,bgcArchiveMass_mean_2018_2024_unit,year_download_mean_2018_2024_unit,collectYear_mean_2018_2024_unit
+DP1.10086.001,PUUM,sls_bgcSubsampling,2018-2024,PUUM,PUUM_004,PUUM_004.basePlot.bgc,M,3,NA,2019,2019,gram,NA,NA
+DP1.10086.001,PUUM,sls_bgcSubsampling,2018-2024,PUUM,PUUM_006,PUUM_006.basePlot.bgc,M,3,NA,2019,2019,gram,NA,NA
+DP1.10086.001,PUUM,sls_bgcSubsampling,2018-2024,PUUM,PUUM_006,PUUM_006.basePlot.bgc,O,3,NA,2019,2019,gram,NA,NA
+DP1.10086.001,PUUM,sls_bgcSubsampling,2018-2024,PUUM,PUUM_007,PUUM_007.basePlot.bgc,M,3,NA,2019,2019,gram,NA,NA
+DP1.10086.001,PUUM,sls_bgcSubsampling,2018-2024,PUUM,PUUM_007,PUUM_007.basePlot.bgc,O,3,NA,2019,2019,gram,NA,NA
+DP1.10086.001,PUUM,sls_bgcSubsampling,2018-2024,PUUM,PUUM_010,PUUM_010.basePlot.bgc,M,3,NA,2019,2019,gram,NA,NA
+DP1.10086.001,PUUM,sls_bgcSubsampling,2018-2024,PUUM,PUUM_010,PUUM_010.basePlot.bgc,O,3,NA,2019,2019,gram,NA,NA
+DP1.10086.001,PUUM,sls_bgcSubsampling,2018-2024,PUUM,PUUM_014,PUUM_014.basePlot.bgc,O,3,NA,2019,2019,gram,NA,NA
+DP1.10086.001,PUUM,sls_bgcSubsampling,2018-2024,PUUM,PUUM_015,PUUM_015.basePlot.bgc,M,3,NA,2019,2019,gram,NA,NA
+DP1.10086.001,PUUM,sls_bgcSubsampling,2018-2024,PUUM,PUUM_015,PUUM_015.basePlot.bgc,O,3,NA,2019,2019,gram,NA,NA
+DP1.10086.001,PUUM,sls_bgcSubsampling,2018-2024,PUUM,PUUM_031,PUUM_031.basePlot.bgc,M,3,NA,2019,2019,gram,NA,NA
+DP1.10086.001,PUUM,sls_bgcSubsampling,2018-2024,PUUM,PUUM_032,PUUM_032.basePlot.bgc,O,3,NA,2019,2019,gram,NA,NA
+DP1.10086.001,PUUM,sls_bgcSubsampling,2018-2024,PUUM,PUUM_034,PUUM_034.basePlot.bgc,O,3,NA,2019,2019,gram,NA,NA
+DP1.10086.001,PUUM,sls_bgcSubsampling,2018-2024,PUUM,PUUM_036,PUUM_036.basePlot.bgc,O,3,NA,2019,2019,gram,NA,NA

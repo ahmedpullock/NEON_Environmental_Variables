@@ -1,0 +1,11 @@
+dpID,site,table,years_averaged,siteID,plotID,namedLocation,plotType,n_raw_records,incubationLength_mean_2018_2024,soilFreshMass_mean_2018_2024,kclVolume_mean_2018_2024,year_download_mean_2018_2024,collectYear_mean_2018_2024,incubationLength_mean_2018_2024_unit,soilFreshMass_mean_2018_2024_unit,kclVolume_mean_2018_2024_unit,year_download_mean_2018_2024_unit,collectYear_mean_2018_2024_unit
+DP1.10086.001,ORNL,ntr_internalLab,2018-2024,ORNL,ORNL_001,ORNL_001.basePlot.bgc,distributed,19,8.972631578947368,10.092631578947369,100,2022,2022,day,gram,milliliter,NA,NA
+DP1.10086.001,ORNL,ntr_internalLab,2018-2024,ORNL,ORNL_002,ORNL_002.basePlot.bgc,distributed,18,9.413333333333332,10.205,100,2022,2022,day,gram,milliliter,NA,NA
+DP1.10086.001,ORNL,ntr_internalLab,2018-2024,ORNL,ORNL_003,ORNL_003.basePlot.bgc,distributed,18,9.402222222222223,10.14611111111111,100,2022,2022,day,gram,milliliter,NA,NA
+DP1.10086.001,ORNL,ntr_internalLab,2018-2024,ORNL,ORNL_004,ORNL_004.basePlot.bgc,distributed,7,8.96,10.047142857142857,100,2022,2022,day,gram,milliliter,NA,NA
+DP1.10086.001,ORNL,ntr_internalLab,2018-2024,ORNL,ORNL_006,ORNL_006.basePlot.bgc,distributed,16,9.19,10.191875,100,2022,2022,day,gram,milliliter,NA,NA
+DP1.10086.001,ORNL,ntr_internalLab,2018-2024,ORNL,ORNL_027,ORNL_027.basePlot.bgc,distributed,12,8.705833333333333,10.138333333333334,100,2022,2022,day,gram,milliliter,NA,NA
+DP1.10086.001,ORNL,ntr_internalLab,2018-2024,ORNL,ORNL_043,ORNL_043.basePlot.bgc,tower,20,9.1425,10.052,100,2022,2022,day,gram,milliliter,NA,NA
+DP1.10086.001,ORNL,ntr_internalLab,2018-2024,ORNL,ORNL_046,ORNL_046.basePlot.bgc,tower,18,9.257777777777777,10.13888888888889,100,2022,2022,day,gram,milliliter,NA,NA
+DP1.10086.001,ORNL,ntr_internalLab,2018-2024,ORNL,ORNL_049,ORNL_049.basePlot.bgc,tower,19,8.817894736842105,10.203157894736842,100,2022,2022,day,gram,milliliter,NA,NA
+DP1.10086.001,ORNL,ntr_internalLab,2018-2024,ORNL,ORNL_053,ORNL_053.basePlot.bgc,tower,18,9.299444444444445,10.085,100,2022,2022,day,gram,milliliter,NA,NA

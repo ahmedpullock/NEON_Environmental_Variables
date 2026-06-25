@@ -1,0 +1,11 @@
+dpID,site,table,years_averaged,siteID,plotID,namedLocation,horizon,n_raw_records,bgcArchiveMass_mean_2018_2024,year_download_mean_2018_2024,collectYear_mean_2018_2024,bgcArchiveMass_mean_2018_2024_unit,year_download_mean_2018_2024_unit,collectYear_mean_2018_2024_unit
+DP1.10086.001,CPER,sls_bgcSubsampling,2018-2024,CPER,CPER_001,CPER_001.basePlot.bgc,M,3,215.9,2021,2021,gram,NA,NA
+DP1.10086.001,CPER,sls_bgcSubsampling,2018-2024,CPER,CPER_002,CPER_002.basePlot.bgc,M,2,200.55,2021,2021,gram,NA,NA
+DP1.10086.001,CPER,sls_bgcSubsampling,2018-2024,CPER,CPER_003,CPER_003.basePlot.bgc,M,3,202.33333333333334,2021,2021,gram,NA,NA
+DP1.10086.001,CPER,sls_bgcSubsampling,2018-2024,CPER,CPER_004,CPER_004.basePlot.bgc,M,3,208.66666666666669,2021,2021,gram,NA,NA
+DP1.10086.001,CPER,sls_bgcSubsampling,2018-2024,CPER,CPER_005,CPER_005.basePlot.bgc,M,3,234.23333333333335,2021,2021,gram,NA,NA
+DP1.10086.001,CPER,sls_bgcSubsampling,2018-2024,CPER,CPER_006,CPER_006.basePlot.bgc,M,3,220.23333333333335,2021,2021,gram,NA,NA
+DP1.10086.001,CPER,sls_bgcSubsampling,2018-2024,CPER,CPER_045,CPER_045.basePlot.bgc,M,3,242.4,2021,2021,gram,NA,NA
+DP1.10086.001,CPER,sls_bgcSubsampling,2018-2024,CPER,CPER_046,CPER_046.basePlot.bgc,M,3,233.93333333333334,2021,2021,gram,NA,NA
+DP1.10086.001,CPER,sls_bgcSubsampling,2018-2024,CPER,CPER_047,CPER_047.basePlot.bgc,M,3,243.9,2021,2021,gram,NA,NA
+DP1.10086.001,CPER,sls_bgcSubsampling,2018-2024,CPER,CPER_048,CPER_048.basePlot.bgc,M,3,252.16666666666666,2021,2021,gram,NA,NA

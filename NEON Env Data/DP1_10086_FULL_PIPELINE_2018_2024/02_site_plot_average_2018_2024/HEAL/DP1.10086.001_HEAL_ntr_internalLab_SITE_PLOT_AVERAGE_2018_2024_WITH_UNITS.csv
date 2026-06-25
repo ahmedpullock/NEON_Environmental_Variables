@@ -1,0 +1,11 @@
+dpID,site,table,years_averaged,siteID,plotID,namedLocation,plotType,n_raw_records,incubationLength_mean_2018_2024,soilFreshMass_mean_2018_2024,kclVolume_mean_2018_2024,year_download_mean_2018_2024,collectYear_mean_2018_2024,incubationLength_mean_2018_2024_unit,soilFreshMass_mean_2018_2024_unit,kclVolume_mean_2018_2024_unit,year_download_mean_2018_2024_unit,collectYear_mean_2018_2024_unit
+DP1.10086.001,HEAL,ntr_internalLab,2018-2024,HEAL,HEAL_001,HEAL_001.basePlot.bgc,distributed,6,10.483333333333333,10.118333333333332,100,2021,2021,day,gram,milliliter,NA,NA
+DP1.10086.001,HEAL,ntr_internalLab,2018-2024,HEAL,HEAL_004,HEAL_004.basePlot.bgc,distributed,12,9.423333333333334,10.114166666666666,100,2021,2021,day,gram,milliliter,NA,NA
+DP1.10086.001,HEAL,ntr_internalLab,2018-2024,HEAL,HEAL_005,HEAL_005.basePlot.bgc,distributed,12,10.515,10.119166666666667,100,2021,2021,day,gram,milliliter,NA,NA
+DP1.10086.001,HEAL,ntr_internalLab,2018-2024,HEAL,HEAL_010,HEAL_010.basePlot.bgc,distributed,12,8.866666666666667,10.010833333333334,100,2021,2021,day,gram,milliliter,NA,NA
+DP1.10086.001,HEAL,ntr_internalLab,2018-2024,HEAL,HEAL_011,HEAL_011.basePlot.bgc,distributed,11,8.696363636363635,10.015454545454546,100,2021,2021,day,gram,milliliter,NA,NA
+DP1.10086.001,HEAL,ntr_internalLab,2018-2024,HEAL,HEAL_025,HEAL_025.basePlot.bgc,distributed,12,9.389166666666666,9.7525,100,2021,2021,day,gram,milliliter,NA,NA
+DP1.10086.001,HEAL,ntr_internalLab,2018-2024,HEAL,HEAL_045,HEAL_045.basePlot.bgc,tower,8,9.95625,10.01875,100,2021,2021,day,gram,milliliter,NA,NA
+DP1.10086.001,HEAL,ntr_internalLab,2018-2024,HEAL,HEAL_046,HEAL_046.basePlot.bgc,tower,12,10.026666666666667,10.029166666666667,100,2021,2021,day,gram,milliliter,NA,NA
+DP1.10086.001,HEAL,ntr_internalLab,2018-2024,HEAL,HEAL_047,HEAL_047.basePlot.bgc,tower,12,9.963333333333335,10.022499999999999,100,2021,2021,day,gram,milliliter,NA,NA
+DP1.10086.001,HEAL,ntr_internalLab,2018-2024,HEAL,HEAL_048,HEAL_048.basePlot.bgc,tower,10,9.95,10.074,100,2021,2021,day,gram,milliliter,NA,NA

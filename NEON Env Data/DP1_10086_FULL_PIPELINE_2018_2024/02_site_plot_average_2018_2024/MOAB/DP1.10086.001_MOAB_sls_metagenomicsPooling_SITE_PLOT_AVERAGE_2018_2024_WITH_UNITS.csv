@@ -1,0 +1,11 @@
+dpID,site,table,years_averaged,siteID,plotID,namedLocation,n_raw_records,year_download_mean_2018_2024,collectYear_mean_2018_2024,year_download_mean_2018_2024_unit,collectYear_mean_2018_2024_unit
+DP1.10086.001,MOAB,sls_metagenomicsPooling,2018-2024,MOAB,MOAB_001,MOAB_001.basePlot.bgc,1,2022,2022,NA,NA
+DP1.10086.001,MOAB,sls_metagenomicsPooling,2018-2024,MOAB,MOAB_002,MOAB_002.basePlot.bgc,1,2022,2022,NA,NA
+DP1.10086.001,MOAB,sls_metagenomicsPooling,2018-2024,MOAB,MOAB_003,MOAB_003.basePlot.bgc,1,2022,2022,NA,NA
+DP1.10086.001,MOAB,sls_metagenomicsPooling,2018-2024,MOAB,MOAB_004,MOAB_004.basePlot.bgc,1,2022,2022,NA,NA
+DP1.10086.001,MOAB,sls_metagenomicsPooling,2018-2024,MOAB,MOAB_005,MOAB_005.basePlot.bgc,1,2022,2022,NA,NA
+DP1.10086.001,MOAB,sls_metagenomicsPooling,2018-2024,MOAB,MOAB_006,MOAB_006.basePlot.bgc,1,2022,2022,NA,NA
+DP1.10086.001,MOAB,sls_metagenomicsPooling,2018-2024,MOAB,MOAB_044,MOAB_044.basePlot.bgc,1,2022,2022,NA,NA
+DP1.10086.001,MOAB,sls_metagenomicsPooling,2018-2024,MOAB,MOAB_045,MOAB_045.basePlot.bgc,1,2022,2022,NA,NA
+DP1.10086.001,MOAB,sls_metagenomicsPooling,2018-2024,MOAB,MOAB_046,MOAB_046.basePlot.bgc,1,2022,2022,NA,NA
+DP1.10086.001,MOAB,sls_metagenomicsPooling,2018-2024,MOAB,MOAB_047,MOAB_047.basePlot.bgc,1,2022,2022,NA,NA

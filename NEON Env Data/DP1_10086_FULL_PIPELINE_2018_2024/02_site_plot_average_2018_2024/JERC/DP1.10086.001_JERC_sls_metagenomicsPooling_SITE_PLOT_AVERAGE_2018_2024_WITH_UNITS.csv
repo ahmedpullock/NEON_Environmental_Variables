@@ -1,0 +1,12 @@
+dpID,site,table,years_averaged,siteID,plotID,namedLocation,n_raw_records,year_download_mean_2018_2024,collectYear_mean_2018_2024,year_download_mean_2018_2024_unit,collectYear_mean_2018_2024_unit
+DP1.10086.001,JERC,sls_metagenomicsPooling,2018-2024,JERC,JERC_001,JERC_001.basePlot.bgc,2,2021.5,2021.5,NA,NA
+DP1.10086.001,JERC,sls_metagenomicsPooling,2018-2024,JERC,JERC_002,JERC_002.basePlot.bgc,2,2021.5,2021.5,NA,NA
+DP1.10086.001,JERC,sls_metagenomicsPooling,2018-2024,JERC,JERC_003,JERC_003.basePlot.bgc,1,2019,2019,NA,NA
+DP1.10086.001,JERC,sls_metagenomicsPooling,2018-2024,JERC,JERC_004,JERC_004.basePlot.bgc,2,2021.5,2021.5,NA,NA
+DP1.10086.001,JERC,sls_metagenomicsPooling,2018-2024,JERC,JERC_005,JERC_005.basePlot.bgc,2,2021.5,2021.5,NA,NA
+DP1.10086.001,JERC,sls_metagenomicsPooling,2018-2024,JERC,JERC_006,JERC_006.basePlot.bgc,2,2021.5,2021.5,NA,NA
+DP1.10086.001,JERC,sls_metagenomicsPooling,2018-2024,JERC,JERC_007,JERC_007.basePlot.bgc,1,2024,2024,NA,NA
+DP1.10086.001,JERC,sls_metagenomicsPooling,2018-2024,JERC,JERC_047,JERC_047.basePlot.bgc,2,2021.5,2021.5,NA,NA
+DP1.10086.001,JERC,sls_metagenomicsPooling,2018-2024,JERC,JERC_048,JERC_048.basePlot.bgc,2,2021.5,2021.5,NA,NA
+DP1.10086.001,JERC,sls_metagenomicsPooling,2018-2024,JERC,JERC_049,JERC_049.basePlot.bgc,2,2021.5,2021.5,NA,NA
+DP1.10086.001,JERC,sls_metagenomicsPooling,2018-2024,JERC,JERC_050,JERC_050.basePlot.bgc,2,2021.5,2021.5,NA,NA

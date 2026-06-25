@@ -1,0 +1,11 @@
+dpID,site,table,years_averaged,siteID,plotID,namedLocation,horizon,n_raw_records,bgcArchiveMass_mean_2018_2024,year_download_mean_2018_2024,collectYear_mean_2018_2024,bgcArchiveMass_mean_2018_2024_unit,year_download_mean_2018_2024_unit,collectYear_mean_2018_2024_unit
+DP1.10086.001,BLAN,sls_bgcSubsampling,2018-2024,BLAN,BLAN_001,BLAN_001.basePlot.bgc,M,3,201.1,2020,2020,gram,NA,NA
+DP1.10086.001,BLAN,sls_bgcSubsampling,2018-2024,BLAN,BLAN_003,BLAN_003.basePlot.bgc,M,3,208.7,2020,2020,gram,NA,NA
+DP1.10086.001,BLAN,sls_bgcSubsampling,2018-2024,BLAN,BLAN_004,BLAN_004.basePlot.bgc,M,3,210.16666666666666,2020,2020,gram,NA,NA
+DP1.10086.001,BLAN,sls_bgcSubsampling,2018-2024,BLAN,BLAN_005,BLAN_005.basePlot.bgc,M,3,201.23333333333332,2020,2020,gram,NA,NA
+DP1.10086.001,BLAN,sls_bgcSubsampling,2018-2024,BLAN,BLAN_006,BLAN_006.basePlot.bgc,M,3,209.5,2020,2020,gram,NA,NA
+DP1.10086.001,BLAN,sls_bgcSubsampling,2018-2024,BLAN,BLAN_007,BLAN_007.basePlot.bgc,M,3,188.5,2020,2020,gram,NA,NA
+DP1.10086.001,BLAN,sls_bgcSubsampling,2018-2024,BLAN,BLAN_031,BLAN_031.basePlot.bgc,M,3,209.23333333333335,2020,2020,gram,NA,NA
+DP1.10086.001,BLAN,sls_bgcSubsampling,2018-2024,BLAN,BLAN_032,BLAN_032.basePlot.bgc,M,3,202.73333333333335,2020,2020,gram,NA,NA
+DP1.10086.001,BLAN,sls_bgcSubsampling,2018-2024,BLAN,BLAN_033,BLAN_033.basePlot.bgc,M,3,207.16666666666666,2020,2020,gram,NA,NA
+DP1.10086.001,BLAN,sls_bgcSubsampling,2018-2024,BLAN,BLAN_038,BLAN_038.basePlot.bgc,M,3,206.3,2020,2020,gram,NA,NA

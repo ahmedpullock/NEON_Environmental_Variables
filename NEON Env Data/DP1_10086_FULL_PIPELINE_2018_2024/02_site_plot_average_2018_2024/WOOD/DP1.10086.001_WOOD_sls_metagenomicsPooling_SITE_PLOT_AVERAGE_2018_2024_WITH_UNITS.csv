@@ -1,0 +1,11 @@
+dpID,site,table,years_averaged,siteID,plotID,namedLocation,n_raw_records,year_download_mean_2018_2024,collectYear_mean_2018_2024,year_download_mean_2018_2024_unit,collectYear_mean_2018_2024_unit
+DP1.10086.001,WOOD,sls_metagenomicsPooling,2018-2024,WOOD,WOOD_001,WOOD_001.basePlot.bgc,7,2021,2021,NA,NA
+DP1.10086.001,WOOD,sls_metagenomicsPooling,2018-2024,WOOD,WOOD_002,WOOD_002.basePlot.bgc,7,2021,2021,NA,NA
+DP1.10086.001,WOOD,sls_metagenomicsPooling,2018-2024,WOOD,WOOD_003,WOOD_003.basePlot.bgc,8,2020.625,2020.625,NA,NA
+DP1.10086.001,WOOD,sls_metagenomicsPooling,2018-2024,WOOD,WOOD_004,WOOD_004.basePlot.bgc,7,2021,2021,NA,NA
+DP1.10086.001,WOOD,sls_metagenomicsPooling,2018-2024,WOOD,WOOD_005,WOOD_005.basePlot.bgc,7,2021,2021,NA,NA
+DP1.10086.001,WOOD,sls_metagenomicsPooling,2018-2024,WOOD,WOOD_024,WOOD_024.basePlot.bgc,10,2021.1,2021.1,NA,NA
+DP1.10086.001,WOOD,sls_metagenomicsPooling,2018-2024,WOOD,WOOD_042,WOOD_042.basePlot.bgc,7,2021,2021,NA,NA
+DP1.10086.001,WOOD,sls_metagenomicsPooling,2018-2024,WOOD,WOOD_043,WOOD_043.basePlot.bgc,7,2021,2021,NA,NA
+DP1.10086.001,WOOD,sls_metagenomicsPooling,2018-2024,WOOD,WOOD_044,WOOD_044.basePlot.bgc,7,2021,2021,NA,NA
+DP1.10086.001,WOOD,sls_metagenomicsPooling,2018-2024,WOOD,WOOD_045,WOOD_045.basePlot.bgc,8,2020.625,2020.625,NA,NA

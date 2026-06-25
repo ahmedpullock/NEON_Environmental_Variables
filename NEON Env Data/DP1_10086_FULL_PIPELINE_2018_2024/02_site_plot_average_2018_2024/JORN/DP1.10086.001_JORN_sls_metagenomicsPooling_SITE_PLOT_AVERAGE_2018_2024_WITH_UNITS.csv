@@ -1,0 +1,11 @@
+dpID,site,table,years_averaged,siteID,plotID,namedLocation,n_raw_records,year_download_mean_2018_2024,collectYear_mean_2018_2024,year_download_mean_2018_2024_unit,collectYear_mean_2018_2024_unit
+DP1.10086.001,JORN,sls_metagenomicsPooling,2018-2024,JORN,JORN_001,JORN_001.basePlot.bgc,1,2022,2022,NA,NA
+DP1.10086.001,JORN,sls_metagenomicsPooling,2018-2024,JORN,JORN_002,JORN_002.basePlot.bgc,1,2022,2022,NA,NA
+DP1.10086.001,JORN,sls_metagenomicsPooling,2018-2024,JORN,JORN_003,JORN_003.basePlot.bgc,1,2022,2022,NA,NA
+DP1.10086.001,JORN,sls_metagenomicsPooling,2018-2024,JORN,JORN_004,JORN_004.basePlot.bgc,1,2022,2022,NA,NA
+DP1.10086.001,JORN,sls_metagenomicsPooling,2018-2024,JORN,JORN_005,JORN_005.basePlot.bgc,1,2022,2022,NA,NA
+DP1.10086.001,JORN,sls_metagenomicsPooling,2018-2024,JORN,JORN_006,JORN_006.basePlot.bgc,1,2022,2022,NA,NA
+DP1.10086.001,JORN,sls_metagenomicsPooling,2018-2024,JORN,JORN_042,JORN_042.basePlot.bgc,1,2022,2022,NA,NA
+DP1.10086.001,JORN,sls_metagenomicsPooling,2018-2024,JORN,JORN_044,JORN_044.basePlot.bgc,1,2022,2022,NA,NA
+DP1.10086.001,JORN,sls_metagenomicsPooling,2018-2024,JORN,JORN_045,JORN_045.basePlot.bgc,1,2022,2022,NA,NA
+DP1.10086.001,JORN,sls_metagenomicsPooling,2018-2024,JORN,JORN_047,JORN_047.basePlot.bgc,1,2022,2022,NA,NA

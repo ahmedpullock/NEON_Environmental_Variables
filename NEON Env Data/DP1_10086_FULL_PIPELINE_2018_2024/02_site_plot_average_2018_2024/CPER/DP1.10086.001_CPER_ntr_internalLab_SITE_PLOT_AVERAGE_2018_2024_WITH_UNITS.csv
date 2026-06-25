@@ -1,0 +1,11 @@
+dpID,site,table,years_averaged,siteID,plotID,namedLocation,plotType,n_raw_records,incubationLength_mean_2018_2024,soilFreshMass_mean_2018_2024,kclVolume_mean_2018_2024,year_download_mean_2018_2024,collectYear_mean_2018_2024,incubationLength_mean_2018_2024_unit,soilFreshMass_mean_2018_2024_unit,kclVolume_mean_2018_2024_unit,year_download_mean_2018_2024_unit,collectYear_mean_2018_2024_unit
+DP1.10086.001,CPER,ntr_internalLab,2018-2024,CPER,CPER_001,CPER_001.basePlot.bgc,distributed,12,10.563333333333333,4.6025,45.083333333333336,2021,2021,day,gram,milliliter,NA,NA
+DP1.10086.001,CPER,ntr_internalLab,2018-2024,CPER,CPER_002,CPER_002.basePlot.bgc,distributed,10,11.129,8.091,80,2021,2021,day,gram,milliliter,NA,NA
+DP1.10086.001,CPER,ntr_internalLab,2018-2024,CPER,CPER_003,CPER_003.basePlot.bgc,distributed,12,10.974166666666667,4.62,45,2021,2021,day,gram,milliliter,NA,NA
+DP1.10086.001,CPER,ntr_internalLab,2018-2024,CPER,CPER_004,CPER_004.basePlot.bgc,distributed,12,10.490833333333333,4.704166666666667,45,2021,2021,day,gram,milliliter,NA,NA
+DP1.10086.001,CPER,ntr_internalLab,2018-2024,CPER,CPER_005,CPER_005.basePlot.bgc,distributed,12,10.988333333333333,4.6258333333333335,45,2021,2021,day,gram,milliliter,NA,NA
+DP1.10086.001,CPER,ntr_internalLab,2018-2024,CPER,CPER_006,CPER_006.basePlot.bgc,distributed,12,10.960833333333333,4.616666666666666,45.083333333333336,2021,2021,day,gram,milliliter,NA,NA
+DP1.10086.001,CPER,ntr_internalLab,2018-2024,CPER,CPER_045,CPER_045.basePlot.bgc,tower,18,10.957777777777777,6.5122222222222215,63.361111111111114,2021,2021,day,gram,milliliter,NA,NA
+DP1.10086.001,CPER,ntr_internalLab,2018-2024,CPER,CPER_046,CPER_046.basePlot.bgc,tower,18,10.98111111111111,6.522777777777778,63.444444444444436,2021,2021,day,gram,milliliter,NA,NA
+DP1.10086.001,CPER,ntr_internalLab,2018-2024,CPER,CPER_047,CPER_047.basePlot.bgc,tower,18,10.96111111111111,6.501666666666667,63.444444444444436,2021,2021,day,gram,milliliter,NA,NA
+DP1.10086.001,CPER,ntr_internalLab,2018-2024,CPER,CPER_048,CPER_048.basePlot.bgc,tower,18,10.974444444444444,6.542222222222223,63.277777777777786,2021,2021,day,gram,milliliter,NA,NA

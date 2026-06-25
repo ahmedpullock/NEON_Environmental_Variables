@@ -1,0 +1,13 @@
+dpID,site,table,years_averaged,siteID,plotID,namedLocation,horizon,n_raw_records,bgcArchiveMass_mean_2018_2024,year_download_mean_2018_2024,collectYear_mean_2018_2024,bgcArchiveMass_mean_2018_2024_unit,year_download_mean_2018_2024_unit,collectYear_mean_2018_2024_unit
+DP1.10086.001,RMNP,sls_bgcSubsampling,2018-2024,RMNP,RMNP_002,RMNP_002.basePlot.bgc,M,2,256.54999999999995,2020,2020,gram,NA,NA
+DP1.10086.001,RMNP,sls_bgcSubsampling,2018-2024,RMNP,RMNP_002,RMNP_002.basePlot.bgc,O,1,37.5,2020,2020,gram,NA,NA
+DP1.10086.001,RMNP,sls_bgcSubsampling,2018-2024,RMNP,RMNP_004,RMNP_004.basePlot.bgc,M,3,168.73333333333335,2020,2020,gram,NA,NA
+DP1.10086.001,RMNP,sls_bgcSubsampling,2018-2024,RMNP,RMNP_004,RMNP_004.basePlot.bgc,O,3,71.3,2020,2020,gram,NA,NA
+DP1.10086.001,RMNP,sls_bgcSubsampling,2018-2024,RMNP,RMNP_013,RMNP_013.basePlot.bgc,M,3,273.8666666666667,2020,2020,gram,NA,NA
+DP1.10086.001,RMNP,sls_bgcSubsampling,2018-2024,RMNP,RMNP_013,RMNP_013.basePlot.bgc,O,2,173,2020,2020,gram,NA,NA
+DP1.10086.001,RMNP,sls_bgcSubsampling,2018-2024,RMNP,RMNP_041,RMNP_041.basePlot.bgc,M,3,261.6,2020,2020,gram,NA,NA
+DP1.10086.001,RMNP,sls_bgcSubsampling,2018-2024,RMNP,RMNP_041,RMNP_041.basePlot.bgc,O,2,153.2,2020,2020,gram,NA,NA
+DP1.10086.001,RMNP,sls_bgcSubsampling,2018-2024,RMNP,RMNP_043,RMNP_043.basePlot.bgc,M,3,275.1,2020,2020,gram,NA,NA
+DP1.10086.001,RMNP,sls_bgcSubsampling,2018-2024,RMNP,RMNP_043,RMNP_043.basePlot.bgc,O,3,114.60000000000001,2020,2020,gram,NA,NA
+DP1.10086.001,RMNP,sls_bgcSubsampling,2018-2024,RMNP,RMNP_045,RMNP_045.basePlot.bgc,M,2,214.95,2020,2020,gram,NA,NA
+DP1.10086.001,RMNP,sls_bgcSubsampling,2018-2024,RMNP,RMNP_045,RMNP_045.basePlot.bgc,O,1,133,2020,2020,gram,NA,NA

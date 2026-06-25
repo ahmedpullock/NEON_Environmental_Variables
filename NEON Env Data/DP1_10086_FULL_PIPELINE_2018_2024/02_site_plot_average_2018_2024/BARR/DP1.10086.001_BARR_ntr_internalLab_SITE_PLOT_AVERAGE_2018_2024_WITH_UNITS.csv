@@ -1,0 +1,10 @@
+dpID,site,table,years_averaged,siteID,plotID,namedLocation,plotType,n_raw_records,incubationLength_mean_2018_2024,soilFreshMass_mean_2018_2024,kclVolume_mean_2018_2024,year_download_mean_2018_2024,collectYear_mean_2018_2024,incubationLength_mean_2018_2024_unit,soilFreshMass_mean_2018_2024_unit,kclVolume_mean_2018_2024_unit,year_download_mean_2018_2024_unit,collectYear_mean_2018_2024_unit
+DP1.10086.001,BARR,ntr_internalLab,2018-2024,BARR,BARR_001,BARR_001.basePlot.bgc,distributed,6,0,10.176666666666666,100,2022,2022,day,gram,milliliter,NA,NA
+DP1.10086.001,BARR,ntr_internalLab,2018-2024,BARR,BARR_002,BARR_002.basePlot.bgc,distributed,5,0,10.166,100,2022,2022,day,gram,milliliter,NA,NA
+DP1.10086.001,BARR,ntr_internalLab,2018-2024,BARR,BARR_003,BARR_003.basePlot.bgc,distributed,4,0,10.1075,100,2022,2022,day,gram,milliliter,NA,NA
+DP1.10086.001,BARR,ntr_internalLab,2018-2024,BARR,BARR_004,BARR_004.basePlot.bgc,distributed,6,0,10.133333333333333,100,2022,2022,day,gram,milliliter,NA,NA
+DP1.10086.001,BARR,ntr_internalLab,2018-2024,BARR,BARR_006,BARR_006.basePlot.bgc,distributed,4,0,10.087499999999999,100,2022,2022,day,gram,milliliter,NA,NA
+DP1.10086.001,BARR,ntr_internalLab,2018-2024,BARR,BARR_051,BARR_051.basePlot.bgc,tower,5,0,10.144,100,2022,2022,day,gram,milliliter,NA,NA
+DP1.10086.001,BARR,ntr_internalLab,2018-2024,BARR,BARR_052,BARR_052.basePlot.bgc,tower,5,0,10.161999999999999,100,2022,2022,day,gram,milliliter,NA,NA
+DP1.10086.001,BARR,ntr_internalLab,2018-2024,BARR,BARR_053,BARR_053.basePlot.bgc,tower,5,0,10.038,100,2022,2022,day,gram,milliliter,NA,NA
+DP1.10086.001,BARR,ntr_internalLab,2018-2024,BARR,BARR_054,BARR_054.basePlot.bgc,tower,4,0,10.185,100,2022,2022,day,gram,milliliter,NA,NA

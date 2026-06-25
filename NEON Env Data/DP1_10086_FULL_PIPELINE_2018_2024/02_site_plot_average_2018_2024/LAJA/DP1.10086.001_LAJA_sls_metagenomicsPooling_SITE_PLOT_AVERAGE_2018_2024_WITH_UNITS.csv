@@ -1,0 +1,11 @@
+dpID,site,table,years_averaged,siteID,plotID,namedLocation,n_raw_records,year_download_mean_2018_2024,collectYear_mean_2018_2024,year_download_mean_2018_2024_unit,collectYear_mean_2018_2024_unit
+DP1.10086.001,LAJA,sls_metagenomicsPooling,2018-2024,LAJA,LAJA_001,LAJA_001.basePlot.bgc,1,2020,2020,NA,NA
+DP1.10086.001,LAJA,sls_metagenomicsPooling,2018-2024,LAJA,LAJA_002,LAJA_002.basePlot.bgc,1,2020,2020,NA,NA
+DP1.10086.001,LAJA,sls_metagenomicsPooling,2018-2024,LAJA,LAJA_003,LAJA_003.basePlot.bgc,1,2020,2020,NA,NA
+DP1.10086.001,LAJA,sls_metagenomicsPooling,2018-2024,LAJA,LAJA_004,LAJA_004.basePlot.bgc,1,2020,2020,NA,NA
+DP1.10086.001,LAJA,sls_metagenomicsPooling,2018-2024,LAJA,LAJA_005,LAJA_005.basePlot.bgc,1,2020,2020,NA,NA
+DP1.10086.001,LAJA,sls_metagenomicsPooling,2018-2024,LAJA,LAJA_015,LAJA_015.basePlot.bgc,1,2020,2020,NA,NA
+DP1.10086.001,LAJA,sls_metagenomicsPooling,2018-2024,LAJA,LAJA_042,LAJA_042.basePlot.bgc,1,2020,2020,NA,NA
+DP1.10086.001,LAJA,sls_metagenomicsPooling,2018-2024,LAJA,LAJA_044,LAJA_044.basePlot.bgc,1,2020,2020,NA,NA
+DP1.10086.001,LAJA,sls_metagenomicsPooling,2018-2024,LAJA,LAJA_046,LAJA_046.basePlot.bgc,1,2020,2020,NA,NA
+DP1.10086.001,LAJA,sls_metagenomicsPooling,2018-2024,LAJA,LAJA_051,LAJA_051.basePlot.bgc,1,2020,2020,NA,NA

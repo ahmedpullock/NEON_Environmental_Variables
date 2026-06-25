@@ -1,0 +1,14 @@
+dpID,site,table,years_averaged,siteID,plotID,namedLocation,n_raw_records,year_download_mean_2018_2024,collectYear_mean_2018_2024,year_download_mean_2018_2024_unit,collectYear_mean_2018_2024_unit
+DP1.10086.001,SOAP,sls_metagenomicsPooling,2018-2024,SOAP,SOAP_001,SOAP_001.basePlot.bgc,1,2018,2018,NA,NA
+DP1.10086.001,SOAP,sls_metagenomicsPooling,2018-2024,SOAP,SOAP_002,SOAP_002.basePlot.bgc,2,2021,2021,NA,NA
+DP1.10086.001,SOAP,sls_metagenomicsPooling,2018-2024,SOAP,SOAP_003,SOAP_003.basePlot.bgc,2,2021,2021,NA,NA
+DP1.10086.001,SOAP,sls_metagenomicsPooling,2018-2024,SOAP,SOAP_004,SOAP_004.basePlot.bgc,3,2020,2020,NA,NA
+DP1.10086.001,SOAP,sls_metagenomicsPooling,2018-2024,SOAP,SOAP_005,SOAP_005.basePlot.bgc,1,2018,2018,NA,NA
+DP1.10086.001,SOAP,sls_metagenomicsPooling,2018-2024,SOAP,SOAP_006,SOAP_006.basePlot.bgc,1,2024,2024,NA,NA
+DP1.10086.001,SOAP,sls_metagenomicsPooling,2018-2024,SOAP,SOAP_007,SOAP_007.basePlot.bgc,1,2024,2024,NA,NA
+DP1.10086.001,SOAP,sls_metagenomicsPooling,2018-2024,SOAP,SOAP_025,SOAP_025.basePlot.bgc,1,2024,2024,NA,NA
+DP1.10086.001,SOAP,sls_metagenomicsPooling,2018-2024,SOAP,SOAP_031,SOAP_031.basePlot.bgc,2,2021,2021,NA,NA
+DP1.10086.001,SOAP,sls_metagenomicsPooling,2018-2024,SOAP,SOAP_043,SOAP_043.basePlot.bgc,2,2021,2021,NA,NA
+DP1.10086.001,SOAP,sls_metagenomicsPooling,2018-2024,SOAP,SOAP_044,SOAP_044.basePlot.bgc,1,2018,2018,NA,NA
+DP1.10086.001,SOAP,sls_metagenomicsPooling,2018-2024,SOAP,SOAP_045,SOAP_045.basePlot.bgc,2,2021,2021,NA,NA
+DP1.10086.001,SOAP,sls_metagenomicsPooling,2018-2024,SOAP,SOAP_047,SOAP_047.basePlot.bgc,1,2024,2024,NA,NA

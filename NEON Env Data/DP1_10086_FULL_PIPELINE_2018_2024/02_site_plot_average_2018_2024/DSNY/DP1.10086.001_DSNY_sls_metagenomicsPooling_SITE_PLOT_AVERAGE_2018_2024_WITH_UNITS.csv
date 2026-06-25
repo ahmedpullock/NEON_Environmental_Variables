@@ -1,0 +1,11 @@
+dpID,site,table,years_averaged,siteID,plotID,namedLocation,n_raw_records,year_download_mean_2018_2024,collectYear_mean_2018_2024,year_download_mean_2018_2024_unit,collectYear_mean_2018_2024_unit
+DP1.10086.001,DSNY,sls_metagenomicsPooling,2018-2024,DSNY,DSNY_001,DSNY_001.basePlot.bgc,2,2020.5,2020.5,NA,NA
+DP1.10086.001,DSNY,sls_metagenomicsPooling,2018-2024,DSNY,DSNY_003,DSNY_003.basePlot.bgc,2,2020.5,2020.5,NA,NA
+DP1.10086.001,DSNY,sls_metagenomicsPooling,2018-2024,DSNY,DSNY_004,DSNY_004.basePlot.bgc,2,2020.5,2020.5,NA,NA
+DP1.10086.001,DSNY,sls_metagenomicsPooling,2018-2024,DSNY,DSNY_005,DSNY_005.basePlot.bgc,2,2020.5,2020.5,NA,NA
+DP1.10086.001,DSNY,sls_metagenomicsPooling,2018-2024,DSNY,DSNY_006,DSNY_006.basePlot.bgc,2,2020.5,2020.5,NA,NA
+DP1.10086.001,DSNY,sls_metagenomicsPooling,2018-2024,DSNY,DSNY_009,DSNY_009.basePlot.bgc,2,2020.5,2020.5,NA,NA
+DP1.10086.001,DSNY,sls_metagenomicsPooling,2018-2024,DSNY,DSNY_041,DSNY_041.basePlot.bgc,2,2020.5,2020.5,NA,NA
+DP1.10086.001,DSNY,sls_metagenomicsPooling,2018-2024,DSNY,DSNY_042,DSNY_042.basePlot.bgc,2,2020.5,2020.5,NA,NA
+DP1.10086.001,DSNY,sls_metagenomicsPooling,2018-2024,DSNY,DSNY_043,DSNY_043.basePlot.bgc,2,2020.5,2020.5,NA,NA
+DP1.10086.001,DSNY,sls_metagenomicsPooling,2018-2024,DSNY,DSNY_044,DSNY_044.basePlot.bgc,2,2020.5,2020.5,NA,NA

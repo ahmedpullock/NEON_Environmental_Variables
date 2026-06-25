@@ -1,0 +1,11 @@
+dpID,site,table,years_averaged,siteID,plotID,namedLocation,n_raw_records,year_download_mean_2018_2024,collectYear_mean_2018_2024,year_download_mean_2018_2024_unit,collectYear_mean_2018_2024_unit
+DP1.10086.001,LENO,sls_metagenomicsPooling,2018-2024,LENO,LENO_001,LENO_001.basePlot.bgc,2,2020.5,2020.5,NA,NA
+DP1.10086.001,LENO,sls_metagenomicsPooling,2018-2024,LENO,LENO_002,LENO_002.basePlot.bgc,2,2020.5,2020.5,NA,NA
+DP1.10086.001,LENO,sls_metagenomicsPooling,2018-2024,LENO,LENO_003,LENO_003.basePlot.bgc,2,2020.5,2020.5,NA,NA
+DP1.10086.001,LENO,sls_metagenomicsPooling,2018-2024,LENO,LENO_004,LENO_004.basePlot.bgc,2,2020.5,2020.5,NA,NA
+DP1.10086.001,LENO,sls_metagenomicsPooling,2018-2024,LENO,LENO_005,LENO_005.basePlot.bgc,2,2020.5,2020.5,NA,NA
+DP1.10086.001,LENO,sls_metagenomicsPooling,2018-2024,LENO,LENO_006,LENO_006.basePlot.bgc,2,2020.5,2020.5,NA,NA
+DP1.10086.001,LENO,sls_metagenomicsPooling,2018-2024,LENO,LENO_061,LENO_061.basePlot.bgc,2,2020.5,2020.5,NA,NA
+DP1.10086.001,LENO,sls_metagenomicsPooling,2018-2024,LENO,LENO_062,LENO_062.basePlot.bgc,2,2020.5,2020.5,NA,NA
+DP1.10086.001,LENO,sls_metagenomicsPooling,2018-2024,LENO,LENO_063,LENO_063.basePlot.bgc,2,2020.5,2020.5,NA,NA
+DP1.10086.001,LENO,sls_metagenomicsPooling,2018-2024,LENO,LENO_064,LENO_064.basePlot.bgc,2,2020.5,2020.5,NA,NA

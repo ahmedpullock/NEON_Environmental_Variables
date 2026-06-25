@@ -1,0 +1,11 @@
+dpID,site,table,years_averaged,siteID,plotID,namedLocation,plotType,n_raw_records,incubationLength_mean_2018_2024,soilFreshMass_mean_2018_2024,kclVolume_mean_2018_2024,year_download_mean_2018_2024,collectYear_mean_2018_2024,incubationLength_mean_2018_2024_unit,soilFreshMass_mean_2018_2024_unit,kclVolume_mean_2018_2024_unit,year_download_mean_2018_2024_unit,collectYear_mean_2018_2024_unit
+DP1.10086.001,GRSM,ntr_internalLab,2018-2024,GRSM,GRSM_001,GRSM_001.basePlot.bgc,distributed,20,10.137,6.625,65.05,2021,2021,day,gram,milliliter,NA,NA
+DP1.10086.001,GRSM,ntr_internalLab,2018-2024,GRSM,GRSM_002,GRSM_002.basePlot.bgc,distributed,35,10.148571428571428,6.593714285714285,65.62857142857143,2021,2021,day,gram,milliliter,NA,NA
+DP1.10086.001,GRSM,ntr_internalLab,2018-2024,GRSM,GRSM_003,GRSM_003.basePlot.bgc,distributed,30,10.477666666666668,7.023,69.7,2021,2021,day,gram,milliliter,NA,NA
+DP1.10086.001,GRSM,ntr_internalLab,2018-2024,GRSM,GRSM_006,GRSM_006.basePlot.bgc,distributed,26,10.493846153846153,6.423076923076923,63.07692307692307,2021,2021,day,gram,milliliter,NA,NA
+DP1.10086.001,GRSM,ntr_internalLab,2018-2024,GRSM,GRSM_007,GRSM_007.basePlot.bgc,distributed,18,10.311666666666667,6.733333333333333,66.72222222222223,2021,2021,day,gram,milliliter,NA,NA
+DP1.10086.001,GRSM,ntr_internalLab,2018-2024,GRSM,GRSM_016,GRSM_016.basePlot.bgc,distributed,34,10.300882352941176,6.617647058823529,64.67647058823529,2021,2021,day,gram,milliliter,NA,NA
+DP1.10086.001,GRSM,ntr_internalLab,2018-2024,GRSM,GRSM_055,GRSM_055.basePlot.bgc,tower,18,10.116666666666667,6.7844444444444445,66.66666666666666,2021,2021,day,gram,milliliter,NA,NA
+DP1.10086.001,GRSM,ntr_internalLab,2018-2024,GRSM,GRSM_058,GRSM_058.basePlot.bgc,tower,18,10.325,6.804444444444444,66.66666666666666,2021,2021,day,gram,milliliter,NA,NA
+DP1.10086.001,GRSM,ntr_internalLab,2018-2024,GRSM,GRSM_059,GRSM_059.basePlot.bgc,tower,20,10.413,7.1015,70.05,2021,2021,day,gram,milliliter,NA,NA
+DP1.10086.001,GRSM,ntr_internalLab,2018-2024,GRSM,GRSM_060,GRSM_060.basePlot.bgc,tower,17,9.8,6.852941176470588,67.70588235294117,2021,2021,day,gram,milliliter,NA,NA
