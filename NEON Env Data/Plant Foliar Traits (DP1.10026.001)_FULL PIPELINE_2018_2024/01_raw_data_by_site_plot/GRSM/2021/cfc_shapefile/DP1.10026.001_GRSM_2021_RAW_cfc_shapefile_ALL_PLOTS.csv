@@ -1,0 +1,2 @@
+uid,startDate,endDate,domainID,siteID,downloadFileName,downloadFileUrl,shapefileAopYear,dataQF,publicationDate,release,dpID,site_download,year_download,source_table
+7badd829-0379-40fc-8850-2ffa183c9792,2021-06-01,2021-06-24,D07,GRSM,GRSM-2021-polygons-v2.zip,https://storage.neonscience.org/neon-crown-shapefiles/GRSM-2021-polygons-v2.zip,2017,NA,20260106T155616Z,RELEASE-2026,DP1.10026.001,GRSM,2021,cfc_shapefile

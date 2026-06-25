@@ -1,0 +1,2 @@
+uid,startDate,endDate,domainID,siteID,downloadFileName,downloadFileUrl,shapefileAopYear,dataQF,publicationDate,release,dpID,site_download,year_download,source_table
+fa54af88-75cc-41ad-aa36-ec8e51745f8c,2022-07-21,2022-08-10,D16,ABBY,ABBY-2022-polygons-v2.zip,https://storage.neonscience.org/neon-crown-shapefiles/ABBY-2022-polygons-v2.zip,2021,NA,20260106T155321Z,RELEASE-2026,DP1.10026.001,ABBY,2022,cfc_shapefile

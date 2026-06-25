@@ -1,0 +1,2 @@
+uid,startDate,endDate,domainID,siteID,downloadFileName,downloadFileUrl,shapefileAopYear,dataQF,publicationDate,release,dpID,site_download,year_download,source_table
+9888df42-86cb-4715-83f7-c0329a5ae042,2022-06-06,2022-06-22,D05,STEI,STEI-2022-polygons-v2.zip,https://storage.neonscience.org/neon-crown-shapefiles/STEI-2022-polygons-v2.zip,2020,NA,20260106T154907Z,RELEASE-2026,DP1.10026.001,STEI,2022,cfc_shapefile

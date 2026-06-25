@@ -1,0 +1,2 @@
+uid,startDate,endDate,domainID,siteID,downloadFileName,downloadFileUrl,shapefileAopYear,dataQF,publicationDate,release,dpID,site_download,year_download,source_table
+814e82b8-d972-4dfb-9371-a9919fde1d9d,2022-10-17,2022-10-24,D04,GUAN,GUAN-2022-polygons-v3.zip,https://storage.neonscience.org/neon-crown-shapefiles/GUAN-2022-polygons-v3.zip,2018,NA,20260106T154324Z,RELEASE-2026,DP1.10026.001,GUAN,2022,cfc_shapefile

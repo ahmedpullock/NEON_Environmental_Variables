@@ -1,0 +1,2 @@
+uid,startDate,endDate,domainID,siteID,downloadFileName,downloadFileUrl,shapefileAopYear,dataQF,publicationDate,release,dpID,site_download,year_download,source_table
+21360f89-4834-44c9-91a6-ba47c4a41d50,2023-06-29,2023-07-19,D16,WREF,WREF-2023-polygons-v2.zip,https://storage.neonscience.org/neon-crown-shapefiles/WREF-2023-polygons-v2.zip,2021,NA,20260106T155817Z,RELEASE-2026,DP1.10026.001,WREF,2023,cfc_shapefile

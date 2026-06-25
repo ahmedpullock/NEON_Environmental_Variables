@@ -1,0 +1,2 @@
+uid,startDate,endDate,domainID,siteID,downloadFileName,downloadFileUrl,shapefileAopYear,dataQF,publicationDate,release,dpID,site_download,year_download,source_table
+004f0575-ecd9-4fa1-b0bf-a7cad0bb8544,2023-07-18,2023-07-20,D19,DEJU,DEJU-2023-polygons-v2.zip,https://storage.neonscience.org/neon-crown-shapefiles/DEJU-2023-polygons-v2.zip,2021,NA,20260106T160104Z,RELEASE-2026,DP1.10026.001,DEJU,2023,cfc_shapefile

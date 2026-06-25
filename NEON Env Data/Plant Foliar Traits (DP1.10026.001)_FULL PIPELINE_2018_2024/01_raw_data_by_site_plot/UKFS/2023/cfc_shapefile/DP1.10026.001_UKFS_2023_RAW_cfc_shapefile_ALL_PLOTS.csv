@@ -1,0 +1,2 @@
+uid,startDate,endDate,domainID,siteID,downloadFileName,downloadFileUrl,shapefileAopYear,dataQF,publicationDate,release,dpID,site_download,year_download,source_table
+a1e1a454-096f-4d2b-997a-cb6ed622477e,2023-05-22,2023-06-02,D06,UKFS,UKFS-2023-polygons-v2.zip,https://storage.neonscience.org/neon-crown-shapefiles/UKFS-2023-polygons-v2.zip,2020,NA,20260106T160342Z,RELEASE-2026,DP1.10026.001,UKFS,2023,cfc_shapefile

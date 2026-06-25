@@ -1,0 +1,2 @@
+uid,startDate,endDate,domainID,siteID,downloadFileName,downloadFileUrl,shapefileAopYear,dataQF,publicationDate,release,dpID,site_download,year_download,source_table
+394cb471-4aff-4b42-a7c3-601b32be5a2e,2020-06-30,2020-09-08,D12,YELL,YELL-2020-polygons-v3.zip,https://storage.neonscience.org/neon-crown-shapefiles/YELL-2020-polygons-v3.zip,2019,NA,20260106T160129Z,RELEASE-2026,DP1.10026.001,YELL,2020,cfc_shapefile

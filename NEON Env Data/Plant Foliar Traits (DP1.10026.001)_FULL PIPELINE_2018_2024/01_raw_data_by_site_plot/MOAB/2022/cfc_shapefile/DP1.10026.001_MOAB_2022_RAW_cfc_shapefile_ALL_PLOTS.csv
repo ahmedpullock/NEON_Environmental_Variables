@@ -1,0 +1,2 @@
+uid,startDate,endDate,domainID,siteID,downloadFileName,downloadFileUrl,shapefileAopYear,dataQF,publicationDate,release,dpID,site_download,year_download,source_table
+ca8d867b-0b51-4042-9746-18506c58413c,2022-05-10,2022-05-14,D13,MOAB,MOAB-2022-polygons-v2.zip,https://storage.neonscience.org/neon-crown-shapefiles/MOAB-2022-polygons-v2.zip,2021,NA,20260106T155734Z,RELEASE-2026,DP1.10026.001,MOAB,2022,cfc_shapefile

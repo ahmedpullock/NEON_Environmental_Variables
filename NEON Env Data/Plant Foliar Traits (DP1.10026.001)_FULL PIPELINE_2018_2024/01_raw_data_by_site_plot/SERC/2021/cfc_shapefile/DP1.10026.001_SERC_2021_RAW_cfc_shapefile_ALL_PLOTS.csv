@@ -1,0 +1,2 @@
+uid,startDate,endDate,domainID,siteID,downloadFileName,downloadFileUrl,shapefileAopYear,dataQF,publicationDate,release,dpID,site_download,year_download,source_table
+8e1ac31b-7b09-44a8-a1d2-ff767b983b3c,2021-08-09,2021-08-25,D02,SERC,SERC-2021-polygons-v2.zip,https://storage.neonscience.org/neon-crown-shapefiles/SERC-2021-polygons-v2.zip,2017,NA,20260106T155553Z,RELEASE-2026,DP1.10026.001,SERC,2021,cfc_shapefile

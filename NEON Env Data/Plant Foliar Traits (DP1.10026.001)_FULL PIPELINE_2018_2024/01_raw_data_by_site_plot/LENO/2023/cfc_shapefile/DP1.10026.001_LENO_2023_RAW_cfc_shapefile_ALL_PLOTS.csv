@@ -1,0 +1,2 @@
+uid,startDate,endDate,domainID,siteID,downloadFileName,downloadFileUrl,shapefileAopYear,dataQF,publicationDate,release,dpID,site_download,year_download,source_table
+cea5c2fc-6deb-4bfa-80b6-ed927efbe106,2023-05-15,2023-06-01,D08,LENO,LENO-2023-polygons-v2.zip,https://storage.neonscience.org/neon-crown-shapefiles/LENO-2023-polygons-v2.zip,2021,NA,20260106T155326Z,RELEASE-2026,DP1.10026.001,LENO,2023,cfc_shapefile

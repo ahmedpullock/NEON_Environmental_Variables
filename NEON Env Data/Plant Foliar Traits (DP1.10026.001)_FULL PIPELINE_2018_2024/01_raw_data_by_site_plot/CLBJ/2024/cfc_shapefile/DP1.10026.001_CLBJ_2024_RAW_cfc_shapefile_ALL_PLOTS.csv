@@ -1,0 +1,2 @@
+uid,startDate,endDate,domainID,siteID,downloadFileName,downloadFileUrl,shapefileAopYear,dataQF,publicationDate,release,dpID,site_download,year_download,source_table
+d68f0ed5-668e-4f74-8d96-bcf9809c217b,2024-05-14,2024-06-04,D11,CLBJ,CLBJ-2024-polygons.zip,https://storage.neonscience.org/neon-crown-shapefiles/CLBJ-2024-polygons.zip,2022,NA,20260106T154545Z,RELEASE-2026,DP1.10026.001,CLBJ,2024,cfc_shapefile

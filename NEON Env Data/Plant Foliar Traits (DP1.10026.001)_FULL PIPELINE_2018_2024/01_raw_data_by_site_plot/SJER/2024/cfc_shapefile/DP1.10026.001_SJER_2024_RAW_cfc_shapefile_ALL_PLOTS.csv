@@ -1,0 +1,2 @@
+uid,startDate,endDate,domainID,siteID,downloadFileName,downloadFileUrl,shapefileAopYear,dataQF,publicationDate,release,dpID,site_download,year_download,source_table
+1b6f1a8a-737f-4515-8af8-ea42a3f6c385,2024-04-08,2024-04-24,D17,SJER,SJER-2024-polygons.zip,https://storage.neonscience.org/neon-crown-shapefiles/SJER-2024-polygons.zip,2021,NA,20260106T155622Z,RELEASE-2026,DP1.10026.001,SJER,2024,cfc_shapefile

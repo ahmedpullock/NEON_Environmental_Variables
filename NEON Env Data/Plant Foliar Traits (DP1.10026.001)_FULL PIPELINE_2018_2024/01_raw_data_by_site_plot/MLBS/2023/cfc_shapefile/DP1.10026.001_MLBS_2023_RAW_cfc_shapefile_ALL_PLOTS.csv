@@ -1,0 +1,2 @@
+uid,startDate,endDate,domainID,siteID,downloadFileName,downloadFileUrl,shapefileAopYear,dataQF,publicationDate,release,dpID,site_download,year_download,source_table
+09c72391-abc5-434a-b686-496f27ba8d0e,2023-06-05,2023-06-20,D07,MLBS,MLBS-2023-polygons-v2.zip,https://storage.neonscience.org/neon-crown-shapefiles/MLBS-2023-polygons-v2.zip,2021,NA,20260106T155715Z,RELEASE-2026,DP1.10026.001,MLBS,2023,cfc_shapefile

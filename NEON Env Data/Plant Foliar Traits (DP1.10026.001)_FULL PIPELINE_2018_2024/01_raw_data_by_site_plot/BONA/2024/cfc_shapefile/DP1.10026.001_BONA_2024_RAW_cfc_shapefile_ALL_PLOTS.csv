@@ -1,0 +1,2 @@
+uid,startDate,endDate,domainID,siteID,downloadFileName,downloadFileUrl,shapefileAopYear,dataQF,publicationDate,release,dpID,site_download,year_download,source_table
+a5013d1c-478b-495d-96b6-8b1116d5d041,2024-07-01,2024-07-10,D19,BONA,BONA-2024-polygons.zip,https://storage.neonscience.org/neon-crown-shapefiles/BONA-2024-polygons.zip,2021,NA,20260106T154432Z,RELEASE-2026,DP1.10026.001,BONA,2024,cfc_shapefile

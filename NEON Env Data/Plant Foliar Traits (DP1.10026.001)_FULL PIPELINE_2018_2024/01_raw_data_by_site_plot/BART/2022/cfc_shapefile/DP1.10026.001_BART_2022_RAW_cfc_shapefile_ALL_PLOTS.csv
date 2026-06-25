@@ -1,0 +1,2 @@
+uid,startDate,endDate,domainID,siteID,downloadFileName,downloadFileUrl,shapefileAopYear,dataQF,publicationDate,release,dpID,site_download,year_download,source_table
+c4263f13-3ffc-4051-a75f-07b8a4f6bf7e,2022-08-01,2022-08-10,D01,BART,BART-2022-polygons-v2.zip,https://storage.neonscience.org/neon-crown-shapefiles/BART-2022-polygons-v2.zip,2019,NA,20260106T155555Z,RELEASE-2026,DP1.10026.001,BART,2022,cfc_shapefile

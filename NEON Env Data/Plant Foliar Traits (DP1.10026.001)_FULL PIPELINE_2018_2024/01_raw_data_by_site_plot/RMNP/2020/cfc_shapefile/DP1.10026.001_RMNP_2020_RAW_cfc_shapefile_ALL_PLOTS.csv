@@ -1,0 +1,2 @@
+uid,startDate,endDate,domainID,siteID,downloadFileName,downloadFileUrl,shapefileAopYear,dataQF,publicationDate,release,dpID,site_download,year_download,source_table
+70459681-c80b-42f2-9303-9a8cca71a676,2020-07-06,2020-07-23,D10,RMNP,RMNP-2020-polygons-v3.zip,https://storage.neonscience.org/neon-crown-shapefiles/RMNP-2020-polygons-v3.zip,2018,NA,20260106T154307Z,RELEASE-2026,DP1.10026.001,RMNP,2020,cfc_shapefile
