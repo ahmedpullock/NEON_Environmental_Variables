@@ -32,6 +32,9 @@ Each dataset is accompanied by a metadata file describing variables, units, and 
 4. Soil Moisture --
    (NEON Data Product: DP1.00094.001): Site-level summaries of volumetric soil water content across NEON terrestrial sites.
 
+5. Soil Physical and Chemical Properties -- (NEON Data Product: DP1.10086.001)
+6. Plant Foliar Traits -- (NEON Data Product: DP1.10026.001)
+
 Each dataset is accompanied by a metadata file describing variables, units, and data provenance.
 
 P.S. for Collaborators: Please feel free to reach out if you find any discrepency and/or with any suggestons.
