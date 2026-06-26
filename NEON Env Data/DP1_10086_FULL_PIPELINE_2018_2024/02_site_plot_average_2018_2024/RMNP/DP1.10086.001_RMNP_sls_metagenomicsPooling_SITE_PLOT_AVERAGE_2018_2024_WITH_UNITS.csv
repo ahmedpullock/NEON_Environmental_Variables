@@ -1,0 +1,7 @@
+dpID,site,table,years_averaged,siteID,plotID,namedLocation,n_raw_records,year_download_mean_2018_2024,collectYear_mean_2018_2024,year_download_mean_2018_2024_unit,collectYear_mean_2018_2024_unit
+DP1.10086.001,RMNP,sls_metagenomicsPooling,2018-2024,RMNP,RMNP_002,RMNP_002.basePlot.bgc,2,2020,2020,NA,NA
+DP1.10086.001,RMNP,sls_metagenomicsPooling,2018-2024,RMNP,RMNP_004,RMNP_004.basePlot.bgc,2,2020,2020,NA,NA
+DP1.10086.001,RMNP,sls_metagenomicsPooling,2018-2024,RMNP,RMNP_013,RMNP_013.basePlot.bgc,2,2020,2020,NA,NA
+DP1.10086.001,RMNP,sls_metagenomicsPooling,2018-2024,RMNP,RMNP_041,RMNP_041.basePlot.bgc,2,2020,2020,NA,NA
+DP1.10086.001,RMNP,sls_metagenomicsPooling,2018-2024,RMNP,RMNP_043,RMNP_043.basePlot.bgc,2,2020,2020,NA,NA
+DP1.10086.001,RMNP,sls_metagenomicsPooling,2018-2024,RMNP,RMNP_045,RMNP_045.basePlot.bgc,2,2020,2020,NA,NA

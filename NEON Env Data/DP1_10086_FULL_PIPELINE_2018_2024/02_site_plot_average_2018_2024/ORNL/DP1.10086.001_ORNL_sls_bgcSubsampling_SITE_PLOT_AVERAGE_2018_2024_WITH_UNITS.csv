@@ -1,0 +1,14 @@
+dpID,site,table,years_averaged,siteID,plotID,namedLocation,horizon,n_raw_records,bgcArchiveMass_mean_2018_2024,year_download_mean_2018_2024,collectYear_mean_2018_2024,bgcArchiveMass_mean_2018_2024_unit,year_download_mean_2018_2024_unit,collectYear_mean_2018_2024_unit
+DP1.10086.001,ORNL,sls_bgcSubsampling,2018-2024,ORNL,ORNL_001,ORNL_001.basePlot.bgc,M,3,163.5,2022,2022,gram,NA,NA
+DP1.10086.001,ORNL,sls_bgcSubsampling,2018-2024,ORNL,ORNL_001,ORNL_001.basePlot.bgc,O,1,8.9,2022,2022,gram,NA,NA
+DP1.10086.001,ORNL,sls_bgcSubsampling,2018-2024,ORNL,ORNL_002,ORNL_002.basePlot.bgc,M,3,162.73333333333332,2022,2022,gram,NA,NA
+DP1.10086.001,ORNL,sls_bgcSubsampling,2018-2024,ORNL,ORNL_003,ORNL_003.basePlot.bgc,M,3,159.2,2022,2022,gram,NA,NA
+DP1.10086.001,ORNL,sls_bgcSubsampling,2018-2024,ORNL,ORNL_004,ORNL_004.basePlot.bgc,M,1,194,2022,2022,gram,NA,NA
+DP1.10086.001,ORNL,sls_bgcSubsampling,2018-2024,ORNL,ORNL_006,ORNL_006.basePlot.bgc,M,3,168.43333333333334,2022,2022,gram,NA,NA
+DP1.10086.001,ORNL,sls_bgcSubsampling,2018-2024,ORNL,ORNL_027,ORNL_027.basePlot.bgc,M,3,183.93333333333334,2022,2022,gram,NA,NA
+DP1.10086.001,ORNL,sls_bgcSubsampling,2018-2024,ORNL,ORNL_043,ORNL_043.basePlot.bgc,M,3,133.86666666666667,2022,2022,gram,NA,NA
+DP1.10086.001,ORNL,sls_bgcSubsampling,2018-2024,ORNL,ORNL_043,ORNL_043.basePlot.bgc,O,1,22.2,2022,2022,gram,NA,NA
+DP1.10086.001,ORNL,sls_bgcSubsampling,2018-2024,ORNL,ORNL_046,ORNL_046.basePlot.bgc,M,3,161.93333333333334,2022,2022,gram,NA,NA
+DP1.10086.001,ORNL,sls_bgcSubsampling,2018-2024,ORNL,ORNL_049,ORNL_049.basePlot.bgc,M,3,186.93333333333334,2022,2022,gram,NA,NA
+DP1.10086.001,ORNL,sls_bgcSubsampling,2018-2024,ORNL,ORNL_049,ORNL_049.basePlot.bgc,O,1,5.3,2022,2022,gram,NA,NA
+DP1.10086.001,ORNL,sls_bgcSubsampling,2018-2024,ORNL,ORNL_053,ORNL_053.basePlot.bgc,M,3,183.7,2022,2022,gram,NA,NA

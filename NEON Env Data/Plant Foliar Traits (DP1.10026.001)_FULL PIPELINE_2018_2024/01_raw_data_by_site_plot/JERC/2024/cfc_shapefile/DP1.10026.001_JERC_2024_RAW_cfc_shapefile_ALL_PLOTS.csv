@@ -1,0 +1,2 @@
+uid,startDate,endDate,domainID,siteID,downloadFileName,downloadFileUrl,shapefileAopYear,dataQF,publicationDate,release,dpID,site_download,year_download,source_table
+c1a6cce0-e6b7-4649-8c3c-d55da8e149bb,2024-05-06,2024-05-15,D03,JERC,JERC-2024-polygons.zip,https://storage.neonscience.org/neon-crown-shapefiles/JERC-2024-polygons.zip,2021,NA,20260106T223513Z,RELEASE-2026,DP1.10026.001,JERC,2024,cfc_shapefile

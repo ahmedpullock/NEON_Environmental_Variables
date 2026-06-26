@@ -1,0 +1,11 @@
+dpID,site,table,years_averaged,siteID,plotID,namedLocation,n_raw_records,year_download_mean_2018_2024,collectYear_mean_2018_2024,year_download_mean_2018_2024_unit,collectYear_mean_2018_2024_unit
+DP1.10086.001,SERC,sls_metagenomicsPooling,2018-2024,SERC,SERC_001,SERC_001.basePlot.bgc,1,2021,2021,NA,NA
+DP1.10086.001,SERC,sls_metagenomicsPooling,2018-2024,SERC,SERC_002,SERC_002.basePlot.bgc,1,2021,2021,NA,NA
+DP1.10086.001,SERC,sls_metagenomicsPooling,2018-2024,SERC,SERC_003,SERC_003.basePlot.bgc,1,2021,2021,NA,NA
+DP1.10086.001,SERC,sls_metagenomicsPooling,2018-2024,SERC,SERC_004,SERC_004.basePlot.bgc,1,2021,2021,NA,NA
+DP1.10086.001,SERC,sls_metagenomicsPooling,2018-2024,SERC,SERC_005,SERC_005.basePlot.bgc,1,2021,2021,NA,NA
+DP1.10086.001,SERC,sls_metagenomicsPooling,2018-2024,SERC,SERC_007,SERC_007.basePlot.bgc,1,2021,2021,NA,NA
+DP1.10086.001,SERC,sls_metagenomicsPooling,2018-2024,SERC,SERC_044,SERC_044.basePlot.bgc,1,2021,2021,NA,NA
+DP1.10086.001,SERC,sls_metagenomicsPooling,2018-2024,SERC,SERC_045,SERC_045.basePlot.bgc,1,2021,2021,NA,NA
+DP1.10086.001,SERC,sls_metagenomicsPooling,2018-2024,SERC,SERC_047,SERC_047.basePlot.bgc,1,2021,2021,NA,NA
+DP1.10086.001,SERC,sls_metagenomicsPooling,2018-2024,SERC,SERC_049,SERC_049.basePlot.bgc,1,2021,2021,NA,NA

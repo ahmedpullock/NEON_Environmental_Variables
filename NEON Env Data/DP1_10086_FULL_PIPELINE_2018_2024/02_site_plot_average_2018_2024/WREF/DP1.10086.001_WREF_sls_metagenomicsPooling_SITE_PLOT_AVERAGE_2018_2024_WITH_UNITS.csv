@@ -1,0 +1,11 @@
+dpID,site,table,years_averaged,siteID,plotID,namedLocation,n_raw_records,year_download_mean_2018_2024,collectYear_mean_2018_2024,year_download_mean_2018_2024_unit,collectYear_mean_2018_2024_unit
+DP1.10086.001,WREF,sls_metagenomicsPooling,2018-2024,WREF,WREF_001,WREF_001.basePlot.bgc,11,2020.4545454545455,2020.4545454545455,NA,NA
+DP1.10086.001,WREF,sls_metagenomicsPooling,2018-2024,WREF,WREF_003,WREF_003.basePlot.bgc,10,2020.7,2020.7,NA,NA
+DP1.10086.001,WREF,sls_metagenomicsPooling,2018-2024,WREF,WREF_004,WREF_004.basePlot.bgc,10,2021.1,2021.1,NA,NA
+DP1.10086.001,WREF,sls_metagenomicsPooling,2018-2024,WREF,WREF_005,WREF_005.basePlot.bgc,9,2021.3333333333333,2021.3333333333333,NA,NA
+DP1.10086.001,WREF,sls_metagenomicsPooling,2018-2024,WREF,WREF_007,WREF_007.basePlot.bgc,11,2021,2021,NA,NA
+DP1.10086.001,WREF,sls_metagenomicsPooling,2018-2024,WREF,WREF_008,WREF_008.basePlot.bgc,10,2020.9,2020.9,NA,NA
+DP1.10086.001,WREF,sls_metagenomicsPooling,2018-2024,WREF,WREF_070,WREF_070.basePlot.bgc,11,2021,2021,NA,NA
+DP1.10086.001,WREF,sls_metagenomicsPooling,2018-2024,WREF,WREF_071,WREF_071.basePlot.bgc,9,2021,2021,NA,NA
+DP1.10086.001,WREF,sls_metagenomicsPooling,2018-2024,WREF,WREF_072,WREF_072.basePlot.bgc,11,2020.6363636363637,2020.6363636363637,NA,NA
+DP1.10086.001,WREF,sls_metagenomicsPooling,2018-2024,WREF,WREF_073,WREF_073.basePlot.bgc,11,2021,2021,NA,NA

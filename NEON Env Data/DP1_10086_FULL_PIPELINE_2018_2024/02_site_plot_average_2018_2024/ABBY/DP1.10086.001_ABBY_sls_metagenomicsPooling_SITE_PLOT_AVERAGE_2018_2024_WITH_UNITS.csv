@@ -1,0 +1,11 @@
+dpID,site,table,years_averaged,siteID,plotID,namedLocation,n_raw_records,year_download_mean_2018_2024,collectYear_mean_2018_2024,year_download_mean_2018_2024_unit,collectYear_mean_2018_2024_unit
+DP1.10086.001,ABBY,sls_metagenomicsPooling,2018-2024,ABBY,ABBY_001,ABBY_001.basePlot.bgc,1,2022,2022,NA,NA
+DP1.10086.001,ABBY,sls_metagenomicsPooling,2018-2024,ABBY,ABBY_002,ABBY_002.basePlot.bgc,2,2022,2022,NA,NA
+DP1.10086.001,ABBY,sls_metagenomicsPooling,2018-2024,ABBY,ABBY_003,ABBY_003.basePlot.bgc,1,2022,2022,NA,NA
+DP1.10086.001,ABBY,sls_metagenomicsPooling,2018-2024,ABBY,ABBY_004,ABBY_004.basePlot.bgc,2,2022,2022,NA,NA
+DP1.10086.001,ABBY,sls_metagenomicsPooling,2018-2024,ABBY,ABBY_006,ABBY_006.basePlot.bgc,2,2022,2022,NA,NA
+DP1.10086.001,ABBY,sls_metagenomicsPooling,2018-2024,ABBY,ABBY_023,ABBY_023.basePlot.bgc,2,2022,2022,NA,NA
+DP1.10086.001,ABBY,sls_metagenomicsPooling,2018-2024,ABBY,ABBY_061,ABBY_061.basePlot.bgc,1,2022,2022,NA,NA
+DP1.10086.001,ABBY,sls_metagenomicsPooling,2018-2024,ABBY,ABBY_062,ABBY_062.basePlot.bgc,1,2022,2022,NA,NA
+DP1.10086.001,ABBY,sls_metagenomicsPooling,2018-2024,ABBY,ABBY_063,ABBY_063.basePlot.bgc,2,2022,2022,NA,NA
+DP1.10086.001,ABBY,sls_metagenomicsPooling,2018-2024,ABBY,ABBY_070,ABBY_070.basePlot.bgc,2,2022,2022,NA,NA

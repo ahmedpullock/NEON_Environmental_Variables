@@ -1,0 +1,11 @@
+dpID,site,table,years_averaged,siteID,plotID,namedLocation,plotType,n_raw_records,incubationLength_mean_2018_2024,soilFreshMass_mean_2018_2024,kclVolume_mean_2018_2024,year_download_mean_2018_2024,collectYear_mean_2018_2024,incubationLength_mean_2018_2024_unit,soilFreshMass_mean_2018_2024_unit,kclVolume_mean_2018_2024_unit,year_download_mean_2018_2024_unit,collectYear_mean_2018_2024_unit
+DP1.10086.001,TREE,ntr_internalLab,2018-2024,TREE,TREE_001,TREE_001.basePlot.bgc,distributed,12,10.546666666666667,10.13,100,2020,2020,day,gram,milliliter,NA,NA
+DP1.10086.001,TREE,ntr_internalLab,2018-2024,TREE,TREE_002,TREE_002.basePlot.bgc,distributed,18,10.537222222222223,10.052777777777777,100,2020,2020,day,gram,milliliter,NA,NA
+DP1.10086.001,TREE,ntr_internalLab,2018-2024,TREE,TREE_003,TREE_003.basePlot.bgc,distributed,12,9.711666666666666,10.0325,100,2020,2020,day,gram,milliliter,NA,NA
+DP1.10086.001,TREE,ntr_internalLab,2018-2024,TREE,TREE_004,TREE_004.basePlot.bgc,distributed,12,10.570833333333333,10.1225,100,2020,2020,day,gram,milliliter,NA,NA
+DP1.10086.001,TREE,ntr_internalLab,2018-2024,TREE,TREE_006,TREE_006.basePlot.bgc,distributed,12,10.805833333333332,10.123333333333333,100,2020,2020,day,gram,milliliter,NA,NA
+DP1.10086.001,TREE,ntr_internalLab,2018-2024,TREE,TREE_014,TREE_014.basePlot.bgc,distributed,12,10.503333333333334,10.0975,100,2020,2020,day,gram,milliliter,NA,NA
+DP1.10086.001,TREE,ntr_internalLab,2018-2024,TREE,TREE_041,TREE_041.basePlot.bgc,tower,12,10.045833333333334,10.109166666666667,100,2020,2020,day,gram,milliliter,NA,NA
+DP1.10086.001,TREE,ntr_internalLab,2018-2024,TREE,TREE_046,TREE_046.basePlot.bgc,tower,12,10.451666666666666,10.071666666666667,100,2020,2020,day,gram,milliliter,NA,NA
+DP1.10086.001,TREE,ntr_internalLab,2018-2024,TREE,TREE_049,TREE_049.basePlot.bgc,tower,12,9.920833333333334,10.120833333333334,100,2020,2020,day,gram,milliliter,NA,NA
+DP1.10086.001,TREE,ntr_internalLab,2018-2024,TREE,TREE_050,TREE_050.basePlot.bgc,tower,12,9.941666666666666,10.155,100,2020,2020,day,gram,milliliter,NA,NA

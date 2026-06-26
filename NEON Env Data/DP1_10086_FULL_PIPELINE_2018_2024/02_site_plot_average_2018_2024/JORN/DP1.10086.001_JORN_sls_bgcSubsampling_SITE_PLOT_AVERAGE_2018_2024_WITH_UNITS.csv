@@ -1,0 +1,11 @@
+dpID,site,table,years_averaged,siteID,plotID,namedLocation,horizon,n_raw_records,bgcArchiveMass_mean_2018_2024,year_download_mean_2018_2024,collectYear_mean_2018_2024,bgcArchiveMass_mean_2018_2024_unit,year_download_mean_2018_2024_unit,collectYear_mean_2018_2024_unit
+DP1.10086.001,JORN,sls_bgcSubsampling,2018-2024,JORN,JORN_001,JORN_001.basePlot.bgc,M,3,243,2022,2022,gram,NA,NA
+DP1.10086.001,JORN,sls_bgcSubsampling,2018-2024,JORN,JORN_002,JORN_002.basePlot.bgc,M,3,272.6,2022,2022,gram,NA,NA
+DP1.10086.001,JORN,sls_bgcSubsampling,2018-2024,JORN,JORN_003,JORN_003.basePlot.bgc,M,3,283.76666666666665,2022,2022,gram,NA,NA
+DP1.10086.001,JORN,sls_bgcSubsampling,2018-2024,JORN,JORN_004,JORN_004.basePlot.bgc,M,3,266.43333333333334,2022,2022,gram,NA,NA
+DP1.10086.001,JORN,sls_bgcSubsampling,2018-2024,JORN,JORN_005,JORN_005.basePlot.bgc,M,3,249.46666666666667,2022,2022,gram,NA,NA
+DP1.10086.001,JORN,sls_bgcSubsampling,2018-2024,JORN,JORN_006,JORN_006.basePlot.bgc,M,3,301.2,2022,2022,gram,NA,NA
+DP1.10086.001,JORN,sls_bgcSubsampling,2018-2024,JORN,JORN_042,JORN_042.basePlot.bgc,M,3,244.43333333333334,2022,2022,gram,NA,NA
+DP1.10086.001,JORN,sls_bgcSubsampling,2018-2024,JORN,JORN_044,JORN_044.basePlot.bgc,M,3,250.96666666666667,2022,2022,gram,NA,NA
+DP1.10086.001,JORN,sls_bgcSubsampling,2018-2024,JORN,JORN_045,JORN_045.basePlot.bgc,M,3,247.43333333333334,2022,2022,gram,NA,NA
+DP1.10086.001,JORN,sls_bgcSubsampling,2018-2024,JORN,JORN_047,JORN_047.basePlot.bgc,M,3,273.3,2022,2022,gram,NA,NA

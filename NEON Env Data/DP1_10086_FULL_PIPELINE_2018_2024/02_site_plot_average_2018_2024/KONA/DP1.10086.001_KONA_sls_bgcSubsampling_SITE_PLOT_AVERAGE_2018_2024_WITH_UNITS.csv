@@ -1,0 +1,11 @@
+dpID,site,table,years_averaged,siteID,plotID,namedLocation,horizon,n_raw_records,bgcArchiveMass_mean_2018_2024,year_download_mean_2018_2024,collectYear_mean_2018_2024,bgcArchiveMass_mean_2018_2024_unit,year_download_mean_2018_2024_unit,collectYear_mean_2018_2024_unit
+DP1.10086.001,KONA,sls_bgcSubsampling,2018-2024,KONA,KONA_001,KONA_001.basePlot.bgc,M,6,192.3,2021.5,2021.5,gram,NA,NA
+DP1.10086.001,KONA,sls_bgcSubsampling,2018-2024,KONA,KONA_002,KONA_002.basePlot.bgc,M,6,171.43333333333334,2021.5,2021.5,gram,NA,NA
+DP1.10086.001,KONA,sls_bgcSubsampling,2018-2024,KONA,KONA_003,KONA_003.basePlot.bgc,M,6,142.8,2021.5,2021.5,gram,NA,NA
+DP1.10086.001,KONA,sls_bgcSubsampling,2018-2024,KONA,KONA_004,KONA_004.basePlot.bgc,M,6,186.2,2021.5,2021.5,gram,NA,NA
+DP1.10086.001,KONA,sls_bgcSubsampling,2018-2024,KONA,KONA_005,KONA_005.basePlot.bgc,M,6,182.4,2021.5,2021.5,gram,NA,NA
+DP1.10086.001,KONA,sls_bgcSubsampling,2018-2024,KONA,KONA_006,KONA_006.basePlot.bgc,M,6,169.06666666666666,2021.5,2021.5,gram,NA,NA
+DP1.10086.001,KONA,sls_bgcSubsampling,2018-2024,KONA,KONA_048,KONA_048.basePlot.bgc,M,6,171.63333333333333,2021.5,2021.5,gram,NA,NA
+DP1.10086.001,KONA,sls_bgcSubsampling,2018-2024,KONA,KONA_054,KONA_054.basePlot.bgc,M,6,110.63333333333333,2021.5,2021.5,gram,NA,NA
+DP1.10086.001,KONA,sls_bgcSubsampling,2018-2024,KONA,KONA_057,KONA_057.basePlot.bgc,M,6,111,2021.5,2021.5,gram,NA,NA
+DP1.10086.001,KONA,sls_bgcSubsampling,2018-2024,KONA,KONA_059,KONA_059.basePlot.bgc,M,6,154.76666666666668,2021.5,2021.5,gram,NA,NA

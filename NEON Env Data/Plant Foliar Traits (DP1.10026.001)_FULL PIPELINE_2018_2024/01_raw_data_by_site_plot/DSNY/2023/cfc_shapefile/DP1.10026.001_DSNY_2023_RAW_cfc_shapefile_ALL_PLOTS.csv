@@ -1,0 +1,2 @@
+uid,startDate,endDate,domainID,siteID,downloadFileName,downloadFileUrl,shapefileAopYear,dataQF,publicationDate,release,dpID,site_download,year_download,source_table
+15c1cbda-4360-438e-a57e-2efa1bbcef1e,2023-04-18,2023-04-26,D03,DSNY,DSNY-2023-polygons-v2.zip,https://storage.neonscience.org/neon-crown-shapefiles/DSNY-2023-polygons-v2.zip,2021,NA,20260106T154723Z,RELEASE-2026,DP1.10026.001,DSNY,2023,cfc_shapefile

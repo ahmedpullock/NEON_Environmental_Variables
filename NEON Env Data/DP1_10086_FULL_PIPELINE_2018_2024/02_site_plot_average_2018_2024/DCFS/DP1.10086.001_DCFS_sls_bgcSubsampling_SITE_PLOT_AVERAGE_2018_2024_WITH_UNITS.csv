@@ -1,0 +1,13 @@
+dpID,site,table,years_averaged,siteID,plotID,namedLocation,horizon,n_raw_records,bgcArchiveMass_mean_2018_2024,year_download_mean_2018_2024,collectYear_mean_2018_2024,bgcArchiveMass_mean_2018_2024_unit,year_download_mean_2018_2024_unit,collectYear_mean_2018_2024_unit
+DP1.10086.001,DCFS,sls_bgcSubsampling,2018-2024,DCFS,DCFS_003,DCFS_003.basePlot.bgc,M,6,161.9,2021,2021,gram,NA,NA
+DP1.10086.001,DCFS,sls_bgcSubsampling,2018-2024,DCFS,DCFS_004,DCFS_004.basePlot.bgc,M,6,247.1,2021,2021,gram,NA,NA
+DP1.10086.001,DCFS,sls_bgcSubsampling,2018-2024,DCFS,DCFS_006,DCFS_006.basePlot.bgc,M,6,151.33333333333334,2021,2021,gram,NA,NA
+DP1.10086.001,DCFS,sls_bgcSubsampling,2018-2024,DCFS,DCFS_007,DCFS_007.basePlot.bgc,M,6,199.46666666666667,2021,2021,gram,NA,NA
+DP1.10086.001,DCFS,sls_bgcSubsampling,2018-2024,DCFS,DCFS_008,DCFS_008.basePlot.bgc,M,6,198.9,2021,2021,gram,NA,NA
+DP1.10086.001,DCFS,sls_bgcSubsampling,2018-2024,DCFS,DCFS_009,DCFS_009.basePlot.bgc,M,6,238.13333333333333,2021,2021,gram,NA,NA
+DP1.10086.001,DCFS,sls_bgcSubsampling,2018-2024,DCFS,DCFS_062,DCFS_062.basePlot.bgc,M,6,202.16666666666666,2021,2021,gram,NA,NA
+DP1.10086.001,DCFS,sls_bgcSubsampling,2018-2024,DCFS,DCFS_062,DCFS_062.basePlot.bgc,O,1,58.9,2023,2023,gram,NA,NA
+DP1.10086.001,DCFS,sls_bgcSubsampling,2018-2024,DCFS,DCFS_063,DCFS_063.basePlot.bgc,M,6,169.36666666666667,2021,2021,gram,NA,NA
+DP1.10086.001,DCFS,sls_bgcSubsampling,2018-2024,DCFS,DCFS_063,DCFS_063.basePlot.bgc,O,1,27.5,2023,2023,gram,NA,NA
+DP1.10086.001,DCFS,sls_bgcSubsampling,2018-2024,DCFS,DCFS_065,DCFS_065.basePlot.bgc,M,6,225.4,2021,2021,gram,NA,NA
+DP1.10086.001,DCFS,sls_bgcSubsampling,2018-2024,DCFS,DCFS_067,DCFS_067.basePlot.bgc,M,6,227.4,2021,2021,gram,NA,NA

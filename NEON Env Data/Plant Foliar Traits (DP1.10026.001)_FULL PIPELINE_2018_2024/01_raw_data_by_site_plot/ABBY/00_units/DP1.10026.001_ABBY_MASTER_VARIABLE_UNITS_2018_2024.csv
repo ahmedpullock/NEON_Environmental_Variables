@@ -1,0 +1,380 @@
+table,fieldName,description,dataType,units,downloadPkg,pubFormat,primaryKey,categoricalCodeName,dpID,site,year
+bgc_CNiso_externalSummary,uid,Unique ID within NEON database; an identifier for the record,string,NA,expanded,asIs,N,NA,DP1.10026.001,ABBY,2022
+bgc_CNiso_externalSummary,analyte,Analyte or parameter measured,string,NA,expanded,LOV,Y,bgc.analyte,DP1.10026.001,ABBY,2022
+bgc_CNiso_externalSummary,analyteUnits,Associated units of measure for analyte,string,NA,expanded,LOV,N,bgc.analyteUnits,DP1.10026.001,ABBY,2022
+bgc_CNiso_externalSummary,sampleType,Type of sample,string,NA,expanded,LOV,Y,bgc.sampleType,DP1.10026.001,ABBY,2022
+bgc_CNiso_externalSummary,qaReferenceID,Identifier for quality assurance reference material or standard,string,NA,expanded,asIs,Y,NA,DP1.10026.001,ABBY,2022
+bgc_CNiso_externalSummary,analyteKnownValue,"The known value of a given analyte for a quality assurance reference material or standard, with units tied to the analyte",real,NA,expanded,*.##(round),Y,NA,DP1.10026.001,ABBY,2022
+bgc_CNiso_externalSummary,analyteObservedValue,"The measured value of a given analyte for a standard reference material, with units tied to the analyte",real,NA,expanded,*.##(round),N,NA,DP1.10026.001,ABBY,2022
+bgc_CNiso_externalSummary,analyteAbsoluteError,"Long-term average absolute error, e.g. the absolute value of the difference between observed and known values of the analyte, based on analysis of quality assurance reference materials or standards treated as unknowns",real,NA,expanded,*.###(round),N,NA,DP1.10026.001,ABBY,2022
+bgc_CNiso_externalSummary,analyteAccuracy,"Long-term average accuracy, e.g. the difference between observed and known values of the analyte, based on analysis of quality assurance reference materials or standards treated as unknowns",real,NA,expanded,*.###(round),N,NA,DP1.10026.001,ABBY,2022
+bgc_CNiso_externalSummary,analyteStandardDeviation,"Long-term average standard deviation values of the analyte, based on analysis of quality assurance reference materials or standards treated as unknowns",real,NA,expanded,*.###(round),N,NA,DP1.10026.001,ABBY,2022
+bgc_CNiso_externalSummary,analyteMetricsCount,Count of how many measurements were used to determine analyte metrics,unsigned integer,number,expanded,integer,N,NA,DP1.10026.001,ABBY,2022
+bgc_CNiso_externalSummary,qaReportingStartDate,Start date for the quality assurance (QA) reporting period,dateTime,NA,expanded,yyyy-MM-dd(floor),Y,NA,DP1.10026.001,ABBY,2022
+bgc_CNiso_externalSummary,qaReportingEndDate,End date for the quality assurance (QA) reporting period,dateTime,NA,expanded,yyyy-MM-dd(floor),N,NA,DP1.10026.001,ABBY,2022
+bgc_CNiso_externalSummary,laboratoryName,Name of the laboratory or facility that is processing the sample,string,NA,expanded,asIs,Y,NA,DP1.10026.001,ABBY,2022
+bgc_CNiso_externalSummary,instrument,Type of instrument used for the analysis,string,NA,expanded,LOV,N,bgc.instrument,DP1.10026.001,ABBY,2022
+bgc_CNiso_externalSummary,testMethod,Method used to conduct test,string,NA,expanded,LOV,N,bgc.testMethod,DP1.10026.001,ABBY,2022
+bgc_CNiso_externalSummary,method,Published method used for analysis,string,NA,expanded,asIs,N,NA,DP1.10026.001,ABBY,2022
+bgc_CNiso_externalSummary,dataQF,Data quality flag,string,NA,expanded,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_carbonNitrogen,uid,Unique ID within NEON database; an identifier for the record,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_carbonNitrogen,namedLocation,Name of the measurement location in the NEON database,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_carbonNitrogen,domainID,Unique identifier of the NEON domain,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_carbonNitrogen,siteID,NEON site code,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_carbonNitrogen,plotID,Plot identifier (NEON site code_XXX),string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_carbonNitrogen,plotType,"NEON plot type in which sampling occurred: tower, distributed or gradient",string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_carbonNitrogen,sampleID,Identifier for sample,string,NA,basic,obfuscate,N,NA,DP1.10026.001,ABBY,2022
+cfc_carbonNitrogen,sampleCode,Barcode of a sample,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_carbonNitrogen,cnSampleID,Identifier for a carbon-nitrogen sample,string,NA,basic,obfuscate,Y,NA,DP1.10026.001,ABBY,2022
+cfc_carbonNitrogen,cnSampleCode,Barcode of a carbon-nitrogen sample,string,NA,basic,asIs,Y,NA,DP1.10026.001,ABBY,2022
+cfc_carbonNitrogen,collectDate,Date of the collection event,dateTime,NA,basic,yyyy-MM-dd'T'HH:mm'Z'(floor),N,NA,DP1.10026.001,ABBY,2022
+cfc_carbonNitrogen,analysisDate,Date that the sample was analyzed,dateTime,NA,basic,yyyy-MM-dd(floor),N,NA,DP1.10026.001,ABBY,2022
+cfc_carbonNitrogen,co2Trapped,Indicator for whether carbon dioxide was trapped prior to analysis; used for measuring nitrogen in high C:N samples,string,NA,basic,LOV,Y,Yes or No choice,DP1.10026.001,ABBY,2022
+cfc_carbonNitrogen,d15N,"Measure of the ratio of 15N:14N in a sample, relative to atmospheric N2",real,permill,basic,*.#(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_carbonNitrogen,d13C,"Measure of the ratio of 13C:12C in a sample, relative to Vienna Pee Dee Belemnite",real,permill,basic,*.#(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_carbonNitrogen,nitrogenPercent,Percent nitrogen in a sample on a dry weight basis,real,percent,basic,*.##(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_carbonNitrogen,carbonPercent,Percent carbon in a sample on a dry weight basis,real,percent,basic,*.##(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_carbonNitrogen,CNratio,Ratio of carbon to nitrogen concentration in a sample on a dry weight basis,real,NA,basic,*.#(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_carbonNitrogen,cnIsotopeQF,Quality flag for stable isotope values outside the calibration range,string,NA,basic,LOV,N,bgc.cnIsotopeQF,DP1.10026.001,ABBY,2022
+cfc_carbonNitrogen,cnPercentQF,Quality flag for concentration values outside the calibration range,string,NA,basic,LOV,N,bgc.cnPercentQF,DP1.10026.001,ABBY,2022
+cfc_carbonNitrogen,isotopeAccuracyQF,Quality flag for accuracy of stable isotope values of QA materials associated with the run,string,NA,basic,LOV,N,bgc.isotopeAccuracyQF,DP1.10026.001,ABBY,2022
+cfc_carbonNitrogen,percentAccuracyQF,Quality flag for accuracy of percent concentration values of QA materials associated with the run,string,NA,basic,LOV,N,bgc.percentAccuracyQF,DP1.10026.001,ABBY,2022
+cfc_carbonNitrogen,analyticalRepNumber,Number of the analytical replicate,unsigned integer,number,basic,integer,Y,NA,DP1.10026.001,ABBY,2022
+cfc_carbonNitrogen,remarks,Technician notes; free text comments accompanying the record,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_carbonNitrogen,laboratoryName,Name of the laboratory or facility that is processing the sample,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_carbonNitrogen,testMethod,Method used to conduct test,string,NA,basic,LOV,N,bgc.testMethod,DP1.10026.001,ABBY,2022
+cfc_carbonNitrogen,instrument,Type of instrument used for the analysis,string,NA,basic,LOV,N,bgc.instrument,DP1.10026.001,ABBY,2022
+cfc_carbonNitrogen,analyzedBy,Name of lab personnel analyzing sample,string,NA,basic,obfuscate,N,NA,DP1.10026.001,ABBY,2022
+cfc_carbonNitrogen,reviewedBy,Name of lab personnel who reviewed the data prior to submission,string,NA,basic,obfuscate,N,NA,DP1.10026.001,ABBY,2022
+cfc_carbonNitrogen,dataQF,Data quality flag,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_carbonNitrogen,publicationDate,Date of data publication on the NEON data portal,dateTime,NA,appended by stackByTable,NA,N,,DP1.10026.001,ABBY,2022
+cfc_carbonNitrogen,release,Identifier for data release,string,NA,appended by stackByTable,NA,N,,DP1.10026.001,ABBY,2022
+cfc_chemistrySubsampling,uid,Unique ID within NEON database; an identifier for the record,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_chemistrySubsampling,namedLocation,Name of the measurement location in the NEON database,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_chemistrySubsampling,domainID,Unique identifier of the NEON domain,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_chemistrySubsampling,siteID,NEON site code,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_chemistrySubsampling,plotID,Plot identifier (NEON site code_XXX),string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_chemistrySubsampling,plotType,"NEON plot type in which sampling occurred: tower, distributed or gradient",string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_chemistrySubsampling,sampleID,Identifier for sample,string,NA,basic,obfuscate,Y,NA,DP1.10026.001,ABBY,2022
+cfc_chemistrySubsampling,sampleCode,Barcode of a sample,string,NA,basic,asIs,Y,NA,DP1.10026.001,ABBY,2022
+cfc_chemistrySubsampling,collectDate,Date of the collection event,dateTime,NA,basic,yyyy-MM-dd'T'HH:mm'Z'(floor),N,NA,DP1.10026.001,ABBY,2022
+cfc_chemistrySubsampling,ovenStartDate,The date and time a sample was placed in the drying oven,dateTime,NA,basic,yyyy-MM-dd'T'HH:mm'Z'(floor),N,NA,DP1.10026.001,ABBY,2022
+cfc_chemistrySubsampling,ovenEndDate,The date and time a sample was removed from the drying oven,dateTime,NA,basic,yyyy-MM-dd'T'HH:mm'Z'(floor),N,NA,DP1.10026.001,ABBY,2022
+cfc_chemistrySubsampling,sampleCondition,Condition of a sample,string,NA,basic,LOV,N,cfc.bgcSampleCondition,DP1.10026.001,ABBY,2022
+cfc_chemistrySubsampling,cnSampleID,Identifier for a carbon-nitrogen sample,string,NA,basic,obfuscate,N,NA,DP1.10026.001,ABBY,2022
+cfc_chemistrySubsampling,cnSampleCode,Barcode of a carbon-nitrogen sample,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_chemistrySubsampling,ligninSampleID,Identifier for a lignin sample,string,NA,basic,obfuscate,N,NA,DP1.10026.001,ABBY,2022
+cfc_chemistrySubsampling,ligninSampleBarcode,Barcode for a lignin sample,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_chemistrySubsampling,archiveSampleID,Identifier for an archive sample,string,NA,basic,obfuscate,N,NA,DP1.10026.001,ABBY,2022
+cfc_chemistrySubsampling,archiveSampleCode,Barcode of archive sample,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_chemistrySubsampling,archiveMass,Mass of an archive sample,real,gram,basic,*.##(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_chemistrySubsampling,toxicodendronPossible,Indicator for whether a sample may contain Toxicodendron spp,string,NA,basic,LOV,N,cfc.toxicodendron,DP1.10026.001,ABBY,2022
+cfc_chemistrySubsampling,processedBy,An identifier for the technician who processed the sample(s),string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_chemistrySubsampling,remarks,Technician notes; free text comments accompanying the record,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_chemistrySubsampling,dataQF,Data quality flag,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_chemistrySubsampling,publicationDate,Date of data publication on the NEON data portal,dateTime,NA,appended by stackByTable,NA,N,,DP1.10026.001,ABBY,2022
+cfc_chemistrySubsampling,release,Identifier for data release,string,NA,appended by stackByTable,NA,N,,DP1.10026.001,ABBY,2022
+cfc_chlorophyll,uid,Unique ID within NEON database; an identifier for the record,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_chlorophyll,namedLocation,Name of the measurement location in the NEON database,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_chlorophyll,domainID,Unique identifier of the NEON domain,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_chlorophyll,siteID,NEON site code,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_chlorophyll,plotID,Plot identifier (NEON site code_XXX),string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_chlorophyll,plotType,"NEON plot type in which sampling occurred: tower, distributed or gradient",string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_chlorophyll,sampleID,Identifier for sample,string,NA,basic,obfuscate,N,NA,DP1.10026.001,ABBY,2022
+cfc_chlorophyll,sampleCode,Barcode of a sample,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_chlorophyll,chlorophyllSampleID,Identifier for a chlorophyll sample,string,NA,basic,obfuscate,Y,NA,DP1.10026.001,ABBY,2022
+cfc_chlorophyll,chlorophyllSampleCode,Barcode of a chlorophyll sample,string,NA,basic,asIs,Y,NA,DP1.10026.001,ABBY,2022
+cfc_chlorophyll,collectDate,Date of the collection event,dateTime,NA,basic,yyyy-MM-dd'T'HH:mm'Z'(floor),N,NA,DP1.10026.001,ABBY,2022
+cfc_chlorophyll,sampleCondition,Condition of a sample,string,NA,basic,LOV,N,cfc.chlSampleCondition,DP1.10026.001,ABBY,2022
+cfc_chlorophyll,extractionStartDate,The start date-time for an extraction event,dateTime,NA,basic,yyyy-MM-dd(floor),N,NA,DP1.10026.001,ABBY,2022
+cfc_chlorophyll,extractionLength,The duration of an extraction event,real,hour,basic,integer,N,NA,DP1.10026.001,ABBY,2022
+cfc_chlorophyll,samplePrepMethod,Preparation or preservation method for a field sample prior to processing,string,NA,basic,LOV,Y,cfc.chlPrepMethod,DP1.10026.001,ABBY,2022
+cfc_chlorophyll,freshMass,Total fresh mass of a sample,real,gram,basic,*.####(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_chlorophyll,solventVolume,Volume of solvent used in the extraction,real,milliliter,basic,integer,N,NA,DP1.10026.001,ABBY,2022
+cfc_chlorophyll,dilutionFactor,The factor by which the sample was diluted prior to analysis,real,NA,expanded,integer,N,NA,DP1.10026.001,ABBY,2022
+cfc_chlorophyll,analyticalRepNumber,Number of the analytical replicate,unsigned integer,number,basic,integer,Y,NA,DP1.10026.001,ABBY,2022
+cfc_chlorophyll,chlCarotWavelength1,The first wavelength used to measure chlorophyll and carotenoid content,real,nanometer,expanded,integer,N,NA,DP1.10026.001,ABBY,2022
+cfc_chlorophyll,chlCarotWavelength2,The second wavelength used to measure chlorophyll and carotenoid content,real,nanometer,expanded,integer,N,NA,DP1.10026.001,ABBY,2022
+cfc_chlorophyll,chlCarotWavelength3,The third wavelength used to measure chlorophyll and carotenoid content,real,nanometer,expanded,integer,N,NA,DP1.10026.001,ABBY,2022
+cfc_chlorophyll,chlCarotWavelength4,The fourth wavelength used to measure chlorophyll and carotenoid content,real,nanometer,expanded,integer,N,NA,DP1.10026.001,ABBY,2022
+cfc_chlorophyll,chlCarotWavelength1Abs,Absorbance values for the first wavelength used to measure chlorophyll and carotenoid content,real,NA,expanded,*.####(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_chlorophyll,chlCarotWavelength2Abs,Absorbance values for the second wavelength used to measure chlorophyll and carotenoid content,real,NA,expanded,*.####(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_chlorophyll,chlCarotWavelength3Abs,Absorbance values for the third wavelength used to measure chlorophyll and carotenoid content,real,NA,expanded,*.####(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_chlorophyll,chlCarotWavelength4Abs,Absorbance values for the fourth wavelength used to measure chlorophyll and carotenoid content,real,NA,expanded,*.####(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_chlorophyll,extractChlAConc,"Calculated chlorophyll A concentration of the extract solution, dilution-corrected as needed",real,microgramsPerMilliliter,basic,*.##(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_chlorophyll,extractChlBConc,"Calculated chlorophyll B concentration of the extract solution, dilution-corrected as needed",real,microgramsPerMilliliter,basic,*.##(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_chlorophyll,extractCarotConc,"Calculated total carotenoid concentration of the extract solution, dilution-corrected as needed",real,microgramsPerMilliliter,basic,*.##(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_chlorophyll,handlingQF,Quality flag for sample handling,string,NA,basic,LOV,N,cfc.chlHandlingQF,DP1.10026.001,ABBY,2022
+cfc_chlorophyll,measurementQF,Quality flag for sample measurement,string,NA,basic,LOV,N,cfc.chlMeasurementQF,DP1.10026.001,ABBY,2022
+cfc_chlorophyll,relativeAccuracyScale,Indicator for the mean relative accuracy of standards analyzed as unknowns with a run of samples,string,NA,basic,LOV,N,cfc.chlRelativeAccuracyScale,DP1.10026.001,ABBY,2022
+cfc_chlorophyll,absorbanceStandardQF,Quality flag for the spectrometer absorbance standard,string,NA,basic,LOV,N,cfc.chlAbsorbanceQF,DP1.10026.001,ABBY,2022
+cfc_chlorophyll,chlQAMaterialQF,Quality flag for chlorophyll quality assurance materials associated with the run,string,NA,basic,LOV,N,cfc.chlQAQF,DP1.10026.001,ABBY,2022
+cfc_chlorophyll,remarks,Technician notes; free text comments accompanying the record,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_chlorophyll,laboratoryName,Name of the laboratory or facility that is processing the sample,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_chlorophyll,testMethod,Method used to conduct test,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_chlorophyll,analyzedBy,Name of lab personnel analyzing sample,string,NA,basic,obfuscate,N,NA,DP1.10026.001,ABBY,2022
+cfc_chlorophyll,reviewedBy,Name of lab personnel who reviewed the data prior to submission,string,NA,basic,obfuscate,N,NA,DP1.10026.001,ABBY,2022
+cfc_chlorophyll,dataQF,Data quality flag,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_chlorophyll,publicationDate,Date of data publication on the NEON data portal,dateTime,NA,appended by stackByTable,NA,N,,DP1.10026.001,ABBY,2022
+cfc_chlorophyll,release,Identifier for data release,string,NA,appended by stackByTable,NA,N,,DP1.10026.001,ABBY,2022
+cfc_chlorophyllParameters,uid,Unique ID within NEON database; an identifier for the record,string,NA,expanded,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_chlorophyllParameters,analyte,Analyte or parameter measured,string,NA,expanded,LOV,Y,cfc.chlAnalyte,DP1.10026.001,ABBY,2022
+cfc_chlorophyllParameters,chlCarotEquationInput,Equation input for calculating chlorophyll or carotenoid content,string,NA,expanded,asIs,Y,NA,DP1.10026.001,ABBY,2022
+cfc_chlorophyllParameters,chlCarotExtinctionCoefficient,Parameter used for calculating chlorophyll or carotenoid content,real,NA,expanded,*.##(round),Y,NA,DP1.10026.001,ABBY,2022
+cfc_chlorophyllParameters,ecReference,A list of sources (concatenated and semicolon separated) for the extinction coefficients,string,NA,expanded,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_chlorophyllParameters,laboratoryName,Name of the laboratory or facility that is processing the sample,string,NA,expanded,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_chlorophyllParameters,testMethod,Method used to conduct test,string,NA,expanded,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_chlorophyllParameters,labSpecificStartDate,"Date a specific analyte, instrument, and associated method detection limit combination started",dateTime,NA,expanded,yyyy-MM-dd(floor),Y,NA,DP1.10026.001,ABBY,2022
+cfc_chlorophyllParameters,labSpecificEndDate,"Date a specific analyte, instrument, and associated method detection limit combination ended",dateTime,NA,expanded,yyyy-MM-dd(floor),N,NA,DP1.10026.001,ABBY,2022
+cfc_chlorophyllParameters,dataQF,Data quality flag,string,NA,expanded,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_chlorophyllSummary,uid,Unique ID within NEON database; an identifier for the record,string,NA,expanded,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_chlorophyllSummary,analyte,Analyte or parameter measured,string,NA,expanded,LOV,Y,cfc.chlAnalyte,DP1.10026.001,ABBY,2022
+cfc_chlorophyllSummary,analyteUnits,Associated units of measure for analyte,string,NA,expanded,LOV,N,cfc.chlAnalyteUnits,DP1.10026.001,ABBY,2022
+cfc_chlorophyllSummary,sampleType,Type of sample,string,NA,expanded,LOV,Y,cfc.chlSampleType,DP1.10026.001,ABBY,2022
+cfc_chlorophyllSummary,qaReferenceID,Identifier for quality assurance reference material or standard,string,NA,expanded,asIs,Y,NA,DP1.10026.001,ABBY,2022
+cfc_chlorophyllSummary,analyteKnownValue,"The known value of a given analyte for a quality assurance reference material or standard, with units tied to the analyte",real,NA,expanded,*.##(round),Y,NA,DP1.10026.001,ABBY,2022
+cfc_chlorophyllSummary,analyteObservedValue,"The measured value of a given analyte for a standard reference material, with units tied to the analyte",real,NA,expanded,*.##(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_chlorophyllSummary,analyteAbsoluteError,"Long-term average absolute error, e.g. the absolute value of the difference between observed and known values of the analyte, based on analysis of quality assurance reference materials or standards treated as unknowns",real,NA,expanded,*.###(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_chlorophyllSummary,analyteAccuracy,"Long-term average accuracy, e.g. the difference between observed and known values of the analyte, based on analysis of quality assurance reference materials or standards treated as unknowns",real,NA,expanded,*.###(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_chlorophyllSummary,analyteStandardDeviation,"Long-term average standard deviation values of the analyte, based on analysis of quality assurance reference materials or standards treated as unknowns",real,NA,expanded,*.###(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_chlorophyllSummary,analyteMetricsCount,Count of how many measurements were used to determine analyte metrics,unsigned integer,number,expanded,integer,N,NA,DP1.10026.001,ABBY,2022
+cfc_chlorophyllSummary,qaReportingStartDate,Start date for the quality assurance (QA) reporting period,dateTime,NA,expanded,yyyy-MM-dd(floor),Y,NA,DP1.10026.001,ABBY,2022
+cfc_chlorophyllSummary,qaReportingEndDate,End date for the quality assurance (QA) reporting period,dateTime,NA,expanded,yyyy-MM-dd(floor),N,NA,DP1.10026.001,ABBY,2022
+cfc_chlorophyllSummary,laboratoryName,Name of the laboratory or facility that is processing the sample,string,NA,expanded,asIs,Y,NA,DP1.10026.001,ABBY,2022
+cfc_chlorophyllSummary,instrument,Type of instrument used for the analysis,string,NA,expanded,asIs,Y,NA,DP1.10026.001,ABBY,2022
+cfc_chlorophyllSummary,testMethod,Method used to conduct test,string,NA,expanded,asIs,Y,NA,DP1.10026.001,ABBY,2022
+cfc_chlorophyllSummary,method,Published method used for analysis,string,NA,expanded,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_chlorophyllSummary,dataQF,Data quality flag,string,NA,expanded,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_elements,uid,Unique ID within NEON database; an identifier for the record,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_elements,namedLocation,Name of the measurement location in the NEON database,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_elements,domainID,Unique identifier of the NEON domain,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_elements,siteID,NEON site code,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_elements,plotID,Plot identifier (NEON site code_XXX),string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_elements,plotType,"NEON plot type in which sampling occurred: tower, distributed or gradient",string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_elements,sampleID,Identifier for sample,string,NA,basic,obfuscate,N,NA,DP1.10026.001,ABBY,2022
+cfc_elements,sampleCode,Barcode of a sample,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_elements,ligninSampleID,Identifier for a lignin sample,string,NA,basic,obfuscate,Y,NA,DP1.10026.001,ABBY,2022
+cfc_elements,ligninSampleBarcode,Barcode for a lignin sample,string,NA,basic,asIs,Y,NA,DP1.10026.001,ABBY,2022
+cfc_elements,collectDate,Date of the collection event,dateTime,NA,basic,yyyy-MM-dd'T'HH:mm'Z'(floor),N,NA,DP1.10026.001,ABBY,2022
+cfc_elements,analysisDate,Date that the sample was analyzed,dateTime,NA,basic,yyyy-MM-dd(floor),N,NA,DP1.10026.001,ABBY,2022
+cfc_elements,analyticalRepNumber,Number of the analytical replicate,unsigned integer,number,basic,integer,Y,NA,DP1.10026.001,ABBY,2022
+cfc_elements,dryMass,Oven-dried mass of sample or subsample,real,gram,basic,*.###(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_elements,digestVolume,Volume of digest solution used,real,milliliter,basic,integer,N,NA,DP1.10026.001,ABBY,2022
+cfc_elements,digestPhosphorusConc,Concentration of phophorus in sample digest,real,milligramsPerLiter,expanded,*.##(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_elements,digestPotassiumConc,Concentration of potassium in sample digest,real,milligramsPerLiter,expanded,*.##(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_elements,digestCalciumConc,Concentration of calcium in sample digest,real,milligramsPerLiter,expanded,*.##(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_elements,digestMagnesiumConc,Concentration of magnesium in sample digest,real,milligramsPerLiter,expanded,*.##(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_elements,digestSulfurConc,Concentration of sulfur in sample digest,real,milligramsPerLiter,expanded,*.##(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_elements,digestManganeseConc,Concentration of manganese in sample digest,real,milligramsPerLiter,expanded,*.##(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_elements,digestIronConc,Concentration of iron in sample digest,real,milligramsPerLiter,expanded,*.##(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_elements,digestCopperConc,Concentration of copper in sample digest,real,milligramsPerLiter,expanded,*.##(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_elements,digestBoronConc,Concentration of boron in sample digest,real,milligramsPerLiter,expanded,*.##(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_elements,digestZincConc,Concentration of zinc in sample digest,real,milligramsPerLiter,expanded,*.##(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_elements,foliarPhosphorusConc,Concentration of phophorus in plant foliage sample on a dry mass basis,real,percent,basic,*.###(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_elements,foliarPotassiumConc,Concentration of potassium in plant foliage sample on a dry mass basis,real,percent,basic,*.###(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_elements,foliarCalciumConc,Concentration of calcium in plant foliage sample on a dry mass basis,real,percent,basic,*.###(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_elements,foliarMagnesiumConc,Concentration of magnesium in plant foliage sample on a dry mass basis,real,percent,basic,*.###(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_elements,foliarSulfurConc,Concentration of sulfur in plant foliage sample on a dry mass basis,real,percent,basic,*.###(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_elements,foliarManganeseConc,Concentration of manganese in plant foliage sample on a dry mass basis,real,milligramsPerKilogram,basic,*.#(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_elements,foliarIronConc,Concentration of iron in plant foliage sample on a dry mass basis,real,milligramsPerKilogram,basic,*.#(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_elements,foliarCopperConc,Concentration of copper in plant foliage sample on a dry mass basis,real,milligramsPerKilogram,basic,*.#(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_elements,foliarBoronConc,Concentration of boron in plant foliage sample on a dry mass basis,real,milligramsPerKilogram,basic,*.#(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_elements,foliarZincConc,Concentration of zinc in plant foliage sample on a dry mass basis,real,milligramsPerKilogram,basic,*.#(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_elements,foliarPhosphorusQF,Quality flag for foliar phosphorus data,string,NA,basic,LOV,N,cfc.elementsQF,DP1.10026.001,ABBY,2022
+cfc_elements,foliarPotassiumQF,Quality flag for foliar potassium data,string,NA,basic,LOV,N,cfc.elementsQF,DP1.10026.001,ABBY,2022
+cfc_elements,foliarCalciumQF,Quality flag for foliar calcium data,string,NA,basic,LOV,N,cfc.elementsQF,DP1.10026.001,ABBY,2022
+cfc_elements,foliarMagnesiumQF,Quality flag for foliar magnesium data,string,NA,basic,LOV,N,cfc.elementsQF,DP1.10026.001,ABBY,2022
+cfc_elements,foliarSulfurQF,Quality flag for foliar sulfur data,string,NA,basic,LOV,N,cfc.elementsQF,DP1.10026.001,ABBY,2022
+cfc_elements,foliarManganeseQF,Quality flag for foliar manganese data,string,NA,basic,LOV,N,cfc.elementsQF,DP1.10026.001,ABBY,2022
+cfc_elements,foliarIronQF,Quality flag for foliar iron data,string,NA,basic,LOV,N,cfc.elementsQF,DP1.10026.001,ABBY,2022
+cfc_elements,foliarCopperQF,Quality flag for foliar copper data,string,NA,basic,LOV,N,cfc.elementsQF,DP1.10026.001,ABBY,2022
+cfc_elements,foliarBoronQF,Quality flag for foliar boron data,string,NA,basic,LOV,N,cfc.elementsQF,DP1.10026.001,ABBY,2022
+cfc_elements,foliarZincQF,Quality flag for foliar zinc data,string,NA,basic,LOV,N,cfc.elementsQF,DP1.10026.001,ABBY,2022
+cfc_elements,remarks,Technician notes; free text comments accompanying the record,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_elements,laboratoryName,Name of the laboratory or facility that is processing the sample,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_elements,testMethod,Method used to conduct test,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_elements,analyzedBy,Name of lab personnel analyzing sample,string,NA,basic,obfuscate,N,NA,DP1.10026.001,ABBY,2022
+cfc_elements,reviewedBy,Name of lab personnel who reviewed the data prior to submission,string,NA,basic,obfuscate,N,NA,DP1.10026.001,ABBY,2022
+cfc_elements,dataQF,Data quality flag,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_elements,publicationDate,Date of data publication on the NEON data portal,dateTime,NA,appended by stackByTable,NA,N,,DP1.10026.001,ABBY,2022
+cfc_elements,release,Identifier for data release,string,NA,appended by stackByTable,NA,N,,DP1.10026.001,ABBY,2022
+cfc_elementsSummary,uid,Unique ID within NEON database; an identifier for the record,string,NA,expanded,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_elementsSummary,analyte,Analyte or parameter measured,string,NA,expanded,LOV,Y,cfc.eleAnalyte,DP1.10026.001,ABBY,2022
+cfc_elementsSummary,analyteUnits,Associated units of measure for analyte,string,NA,expanded,LOV,N,cfc.eleAnalyteUnits,DP1.10026.001,ABBY,2022
+cfc_elementsSummary,sampleType,Type of sample,string,NA,expanded,asIs,Y,NA,DP1.10026.001,ABBY,2022
+cfc_elementsSummary,qaReferenceID,Identifier for quality assurance reference material or standard,string,NA,expanded,asIs,Y,NA,DP1.10026.001,ABBY,2022
+cfc_elementsSummary,analyteKnownValue,"The known value of a given analyte for a quality assurance reference material or standard, with units tied to the analyte",real,NA,expanded,signif_###(round),Y,NA,DP1.10026.001,ABBY,2022
+cfc_elementsSummary,analyteObservedValue,"The measured value of a given analyte for a standard reference material, with units tied to the analyte",real,NA,expanded,signif_###(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_elementsSummary,analyteStandardDeviation,"Long-term average standard deviation values of the analyte, based on analysis of quality assurance reference materials or standards treated as unknowns",real,NA,expanded,*.###(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_elementsSummary,analytePercentRecovery,"Percent recovery of the analyte, based on analysis of quality assurance reference materials or standards treated as unknowns",real,percent,expanded,*.#(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_elementsSummary,analyteMetricsCount,Count of how many measurements were used to determine analyte metrics,unsigned integer,number,expanded,integer,N,NA,DP1.10026.001,ABBY,2022
+cfc_elementsSummary,qaReportingStartDate,Start date for the quality assurance (QA) reporting period,dateTime,NA,expanded,yyyy-MM-dd(floor),Y,NA,DP1.10026.001,ABBY,2022
+cfc_elementsSummary,qaReportingEndDate,End date for the quality assurance (QA) reporting period,dateTime,NA,expanded,yyyy-MM-dd(floor),N,NA,DP1.10026.001,ABBY,2022
+cfc_elementsSummary,laboratoryName,Name of the laboratory or facility that is processing the sample,string,NA,expanded,asIs,Y,NA,DP1.10026.001,ABBY,2022
+cfc_elementsSummary,instrument,Type of instrument used for the analysis,string,NA,expanded,asIs,Y,NA,DP1.10026.001,ABBY,2022
+cfc_elementsSummary,testMethod,Method used to conduct test,string,NA,expanded,asIs,Y,NA,DP1.10026.001,ABBY,2022
+cfc_elementsSummary,method,Published method used for analysis,string,NA,expanded,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_elementsSummary,dataQF,Data quality flag,string,NA,expanded,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_fieldData,uid,Unique ID within NEON database; an identifier for the record,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_fieldData,namedLocation,Name of the measurement location in the NEON database,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_fieldData,domainID,Unique identifier of the NEON domain,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_fieldData,siteID,NEON site code,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_fieldData,plotID,Plot identifier (NEON site code_XXX),string,NA,basic,asIs,Y,NA,DP1.10026.001,ABBY,2022
+cfc_fieldData,plotType,"NEON plot type in which sampling occurred: tower, distributed or gradient",string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_fieldData,nlcdClass,National Land Cover Database Vegetation Type Name,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_fieldData,geodeticDatum,Model used to measure horizontal position on the earth,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_fieldData,decimalLatitude,"The geographic latitude (in decimal degrees, WGS84) of the geographic center of the reference area",real,decimalDegree,basic,*.######(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_fieldData,decimalLongitude,"The geographic longitude (in decimal degrees, WGS84) of the geographic center of the reference area",real,decimalDegree,basic,*.######(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_fieldData,coordinateUncertainty,The horizontal distance (in meters) from the given decimalLatitude and decimalLongitude describing the smallest circle containing the whole of the Location. Zero is not a valid value for this term,real,meter,basic,*.#(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_fieldData,elevation,Elevation (in meters) above sea level,real,meter,basic,*.#(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_fieldData,elevationUncertainty,Uncertainty in elevation values (in meters),real,meter,basic,*.##(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_fieldData,samplingProtocolVersion,The NEON document number and version where detailed information regarding the sampling method used is available; format NEON.DOC.######vX,string,NA,basic,LOV,N,cfc.samplingProtocolVersion,DP1.10026.001,ABBY,2022
+cfc_fieldData,collectDate,Date of the collection event,dateTime,NA,basic,yyyy-MM-dd'T'HH:mm'Z'(floor),Y,NA,DP1.10026.001,ABBY,2022
+cfc_fieldData,aopCollectDate,Date that remote sensing data from the NEON AOP were collected for the sample,dateTime,NA,basic,yyyy-MM-dd(floor),N,NA,DP1.10026.001,ABBY,2022
+cfc_fieldData,samplingImpractical,Samples and/or measurements were not collected due to the indicated circumstance,string,NA,basic,LOV,N,samplingImpractical,DP1.10026.001,ABBY,2022
+cfc_fieldData,subplotID,Identifier for the NEON subplot,string,NA,basic,LOV,Y,bbc.subplotID,DP1.10026.001,ABBY,2022
+cfc_fieldData,sampleType,Type of sample,string,NA,basic,LOV,N,cfc.sampleType,DP1.10026.001,ABBY,2022
+cfc_fieldData,samplingMethod,Name or code for the method used to collect or test a sample,string,NA,basic,LOV,N,cfc.samplingMethod,DP1.10026.001,ABBY,2022
+cfc_fieldData,sampleID,Identifier for sample,string,NA,basic,obfuscate,Y,NA,DP1.10026.001,ABBY,2022
+cfc_fieldData,sampleCode,Barcode of a sample,string,NA,basic,asIs,Y,NA,DP1.10026.001,ABBY,2022
+cfc_fieldData,sampleCondition,Condition of a sample,string,NA,basic,LOV,N,cfc.sampleCondition,DP1.10026.001,ABBY,2022
+cfc_fieldData,chlorophyllSampleID,Identifier for a chlorophyll sample,string,NA,basic,obfuscate,N,NA,DP1.10026.001,ABBY,2022
+cfc_fieldData,chlorophyllSampleCode,Barcode of a chlorophyll sample,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_fieldData,chlorophyllSamplePrepMethod,Preparation or preservation method for a chlorophyll sample,string,NA,basic,LOV,N,sls.geneticPreparation,DP1.10026.001,ABBY,2022
+cfc_fieldData,chlorophyllSampleCondition,Condition of a chlorophyll sample,string,NA,basic,LOV,N,cfc.chlFieldSampleCondition,DP1.10026.001,ABBY,2022
+cfc_fieldData,clipCellNumber,A numeric identifier for the clip-harvest cell in which herbaceous biomass was sampled,unsigned integer,NA,basic,integer,N,NA,DP1.10026.001,ABBY,2022
+cfc_fieldData,clipID,Unique identifier for the clip-harvest location within the plot,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_fieldData,clipLength,The length of the clip-harvest area in meters,real,meter,basic,*.#(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_fieldData,clipWidth,The width of the clip-harvest area in meters,real,meter,basic,*.#(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_fieldData,percentCoverClip,Ocular estimate of percent cover of all vegetation in the clip strip,real,percent,basic,integer,N,NA,DP1.10026.001,ABBY,2022
+cfc_fieldData,toxicodendronPossible,Indicator for whether a sample may contain Toxicodendron spp,string,NA,basic,LOV,N,cfc.toxicodendron,DP1.10026.001,ABBY,2022
+cfc_fieldData,vstTag,Indicator for whether a tagID is associated with vegetation structure measurements,string,NA,basic,LOV,N,cfc.vstTag,DP1.10026.001,ABBY,2022
+cfc_fieldData,tagID,Domain-level unique identifier of tag used to mark the individual,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_fieldData,individualID,Domain-level unique identifier for an individual: NEON.MOD.D##.######,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_fieldData,taxonID,"Species code, based on one or more sources",string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_fieldData,scientificName,"Scientific name, associated with the taxonID. This is the name of the lowest level taxonomic rank that can be determined",string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_fieldData,plantStatus,Physical status of the plant or plants,string,NA,basic,LOV,N,cfc.plantStatus,DP1.10026.001,ABBY,2022
+cfc_fieldData,canopyStatus,Canopy status of an individual relative to its neighbors,string,NA,basic,LOV,N,cfc.canopyStatus,DP1.10026.001,ABBY,2022
+cfc_fieldData,canopyPosition,Vertical status of an individual relative to its neighbors,string,NA,basic,LOV,N,vst.canopyPosition,DP1.10026.001,ABBY,2022
+cfc_fieldData,leafSamplePosition,Vertical position of a leaf or needle sample in the canopy,string,NA,basic,LOV,N,cfc.leafSamplePosition,DP1.10026.001,ABBY,2022
+cfc_fieldData,subsample1Height,Vertical distance from ground to height of first canopy subsample,real,meter,basic,*.#(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_fieldData,subsample2Height,Vertical distance from ground to height of second canopy subsample,real,meter,basic,*.#(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_fieldData,subsample3Height,Vertical distance from ground to height of third canopy subsample,real,meter,basic,*.#(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_fieldData,crownPolygonID,Identifier for a crown polygon,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_fieldData,crownPolygonConfidence,Field assessment of confidence level in a crown polygon,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_fieldData,previousPolygon,Indicator of whether a polygon was created during a previous canopy foliar sampling bout,string,NA,basic,LOV,N,Yes or No choice,DP1.10026.001,ABBY,2022
+cfc_fieldData,shapefileID,Identifier for the shapefile that contains the crown polygon,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_fieldData,collectedBy,An identifier for the technician who collected the sample or specimen,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_fieldData,recordedBy,An identifier for the technician who recorded the data,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_fieldData,remarks,Technician notes; free text comments accompanying the record,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_fieldData,dataQF,Data quality flag,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_fieldData,publicationDate,Date of data publication on the NEON data portal,dateTime,NA,appended by stackByTable,NA,N,,DP1.10026.001,ABBY,2022
+cfc_fieldData,release,Identifier for data release,string,NA,appended by stackByTable,NA,N,,DP1.10026.001,ABBY,2022
+cfc_lignin,uid,Unique ID within NEON database; an identifier for the record,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_lignin,namedLocation,Name of the measurement location in the NEON database,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_lignin,domainID,Unique identifier of the NEON domain,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_lignin,siteID,NEON site code,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_lignin,plotID,Plot identifier (NEON site code_XXX),string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_lignin,plotType,"NEON plot type in which sampling occurred: tower, distributed or gradient",string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_lignin,sampleID,Identifier for sample,string,NA,basic,obfuscate,N,NA,DP1.10026.001,ABBY,2022
+cfc_lignin,sampleCode,Barcode of a sample,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_lignin,ligninSampleID,Identifier for a lignin sample,string,NA,basic,obfuscate,Y,NA,DP1.10026.001,ABBY,2022
+cfc_lignin,ligninSampleBarcode,Barcode for a lignin sample,string,NA,basic,asIs,Y,NA,DP1.10026.001,ABBY,2022
+cfc_lignin,collectDate,Date of the collection event,dateTime,NA,basic,yyyy-MM-dd'T'HH:mm'Z'(floor),N,NA,DP1.10026.001,ABBY,2022
+cfc_lignin,analysisDate,Date that the sample was analyzed,dateTime,NA,basic,yyyy-MM-dd(floor),N,NA,DP1.10026.001,ABBY,2022
+cfc_lignin,analyticalRepNumber,Number of the analytical replicate,unsigned integer,number,basic,integer,Y,NA,DP1.10026.001,ABBY,2022
+cfc_lignin,dryMass,Oven-dried mass of sample or subsample,real,gram,basic,*.###(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_lignin,ligninPercent,Percent lignin from the acid detergent method on a dry mass basis,real,percent,basic,*.##(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_lignin,cellulosePercent,Percent cellulose from the acid detergent method on a dry mass basis,real,percent,basic,*.##(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_lignin,measurementQF,Quality flag for sample measurement,string,NA,basic,LOV,N,ltr.ligMeasurementQF,DP1.10026.001,ABBY,2022
+cfc_lignin,accuracyQF,Quality flag for quality assurance materials associated with the run,string,NA,basic,LOV,N,ltr.ligAccuracyQF,DP1.10026.001,ABBY,2022
+cfc_lignin,remarks,Technician notes; free text comments accompanying the record,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_lignin,laboratoryName,Name of the laboratory or facility that is processing the sample,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_lignin,testMethod,Method used to conduct test,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_lignin,analyzedBy,Name of lab personnel analyzing sample,string,NA,basic,obfuscate,N,NA,DP1.10026.001,ABBY,2022
+cfc_lignin,reviewedBy,Name of lab personnel who reviewed the data prior to submission,string,NA,basic,obfuscate,N,NA,DP1.10026.001,ABBY,2022
+cfc_lignin,dataQF,Data quality flag,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_lignin,publicationDate,Date of data publication on the NEON data portal,dateTime,NA,appended by stackByTable,NA,N,,DP1.10026.001,ABBY,2022
+cfc_lignin,release,Identifier for data release,string,NA,appended by stackByTable,NA,N,,DP1.10026.001,ABBY,2022
+cfc_LMA,uid,Unique ID within NEON database; an identifier for the record,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_LMA,namedLocation,Name of the measurement location in the NEON database,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_LMA,domainID,Unique identifier of the NEON domain,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_LMA,siteID,NEON site code,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_LMA,plotType,"NEON plot type in which sampling occurred: tower, distributed or gradient",string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_LMA,sampleID,Identifier for sample,string,NA,basic,obfuscate,Y,NA,DP1.10026.001,ABBY,2022
+cfc_LMA,sampleCode,Barcode of a sample,string,NA,basic,asIs,Y,NA,DP1.10026.001,ABBY,2022
+cfc_LMA,collectDate,Date of the collection event,dateTime,NA,basic,yyyy-MM-dd'T'HH:mm'Z'(floor),N,NA,DP1.10026.001,ABBY,2022
+cfc_LMA,lmaSampleID,Identifier for a leaf mass per area sample,string,NA,basic,obfuscate,N,NA,DP1.10026.001,ABBY,2022
+cfc_LMA,lmaSampleCode,Barcode of a leaf mass per area sample,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_LMA,lmaSampleCondition,Condition of a leaf mass per area sample,string,NA,basic,LOV,N,cfc.lmaSampleCondition,DP1.10026.001,ABBY,2022
+cfc_LMA,tissueDescriptor,A brief description of the type of tissue or material analyzed,string,NA,basic,LOV,N,cfc.tissueDescriptor,DP1.10026.001,ABBY,2022
+cfc_LMA,scanDate,The date and time a sample is scanned,dateTime,NA,basic,yyyy-MM-dd'T'HH:mm'Z'(floor),N,NA,DP1.10026.001,ABBY,2022
+cfc_LMA,scannedBy,An identifier for the technician who scanned the sample(s),string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_LMA,freshMass,Total fresh mass of a sample,real,gram,basic,*.###(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_LMA,ovenStartDate,The date and time a sample was placed in the drying oven,dateTime,NA,basic,yyyy-MM-dd'T'HH:mm'Z'(floor),N,NA,DP1.10026.001,ABBY,2022
+cfc_LMA,ovenEndDate,The date and time a sample was removed from the drying oven,dateTime,NA,basic,yyyy-MM-dd'T'HH:mm'Z'(floor),N,NA,DP1.10026.001,ABBY,2022
+cfc_LMA,dryMass,Oven-dried mass of sample or subsample,real,gram,basic,*.###(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_LMA,weighedBy,An identifier for the technician who weighed the sample,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_LMA,scannedLeafNumber,Number of leaves or needles scanned,unsigned integer,number,basic,integer,N,NA,DP1.10026.001,ABBY,2022
+cfc_LMA,leafArea,Area of all leaves or needles scanned,real,squareMillimeter,basic,*.#(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_LMA,percentGreen,Visual estimate of percent scanned foliar material that was live and green,unsigned integer,percent,basic,integer,N,NA,DP1.10026.001,ABBY,2022
+cfc_LMA,leafMassPerArea,Dry mass per unit area of leaf or needle foliage,real,gramsPerSquareMeter,basic,*.#(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_LMA,dryMassFraction,Dry mass divided by fresh mass of a sample,real,NA,basic,*.###(round),N,NA,DP1.10026.001,ABBY,2022
+cfc_LMA,measuredBy,An identifier for the technician who measured or collected the data,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_LMA,remarks,Technician notes; free text comments accompanying the record,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_LMA,dataQF,Data quality flag,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_LMA,publicationDate,Date of data publication on the NEON data portal,dateTime,NA,appended by stackByTable,NA,N,,DP1.10026.001,ABBY,2022
+cfc_LMA,release,Identifier for data release,string,NA,appended by stackByTable,NA,N,,DP1.10026.001,ABBY,2022
+cfc_shapefile,uid,Unique ID within NEON database; an identifier for the record,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_shapefile,startDate,The start date-time or interval during which an event occurred,dateTime,NA,basic,yyyy-MM-dd(floor),N,NA,DP1.10026.001,ABBY,2022
+cfc_shapefile,endDate,The end date-time or interval during which an event occurred,dateTime,NA,basic,yyyy-MM-dd(floor),N,NA,DP1.10026.001,ABBY,2022
+cfc_shapefile,domainID,Unique identifier of the NEON domain,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_shapefile,siteID,NEON site code,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_shapefile,downloadFileName,The name of the user-downloaded file that is linked to the record,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_shapefile,downloadFileUrl,The URL of the file linked to the record,uri,NA,basic,asIs,Y,NA,DP1.10026.001,ABBY,2022
+cfc_shapefile,shapefileAopYear,Year of Airborne Observation Platform (AOP) remote sensing data used to create shapefile of crown polygons,integer,NA,basic,integer,N,NA,DP1.10026.001,ABBY,2022
+cfc_shapefile,dataQF,Data quality flag,string,NA,basic,asIs,N,NA,DP1.10026.001,ABBY,2022
+cfc_shapefile,publicationDate,Date of data publication on the NEON data portal,dateTime,NA,appended by stackByTable,NA,N,,DP1.10026.001,ABBY,2022
+cfc_shapefile,release,Identifier for data release,string,NA,appended by stackByTable,NA,N,,DP1.10026.001,ABBY,2022
+lig_externalSummary,uid,Unique ID within NEON database; an identifier for the record,string,NA,expanded,asIs,N,NA,DP1.10026.001,ABBY,2022
+lig_externalSummary,analyte,Analyte or parameter measured,string,NA,expanded,LOV,Y,ltr.ligAnalyte,DP1.10026.001,ABBY,2022
+lig_externalSummary,analyteUnits,Associated units of measure for analyte,string,NA,expanded,LOV,N,ltr.ligAnalyteUnits,DP1.10026.001,ABBY,2022
+lig_externalSummary,sampleType,Type of sample,string,NA,expanded,asIs,Y,NA,DP1.10026.001,ABBY,2022
+lig_externalSummary,qaReferenceID,Identifier for quality assurance reference material or standard,string,NA,expanded,asIs,Y,NA,DP1.10026.001,ABBY,2022
+lig_externalSummary,analyteKnownValue,"The known value of a given analyte for a quality assurance reference material or standard, with units tied to the analyte",real,NA,expanded,*.##(round),N,NA,DP1.10026.001,ABBY,2022
+lig_externalSummary,analyteObservedValue,"The measured value of a given analyte for a standard reference material, with units tied to the analyte",real,NA,expanded,*.##(round),N,NA,DP1.10026.001,ABBY,2022
+lig_externalSummary,analyteStandardDeviation,"Long-term average standard deviation values of the analyte, based on analysis of quality assurance reference materials or standards treated as unknowns",real,NA,expanded,*.###(round),N,NA,DP1.10026.001,ABBY,2022
+lig_externalSummary,analytePercentRecovery,"Percent recovery of the analyte, based on analysis of quality assurance reference materials or standards treated as unknowns",real,percent,expanded,*.#(round),N,NA,DP1.10026.001,ABBY,2022
+lig_externalSummary,analyteMetricsCount,Count of how many measurements were used to determine analyte metrics,unsigned integer,number,expanded,integer,N,NA,DP1.10026.001,ABBY,2022
+lig_externalSummary,qaReportingStartDate,Start date for the quality assurance (QA) reporting period,dateTime,NA,expanded,yyyy-MM-dd(floor),Y,NA,DP1.10026.001,ABBY,2022
+lig_externalSummary,qaReportingEndDate,End date for the quality assurance (QA) reporting period,dateTime,NA,expanded,yyyy-MM-dd(floor),N,NA,DP1.10026.001,ABBY,2022
+lig_externalSummary,laboratoryName,Name of the laboratory or facility that is processing the sample,string,NA,expanded,asIs,Y,NA,DP1.10026.001,ABBY,2022
+lig_externalSummary,instrument,Type of instrument used for the analysis,string,NA,expanded,asIs,N,NA,DP1.10026.001,ABBY,2022
+lig_externalSummary,testMethod,Method used to conduct test,string,NA,expanded,asIs,N,NA,DP1.10026.001,ABBY,2022
+lig_externalSummary,method,Published method used for analysis,string,NA,expanded,asIs,N,NA,DP1.10026.001,ABBY,2022
+lig_externalSummary,dataQF,Data quality flag,string,NA,expanded,asIs,N,NA,DP1.10026.001,ABBY,2022
+vst_mappingandtagging,uid,Unique ID within NEON database; an identifier for the record,string,NA,expanded,asIs,N,NA,DP1.10026.001,ABBY,2022
+vst_mappingandtagging,namedLocation,Name of the measurement location in the NEON database,string,NA,expanded,asIs,N,NA,DP1.10026.001,ABBY,2022
+vst_mappingandtagging,date,"Date or date and time of measurement, observation, or collection event",dateTime,NA,expanded,yyyy-MM-dd(floor),N,NA,DP1.10026.001,ABBY,2022
+vst_mappingandtagging,eventID,"An identifier for the set of information associated with the event, which includes information about the place and time of the event",string,NA,expanded,asIs,Y,NA,DP1.10026.001,ABBY,2022
+vst_mappingandtagging,domainID,Unique identifier of the NEON domain,string,NA,expanded,asIs,N,NA,DP1.10026.001,ABBY,2022
+vst_mappingandtagging,siteID,NEON site code,string,NA,expanded,asIs,N,NA,DP1.10026.001,ABBY,2022
+vst_mappingandtagging,plotID,Plot identifier (NEON site code_XXX),string,NA,expanded,asIs,N,NA,DP1.10026.001,ABBY,2022
+vst_mappingandtagging,pointID,Identifier for a point location,string,NA,expanded,asIs,N,NA,DP1.10026.001,ABBY,2022
+vst_mappingandtagging,stemDistance,Horizontal distance from stem to pointID location,real,meter,expanded,*.#(round),N,NA,DP1.10026.001,ABBY,2022
+vst_mappingandtagging,stemAzimuth,Azimuth relative to True North between stem and pointID location,real,degree,expanded,*.#(round),N,NA,DP1.10026.001,ABBY,2022
+vst_mappingandtagging,individualID,Domain-level unique identifier for an individual: NEON.MOD.D##.######,string,NA,expanded,asIs,Y,NA,DP1.10026.001,ABBY,2022
+vst_mappingandtagging,supportingStemIndividualID,Globally unique identifier for stem on which a liana is growing,string,NA,expanded,asIs,N,NA,DP1.10026.001,ABBY,2022
+vst_mappingandtagging,previouslyTaggedAs,Indicates the tagID previously reported for a given individual,string,NA,expanded,asIs,N,NA,DP1.10026.001,ABBY,2022
+vst_mappingandtagging,samplingProtocolVersion,The NEON document number and version where detailed information regarding the sampling method used is available; format NEON.DOC.######vX,string,NA,expanded,LOV,N,vst.samplingProtocolVersion,DP1.10026.001,ABBY,2022
+vst_mappingandtagging,taxonID,"Species code, based on one or more sources",string,NA,expanded,asIs,N,NA,DP1.10026.001,ABBY,2022
+vst_mappingandtagging,scientificName,"Scientific name, associated with the taxonID. This is the name of the lowest level taxonomic rank that can be determined",string,NA,expanded,asIs,N,NA,DP1.10026.001,ABBY,2022
+vst_mappingandtagging,taxonRank,The lowest level taxonomic rank that can be determined for the individual or specimen,string,NA,expanded,asIs,N,NA,DP1.10026.001,ABBY,2022
+vst_mappingandtagging,identificationReferences,"A list of sources (concatenated and semicolon separated) used to derive the specific taxon concept; including field guide editions, books, or versions of NEON keys used",string,NA,expanded,asIs,N,NA,DP1.10026.001,ABBY,2022
+vst_mappingandtagging,morphospeciesID,Identifier for morphospecies,string,NA,expanded,asIs,N,NA,DP1.10026.001,ABBY,2022
+vst_mappingandtagging,morphospeciesIDRemarks,Technician notes about the morphospecies; free text comments accompanying the record,string,NA,expanded,asIs,N,NA,DP1.10026.001,ABBY,2022
+vst_mappingandtagging,identificationQualifier,A standard term to express the determiner's doubts about the Identification,string,NA,expanded,LOV,N,Identification Qualifiers,DP1.10026.001,ABBY,2022
+vst_mappingandtagging,remarks,Technician notes; free text comments accompanying the record,string,NA,expanded,asIs,N,NA,DP1.10026.001,ABBY,2022
+vst_mappingandtagging,measuredBy,An identifier for the technician who measured or collected the data,string,NA,expanded,obfuscate,N,NA,DP1.10026.001,ABBY,2022
+vst_mappingandtagging,recordedBy,An identifier for the technician who recorded the data,string,NA,expanded,obfuscate,N,NA,DP1.10026.001,ABBY,2022
+vst_mappingandtagging,dataQF,Data quality flag,string,NA,expanded,asIs,N,NA,DP1.10026.001,ABBY,2022

@@ -1,0 +1,11 @@
+dpID,site,table,years_averaged,siteID,plotID,namedLocation,plotType,n_raw_records,incubationLength_mean_2018_2024,soilFreshMass_mean_2018_2024,kclVolume_mean_2018_2024,year_download_mean_2018_2024,collectYear_mean_2018_2024,incubationLength_mean_2018_2024_unit,soilFreshMass_mean_2018_2024_unit,kclVolume_mean_2018_2024_unit,year_download_mean_2018_2024_unit,collectYear_mean_2018_2024_unit
+DP1.10086.001,ONAQ,ntr_internalLab,2018-2024,ONAQ,ONAQ_002,ONAQ_002.basePlot.bgc,distributed,18,9.823333333333332,7.5905555555555555,75.11111111111111,2021,2021,day,gram,milliliter,NA,NA
+DP1.10086.001,ONAQ,ntr_internalLab,2018-2024,ONAQ,ONAQ_003,ONAQ_003.basePlot.bgc,distributed,12,9.034166666666668,8.865833333333333,87.5,2021,2021,day,gram,milliliter,NA,NA
+DP1.10086.001,ONAQ,ntr_internalLab,2018-2024,ONAQ,ONAQ_004,ONAQ_004.basePlot.bgc,distributed,12,9.515,8.903333333333334,87.75,2021,2021,day,gram,milliliter,NA,NA
+DP1.10086.001,ONAQ,ntr_internalLab,2018-2024,ONAQ,ONAQ_005,ONAQ_005.basePlot.bgc,distributed,12,9.035,8.893333333333333,87.66666666666667,2021,2021,day,gram,milliliter,NA,NA
+DP1.10086.001,ONAQ,ntr_internalLab,2018-2024,ONAQ,ONAQ_008,ONAQ_008.basePlot.bgc,distributed,18,10.305,7.557222222222222,75.38888888888889,2021,2021,day,gram,milliliter,NA,NA
+DP1.10086.001,ONAQ,ntr_internalLab,2018-2024,ONAQ,ONAQ_010,ONAQ_010.basePlot.bgc,distributed,12,9.453333333333333,9.041666666666666,87.41666666666667,2021,2021,day,gram,milliliter,NA,NA
+DP1.10086.001,ONAQ,ntr_internalLab,2018-2024,ONAQ,ONAQ_041,ONAQ_041.basePlot.bgc,tower,18,9.812222222222223,7.5744444444444445,75,2021,2021,day,gram,milliliter,NA,NA
+DP1.10086.001,ONAQ,ntr_internalLab,2018-2024,ONAQ,ONAQ_042,ONAQ_042.basePlot.bgc,tower,18,9.773888888888889,7.599444444444444,74.94444444444444,2021,2021,day,gram,milliliter,NA,NA
+DP1.10086.001,ONAQ,ntr_internalLab,2018-2024,ONAQ,ONAQ_043,ONAQ_043.basePlot.bgc,tower,18,9.921111111111111,7.622222222222222,74.72222222222223,2021,2021,day,gram,milliliter,NA,NA
+DP1.10086.001,ONAQ,ntr_internalLab,2018-2024,ONAQ,ONAQ_044,ONAQ_044.basePlot.bgc,tower,18,9.788333333333332,7.578333333333333,74.77777777777777,2021,2021,day,gram,milliliter,NA,NA

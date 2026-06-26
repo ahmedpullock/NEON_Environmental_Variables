@@ -1,0 +1,11 @@
+dpID,site,table,years_averaged,siteID,plotID,namedLocation,n_raw_records,year_download_mean_2018_2024,collectYear_mean_2018_2024,year_download_mean_2018_2024_unit,collectYear_mean_2018_2024_unit
+DP1.10086.001,STEI,sls_metagenomicsPooling,2018-2024,STEI,STEI_001,STEI_001.basePlot.bgc,1,2022,2022,NA,NA
+DP1.10086.001,STEI,sls_metagenomicsPooling,2018-2024,STEI,STEI_002,STEI_002.basePlot.bgc,1,2022,2022,NA,NA
+DP1.10086.001,STEI,sls_metagenomicsPooling,2018-2024,STEI,STEI_003,STEI_003.basePlot.bgc,1,2022,2022,NA,NA
+DP1.10086.001,STEI,sls_metagenomicsPooling,2018-2024,STEI,STEI_004,STEI_004.basePlot.bgc,1,2022,2022,NA,NA
+DP1.10086.001,STEI,sls_metagenomicsPooling,2018-2024,STEI,STEI_008,STEI_008.basePlot.bgc,1,2022,2022,NA,NA
+DP1.10086.001,STEI,sls_metagenomicsPooling,2018-2024,STEI,STEI_021,STEI_021.basePlot.bgc,1,2022,2022,NA,NA
+DP1.10086.001,STEI,sls_metagenomicsPooling,2018-2024,STEI,STEI_047,STEI_047.basePlot.bgc,1,2022,2022,NA,NA
+DP1.10086.001,STEI,sls_metagenomicsPooling,2018-2024,STEI,STEI_053,STEI_053.basePlot.bgc,1,2022,2022,NA,NA
+DP1.10086.001,STEI,sls_metagenomicsPooling,2018-2024,STEI,STEI_059,STEI_059.basePlot.bgc,1,2022,2022,NA,NA
+DP1.10086.001,STEI,sls_metagenomicsPooling,2018-2024,STEI,STEI_060,STEI_060.basePlot.bgc,2,2022,2022,NA,NA

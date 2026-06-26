@@ -1,0 +1,11 @@
+dpID,site,table,years_averaged,siteID,plotID,namedLocation,n_raw_records,year_download_mean_2018_2024,collectYear_mean_2018_2024,year_download_mean_2018_2024_unit,collectYear_mean_2018_2024_unit
+DP1.10086.001,UNDE,sls_metagenomicsPooling,2018-2024,UNDE,UNDE_001,UNDE_001.basePlot.bgc,10,2020.8,2020.8,NA,NA
+DP1.10086.001,UNDE,sls_metagenomicsPooling,2018-2024,UNDE,UNDE_002,UNDE_002.basePlot.bgc,7,2021,2021,NA,NA
+DP1.10086.001,UNDE,sls_metagenomicsPooling,2018-2024,UNDE,UNDE_003,UNDE_003.basePlot.bgc,13,2020.923076923077,2020.923076923077,NA,NA
+DP1.10086.001,UNDE,sls_metagenomicsPooling,2018-2024,UNDE,UNDE_006,UNDE_006.basePlot.bgc,7,2021,2021,NA,NA
+DP1.10086.001,UNDE,sls_metagenomicsPooling,2018-2024,UNDE,UNDE_008,UNDE_008.basePlot.bgc,7,2021,2021,NA,NA
+DP1.10086.001,UNDE,sls_metagenomicsPooling,2018-2024,UNDE,UNDE_010,UNDE_010.basePlot.bgc,12,2020.75,2020.75,NA,NA
+DP1.10086.001,UNDE,sls_metagenomicsPooling,2018-2024,UNDE,UNDE_037,UNDE_037.basePlot.bgc,12,2021.0833333333333,2021.0833333333333,NA,NA
+DP1.10086.001,UNDE,sls_metagenomicsPooling,2018-2024,UNDE,UNDE_038,UNDE_038.basePlot.bgc,10,2020.8,2020.8,NA,NA
+DP1.10086.001,UNDE,sls_metagenomicsPooling,2018-2024,UNDE,UNDE_043,UNDE_043.basePlot.bgc,7,2021,2021,NA,NA
+DP1.10086.001,UNDE,sls_metagenomicsPooling,2018-2024,UNDE,UNDE_044,UNDE_044.basePlot.bgc,12,2020.8333333333333,2020.8333333333333,NA,NA

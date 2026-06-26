@@ -1,0 +1,11 @@
+dpID,site,table,years_averaged,siteID,plotID,namedLocation,n_raw_records,year_download_mean_2018_2024,collectYear_mean_2018_2024,year_download_mean_2018_2024_unit,collectYear_mean_2018_2024_unit
+DP1.10086.001,OSBS,sls_metagenomicsPooling,2018-2024,OSBS,OSBS_001,OSBS_001.basePlot.bgc,10,2021.5,2021.5,NA,NA
+DP1.10086.001,OSBS,sls_metagenomicsPooling,2018-2024,OSBS,OSBS_002,OSBS_002.basePlot.bgc,7,2021,2021,NA,NA
+DP1.10086.001,OSBS,sls_metagenomicsPooling,2018-2024,OSBS,OSBS_003,OSBS_003.basePlot.bgc,8,2021,2021,NA,NA
+DP1.10086.001,OSBS,sls_metagenomicsPooling,2018-2024,OSBS,OSBS_004,OSBS_004.basePlot.bgc,5,2022,2022,NA,NA
+DP1.10086.001,OSBS,sls_metagenomicsPooling,2018-2024,OSBS,OSBS_005,OSBS_005.basePlot.bgc,7,2022.142857142857,2022.142857142857,NA,NA
+DP1.10086.001,OSBS,sls_metagenomicsPooling,2018-2024,OSBS,OSBS_026,OSBS_026.basePlot.bgc,7,2021,2021,NA,NA
+DP1.10086.001,OSBS,sls_metagenomicsPooling,2018-2024,OSBS,OSBS_027,OSBS_027.basePlot.bgc,7,2021,2021,NA,NA
+DP1.10086.001,OSBS,sls_metagenomicsPooling,2018-2024,OSBS,OSBS_029,OSBS_029.basePlot.bgc,7,2021,2021,NA,NA
+DP1.10086.001,OSBS,sls_metagenomicsPooling,2018-2024,OSBS,OSBS_031,OSBS_031.basePlot.bgc,7,2021,2021,NA,NA
+DP1.10086.001,OSBS,sls_metagenomicsPooling,2018-2024,OSBS,OSBS_063,OSBS_063.basePlot.bgc,5,2022,2022,NA,NA

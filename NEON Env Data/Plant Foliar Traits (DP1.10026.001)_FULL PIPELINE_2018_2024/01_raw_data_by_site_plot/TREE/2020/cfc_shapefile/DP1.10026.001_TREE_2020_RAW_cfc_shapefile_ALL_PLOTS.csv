@@ -1,0 +1,2 @@
+uid,startDate,endDate,domainID,siteID,downloadFileName,downloadFileUrl,shapefileAopYear,dataQF,publicationDate,release,dpID,site_download,year_download,source_table
+50ee28e5-d9a2-4c80-afaf-6b8ac1e3f404,2020-08-04,2020-08-11,D05,TREE,TREE-2020-polygons-v3.zip,https://storage.neonscience.org/neon-crown-shapefiles/TREE-2020-polygons-v3.zip,2017,NA,20260106T154854Z,RELEASE-2026,DP1.10026.001,TREE,2020,cfc_shapefile

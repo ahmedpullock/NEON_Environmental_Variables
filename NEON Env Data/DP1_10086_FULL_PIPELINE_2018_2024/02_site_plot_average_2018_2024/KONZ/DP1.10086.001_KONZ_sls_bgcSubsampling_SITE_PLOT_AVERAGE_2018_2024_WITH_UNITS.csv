@@ -1,0 +1,9 @@
+dpID,site,table,years_averaged,siteID,plotID,namedLocation,horizon,n_raw_records,bgcArchiveMass_mean_2018_2024,year_download_mean_2018_2024,collectYear_mean_2018_2024,bgcArchiveMass_mean_2018_2024_unit,year_download_mean_2018_2024_unit,collectYear_mean_2018_2024_unit
+DP1.10086.001,KONZ,sls_bgcSubsampling,2018-2024,KONZ,KONZ_001,KONZ_001.basePlot.bgc,M,3,150,2022,2022,gram,NA,NA
+DP1.10086.001,KONZ,sls_bgcSubsampling,2018-2024,KONZ,KONZ_002,KONZ_002.basePlot.bgc,M,3,156.93333333333334,2022,2022,gram,NA,NA
+DP1.10086.001,KONZ,sls_bgcSubsampling,2018-2024,KONZ,KONZ_003,KONZ_003.basePlot.bgc,M,3,106.10000000000001,2022,2022,gram,NA,NA
+DP1.10086.001,KONZ,sls_bgcSubsampling,2018-2024,KONZ,KONZ_024,KONZ_024.basePlot.bgc,M,3,110.53333333333333,2022,2022,gram,NA,NA
+DP1.10086.001,KONZ,sls_bgcSubsampling,2018-2024,KONZ,KONZ_042,KONZ_042.basePlot.bgc,M,3,121.66666666666666,2022,2022,gram,NA,NA
+DP1.10086.001,KONZ,sls_bgcSubsampling,2018-2024,KONZ,KONZ_043,KONZ_043.basePlot.bgc,M,3,134.2,2022,2022,gram,NA,NA
+DP1.10086.001,KONZ,sls_bgcSubsampling,2018-2024,KONZ,KONZ_045,KONZ_045.basePlot.bgc,M,3,137.2,2022,2022,gram,NA,NA
+DP1.10086.001,KONZ,sls_bgcSubsampling,2018-2024,KONZ,KONZ_046,KONZ_046.basePlot.bgc,M,3,121.5,2022,2022,gram,NA,NA

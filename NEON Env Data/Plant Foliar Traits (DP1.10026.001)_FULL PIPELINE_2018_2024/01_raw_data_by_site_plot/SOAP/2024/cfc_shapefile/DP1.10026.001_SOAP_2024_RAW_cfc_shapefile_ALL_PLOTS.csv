@@ -1,0 +1,2 @@
+uid,startDate,endDate,domainID,siteID,downloadFileName,downloadFileUrl,shapefileAopYear,dataQF,publicationDate,release,dpID,site_download,year_download,source_table
+6a9d8c95-9ca0-497b-bfb8-2e479b179206,2024-06-10,2024-07-18,D17,SOAP,SOAP-2024-polygons.zip,https://storage.neonscience.org/neon-crown-shapefiles/SOAP-2024-polygons.zip,2023,NA,20260106T154640Z,RELEASE-2026,DP1.10026.001,SOAP,2024,cfc_shapefile

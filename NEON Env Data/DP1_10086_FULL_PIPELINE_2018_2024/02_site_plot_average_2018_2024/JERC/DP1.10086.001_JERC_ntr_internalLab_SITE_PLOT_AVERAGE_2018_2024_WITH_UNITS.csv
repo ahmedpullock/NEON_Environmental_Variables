@@ -1,0 +1,12 @@
+dpID,site,table,years_averaged,siteID,plotID,namedLocation,plotType,n_raw_records,incubationLength_mean_2018_2024,soilFreshMass_mean_2018_2024,kclVolume_mean_2018_2024,year_download_mean_2018_2024,collectYear_mean_2018_2024,incubationLength_mean_2018_2024_unit,soilFreshMass_mean_2018_2024_unit,kclVolume_mean_2018_2024_unit,year_download_mean_2018_2024_unit,collectYear_mean_2018_2024_unit
+DP1.10086.001,JERC,ntr_internalLab,2018-2024,JERC,JERC_001,JERC_001.basePlot.bgc,distributed,36,7.890555555555555,10.141944444444444,100,2021.5,2021.5,day,gram,milliliter,NA,NA
+DP1.10086.001,JERC,ntr_internalLab,2018-2024,JERC,JERC_002,JERC_002.basePlot.bgc,distributed,36,7.873611111111111,10.164166666666667,100,2021.5,2021.5,day,gram,milliliter,NA,NA
+DP1.10086.001,JERC,ntr_internalLab,2018-2024,JERC,JERC_003,JERC_003.basePlot.bgc,distributed,18,6.823333333333333,10.171666666666667,100,2019,2019,day,gram,milliliter,NA,NA
+DP1.10086.001,JERC,ntr_internalLab,2018-2024,JERC,JERC_004,JERC_004.basePlot.bgc,distributed,36,7.918055555555556,10.113055555555556,100,2021.5,2021.5,day,gram,milliliter,NA,NA
+DP1.10086.001,JERC,ntr_internalLab,2018-2024,JERC,JERC_005,JERC_005.basePlot.bgc,distributed,36,7.897777777777778,10.061944444444444,100,2021.5,2021.5,day,gram,milliliter,NA,NA
+DP1.10086.001,JERC,ntr_internalLab,2018-2024,JERC,JERC_006,JERC_006.basePlot.bgc,distributed,36,7.995,10.151944444444444,100,2021.5,2021.5,day,gram,milliliter,NA,NA
+DP1.10086.001,JERC,ntr_internalLab,2018-2024,JERC,JERC_007,JERC_007.basePlot.bgc,distributed,16,8.93125,10.12125,100,2024,2024,day,gram,milliliter,NA,NA
+DP1.10086.001,JERC,ntr_internalLab,2018-2024,JERC,JERC_047,JERC_047.basePlot.bgc,tower,37,7.7632432432432426,10.144054054054054,100,2021.4324324324325,2021.4324324324325,day,gram,milliliter,NA,NA
+DP1.10086.001,JERC,ntr_internalLab,2018-2024,JERC,JERC_048,JERC_048.basePlot.bgc,tower,36,8.063055555555556,10.106388888888889,100,2021.5,2021.5,day,gram,milliliter,NA,NA
+DP1.10086.001,JERC,ntr_internalLab,2018-2024,JERC,JERC_049,JERC_049.basePlot.bgc,tower,36,8.071111111111112,10.11138888888889,100,2021.5,2021.5,day,gram,milliliter,NA,NA
+DP1.10086.001,JERC,ntr_internalLab,2018-2024,JERC,JERC_050,JERC_050.basePlot.bgc,tower,36,7.868611111111111,10.132222222222222,100,2021.5,2021.5,day,gram,milliliter,NA,NA

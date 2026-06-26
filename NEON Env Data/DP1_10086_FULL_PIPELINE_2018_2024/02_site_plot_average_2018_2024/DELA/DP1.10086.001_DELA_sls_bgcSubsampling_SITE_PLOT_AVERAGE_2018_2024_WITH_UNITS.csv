@@ -1,0 +1,11 @@
+dpID,site,table,years_averaged,siteID,plotID,namedLocation,horizon,n_raw_records,bgcArchiveMass_mean_2018_2024,year_download_mean_2018_2024,collectYear_mean_2018_2024,bgcArchiveMass_mean_2018_2024_unit,year_download_mean_2018_2024_unit,collectYear_mean_2018_2024_unit
+DP1.10086.001,DELA,sls_bgcSubsampling,2018-2024,DELA,DELA_001,DELA_001.basePlot.bgc,M,6,239.13333333333333,2021.5,2021.5,gram,NA,NA
+DP1.10086.001,DELA,sls_bgcSubsampling,2018-2024,DELA,DELA_002,DELA_002.basePlot.bgc,M,6,193.33333333333334,2021.5,2021.5,gram,NA,NA
+DP1.10086.001,DELA,sls_bgcSubsampling,2018-2024,DELA,DELA_003,DELA_003.basePlot.bgc,M,6,202.16666666666666,2021.5,2021.5,gram,NA,NA
+DP1.10086.001,DELA,sls_bgcSubsampling,2018-2024,DELA,DELA_004,DELA_004.basePlot.bgc,M,6,217.96666666666667,2021.5,2021.5,gram,NA,NA
+DP1.10086.001,DELA,sls_bgcSubsampling,2018-2024,DELA,DELA_005,DELA_005.basePlot.bgc,M,6,221,2021.5,2021.5,gram,NA,NA
+DP1.10086.001,DELA,sls_bgcSubsampling,2018-2024,DELA,DELA_014,DELA_014.basePlot.bgc,M,6,217.56666666666666,2021.5,2021.5,gram,NA,NA
+DP1.10086.001,DELA,sls_bgcSubsampling,2018-2024,DELA,DELA_037,DELA_037.basePlot.bgc,M,6,185.66666666666666,2021.5,2021.5,gram,NA,NA
+DP1.10086.001,DELA,sls_bgcSubsampling,2018-2024,DELA,DELA_038,DELA_038.basePlot.bgc,M,6,208.5,2021.5,2021.5,gram,NA,NA
+DP1.10086.001,DELA,sls_bgcSubsampling,2018-2024,DELA,DELA_040,DELA_040.basePlot.bgc,M,6,191.4,2021.5,2021.5,gram,NA,NA
+DP1.10086.001,DELA,sls_bgcSubsampling,2018-2024,DELA,DELA_041,DELA_041.basePlot.bgc,M,6,198.73333333333332,2021.5,2021.5,gram,NA,NA

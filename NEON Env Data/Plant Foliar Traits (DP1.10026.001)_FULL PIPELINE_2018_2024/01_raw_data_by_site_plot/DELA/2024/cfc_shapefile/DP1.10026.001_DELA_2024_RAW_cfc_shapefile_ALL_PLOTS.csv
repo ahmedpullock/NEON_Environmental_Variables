@@ -1,0 +1,2 @@
+uid,startDate,endDate,domainID,siteID,downloadFileName,downloadFileUrl,shapefileAopYear,dataQF,publicationDate,release,dpID,site_download,year_download,source_table
+7f29ef57-66cb-4f33-8d8a-4c913adcbd1e,2024-05-13,2024-05-22,D08,DELA,DELA-2024-polygons.zip,https://storage.neonscience.org/neon-crown-shapefiles/DELA-2024-polygons.zip,2021,NA,20260106T155549Z,RELEASE-2026,DP1.10026.001,DELA,2024,cfc_shapefile

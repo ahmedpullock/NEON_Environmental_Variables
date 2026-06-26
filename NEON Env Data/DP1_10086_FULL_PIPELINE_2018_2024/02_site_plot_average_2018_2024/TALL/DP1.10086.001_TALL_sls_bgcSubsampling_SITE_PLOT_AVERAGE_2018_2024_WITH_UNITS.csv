@@ -1,0 +1,11 @@
+dpID,site,table,years_averaged,siteID,plotID,namedLocation,horizon,n_raw_records,bgcArchiveMass_mean_2018_2024,year_download_mean_2018_2024,collectYear_mean_2018_2024,bgcArchiveMass_mean_2018_2024_unit,year_download_mean_2018_2024_unit,collectYear_mean_2018_2024_unit
+DP1.10086.001,TALL,sls_bgcSubsampling,2018-2024,TALL,TALL_001,TALL_001.basePlot.bgc,M,3,225.76666666666668,2021,2021,gram,NA,NA
+DP1.10086.001,TALL,sls_bgcSubsampling,2018-2024,TALL,TALL_002,TALL_002.basePlot.bgc,M,3,209.6,2021,2021,gram,NA,NA
+DP1.10086.001,TALL,sls_bgcSubsampling,2018-2024,TALL,TALL_003,TALL_003.basePlot.bgc,M,3,260.9,2021,2021,gram,NA,NA
+DP1.10086.001,TALL,sls_bgcSubsampling,2018-2024,TALL,TALL_004,TALL_004.basePlot.bgc,M,3,252.1,2021,2021,gram,NA,NA
+DP1.10086.001,TALL,sls_bgcSubsampling,2018-2024,TALL,TALL_006,TALL_006.basePlot.bgc,M,3,275.3,2021,2021,gram,NA,NA
+DP1.10086.001,TALL,sls_bgcSubsampling,2018-2024,TALL,TALL_007,TALL_007.basePlot.bgc,M,3,260.9,2021,2021,gram,NA,NA
+DP1.10086.001,TALL,sls_bgcSubsampling,2018-2024,TALL,TALL_044,TALL_044.basePlot.bgc,M,3,267,2021,2021,gram,NA,NA
+DP1.10086.001,TALL,sls_bgcSubsampling,2018-2024,TALL,TALL_047,TALL_047.basePlot.bgc,M,3,214.06666666666666,2021,2021,gram,NA,NA
+DP1.10086.001,TALL,sls_bgcSubsampling,2018-2024,TALL,TALL_051,TALL_051.basePlot.bgc,M,3,197,2021,2021,gram,NA,NA
+DP1.10086.001,TALL,sls_bgcSubsampling,2018-2024,TALL,TALL_054,TALL_054.basePlot.bgc,M,3,207.76666666666665,2021,2021,gram,NA,NA

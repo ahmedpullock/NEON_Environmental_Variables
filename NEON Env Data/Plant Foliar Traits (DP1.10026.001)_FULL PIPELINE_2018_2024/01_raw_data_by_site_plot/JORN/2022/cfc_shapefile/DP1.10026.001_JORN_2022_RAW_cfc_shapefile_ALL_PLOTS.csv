@@ -1,0 +1,2 @@
+uid,startDate,endDate,domainID,siteID,downloadFileName,downloadFileUrl,shapefileAopYear,dataQF,publicationDate,release,dpID,site_download,year_download,source_table
+f6cd0212-3e5f-442c-969e-f1bdd401795d,2022-08-29,2022-09-20,D14,JORN,JORN-2022-polygons-v2.zip,https://storage.neonscience.org/neon-crown-shapefiles/JORN-2022-polygons-v2.zip,2021,NA,20260106T154729Z,RELEASE-2026,DP1.10026.001,JORN,2022,cfc_shapefile

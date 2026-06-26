@@ -1,0 +1,11 @@
+dpID,site,table,years_averaged,siteID,plotID,namedLocation,n_raw_records,kclAmmoniumNConc_mean_2018_2024,ammoniumNRepNum_mean_2018_2024,kclNitrateNitriteNConc_mean_2018_2024,nitrateNitriteNRepNum_mean_2018_2024,year_download_mean_2018_2024,collectYear_mean_2018_2024,kclAmmoniumNConc_mean_2018_2024_unit,ammoniumNRepNum_mean_2018_2024_unit,kclNitrateNitriteNConc_mean_2018_2024_unit,nitrateNitriteNRepNum_mean_2018_2024_unit,year_download_mean_2018_2024_unit,collectYear_mean_2018_2024_unit
+DP1.10086.001,BARR,ntr_externalLab,2018-2024,BARR,BARR_001,BARR_001.basePlot.bgc,6,0.21666666666666667,1,0.1155,1,2022,2022,milligramsPerLiter,number,milligramsPerLiter,number,NA,NA
+DP1.10086.001,BARR,ntr_externalLab,2018-2024,BARR,BARR_002,BARR_002.basePlot.bgc,6,1.419,1.1666666666666667,0.0382,1,2022,2022,milligramsPerLiter,number,milligramsPerLiter,number,NA,NA
+DP1.10086.001,BARR,ntr_externalLab,2018-2024,BARR,BARR_003,BARR_003.basePlot.bgc,5,0.34975,1,0.1904,1.2,2022,2022,milligramsPerLiter,number,milligramsPerLiter,number,NA,NA
+DP1.10086.001,BARR,ntr_externalLab,2018-2024,BARR,BARR_004,BARR_004.basePlot.bgc,7,0.24857142857142858,1.1428571428571428,0.0775,1,2022,2022,milligramsPerLiter,number,milligramsPerLiter,number,NA,NA
+DP1.10086.001,BARR,ntr_externalLab,2018-2024,BARR,BARR_006,BARR_006.basePlot.bgc,4,0.31975,1,0.06874999999999999,1,2022,2022,milligramsPerLiter,number,milligramsPerLiter,number,NA,NA
+DP1.10086.001,BARR,ntr_externalLab,2018-2024,BARR,BARR_051,BARR_051.basePlot.bgc,5,0.2204,1,0.0696,1,2022,2022,milligramsPerLiter,number,milligramsPerLiter,number,NA,NA
+DP1.10086.001,BARR,ntr_externalLab,2018-2024,BARR,BARR_052,BARR_052.basePlot.bgc,6,0.5134,1,0.03116666666666667,1.1666666666666667,2022,2022,milligramsPerLiter,number,milligramsPerLiter,number,NA,NA
+DP1.10086.001,BARR,ntr_externalLab,2018-2024,BARR,BARR_053,BARR_053.basePlot.bgc,5,0.2284,1,0.0448,1,2022,2022,milligramsPerLiter,number,milligramsPerLiter,number,NA,NA
+DP1.10086.001,BARR,ntr_externalLab,2018-2024,BARR,BARR_054,BARR_054.basePlot.bgc,5,0.113,1.2,0.034,1,2022,2022,milligramsPerLiter,number,milligramsPerLiter,number,NA,NA
+DP1.10086.001,BARR,ntr_externalLab,2018-2024,BARR,NA,BARR,10,0.064375,1,0.0291,1.1,2022,2022,milligramsPerLiter,number,milligramsPerLiter,number,NA,NA

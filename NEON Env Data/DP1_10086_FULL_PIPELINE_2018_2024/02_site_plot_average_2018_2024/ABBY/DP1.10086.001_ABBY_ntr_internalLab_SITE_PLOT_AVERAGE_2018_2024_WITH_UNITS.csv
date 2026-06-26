@@ -1,0 +1,11 @@
+dpID,site,table,years_averaged,siteID,plotID,namedLocation,plotType,n_raw_records,incubationLength_mean_2018_2024,soilFreshMass_mean_2018_2024,kclVolume_mean_2018_2024,year_download_mean_2018_2024,collectYear_mean_2018_2024,incubationLength_mean_2018_2024_unit,soilFreshMass_mean_2018_2024_unit,kclVolume_mean_2018_2024_unit,year_download_mean_2018_2024_unit,collectYear_mean_2018_2024_unit
+DP1.10086.001,ABBY,ntr_internalLab,2018-2024,ABBY,ABBY_001,ABBY_001.basePlot.bgc,distributed,16,11.01,10.059375,99.9375,2022,2022,day,gram,milliliter,NA,NA
+DP1.10086.001,ABBY,ntr_internalLab,2018-2024,ABBY,ABBY_002,ABBY_002.basePlot.bgc,distributed,10,11.196,10.194,100,2022,2022,day,gram,milliliter,NA,NA
+DP1.10086.001,ABBY,ntr_internalLab,2018-2024,ABBY,ABBY_003,ABBY_003.basePlot.bgc,distributed,8,11.1875,10.10875,100,2022,2022,day,gram,milliliter,NA,NA
+DP1.10086.001,ABBY,ntr_internalLab,2018-2024,ABBY,ABBY_004,ABBY_004.basePlot.bgc,distributed,16,10.692499999999999,10.063125,100,2022,2022,day,gram,milliliter,NA,NA
+DP1.10086.001,ABBY,ntr_internalLab,2018-2024,ABBY,ABBY_006,ABBY_006.basePlot.bgc,distributed,14,11.707142857142857,10.145,99.71428571428571,2022,2022,day,gram,milliliter,NA,NA
+DP1.10086.001,ABBY,ntr_internalLab,2018-2024,ABBY,ABBY_023,ABBY_023.basePlot.bgc,distributed,6,11.503333333333334,10.065,100,2022,2022,day,gram,milliliter,NA,NA
+DP1.10086.001,ABBY,ntr_internalLab,2018-2024,ABBY,ABBY_061,ABBY_061.basePlot.bgc,tower,14,11.438571428571429,10.157857142857143,100,2022,2022,day,gram,milliliter,NA,NA
+DP1.10086.001,ABBY,ntr_internalLab,2018-2024,ABBY,ABBY_062,ABBY_062.basePlot.bgc,tower,14,11.188571428571429,10.104285714285714,100,2022,2022,day,gram,milliliter,NA,NA
+DP1.10086.001,ABBY,ntr_internalLab,2018-2024,ABBY,ABBY_063,ABBY_063.basePlot.bgc,tower,12,10.975833333333334,10.006666666666668,100,2022,2022,day,gram,milliliter,NA,NA
+DP1.10086.001,ABBY,ntr_internalLab,2018-2024,ABBY,ABBY_070,ABBY_070.basePlot.bgc,tower,18,10.713333333333335,10.076666666666666,99.94444444444444,2022,2022,day,gram,milliliter,NA,NA

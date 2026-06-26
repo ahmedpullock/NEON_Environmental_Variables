@@ -1,0 +1,2 @@
+uid,startDate,endDate,domainID,siteID,downloadFileName,downloadFileUrl,shapefileAopYear,dataQF,publicationDate,release,dpID,site_download,year_download,source_table
+f9db2e90-607a-441f-a159-9a7758c54e6e,2024-06-24,2024-07-02,D05,UNDE,UNDE-2024-polygons.zip,https://storage.neonscience.org/neon-crown-shapefiles/UNDE-2024-polygons.zip,2022,NA,20260106T154251Z,RELEASE-2026,DP1.10026.001,UNDE,2024,cfc_shapefile

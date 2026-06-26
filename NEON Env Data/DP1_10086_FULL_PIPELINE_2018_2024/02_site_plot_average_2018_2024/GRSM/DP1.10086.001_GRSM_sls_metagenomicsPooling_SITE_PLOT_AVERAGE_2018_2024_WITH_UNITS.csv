@@ -1,0 +1,11 @@
+dpID,site,table,years_averaged,siteID,plotID,namedLocation,n_raw_records,year_download_mean_2018_2024,collectYear_mean_2018_2024,year_download_mean_2018_2024_unit,collectYear_mean_2018_2024_unit
+DP1.10086.001,GRSM,sls_metagenomicsPooling,2018-2024,GRSM,GRSM_001,GRSM_001.basePlot.bgc,1,2021,2021,NA,NA
+DP1.10086.001,GRSM,sls_metagenomicsPooling,2018-2024,GRSM,GRSM_002,GRSM_002.basePlot.bgc,2,2021,2021,NA,NA
+DP1.10086.001,GRSM,sls_metagenomicsPooling,2018-2024,GRSM,GRSM_003,GRSM_003.basePlot.bgc,2,2021,2021,NA,NA
+DP1.10086.001,GRSM,sls_metagenomicsPooling,2018-2024,GRSM,GRSM_006,GRSM_006.basePlot.bgc,2,2021,2021,NA,NA
+DP1.10086.001,GRSM,sls_metagenomicsPooling,2018-2024,GRSM,GRSM_007,GRSM_007.basePlot.bgc,1,2021,2021,NA,NA
+DP1.10086.001,GRSM,sls_metagenomicsPooling,2018-2024,GRSM,GRSM_016,GRSM_016.basePlot.bgc,2,2021,2021,NA,NA
+DP1.10086.001,GRSM,sls_metagenomicsPooling,2018-2024,GRSM,GRSM_055,GRSM_055.basePlot.bgc,1,2021,2021,NA,NA
+DP1.10086.001,GRSM,sls_metagenomicsPooling,2018-2024,GRSM,GRSM_058,GRSM_058.basePlot.bgc,1,2021,2021,NA,NA
+DP1.10086.001,GRSM,sls_metagenomicsPooling,2018-2024,GRSM,GRSM_059,GRSM_059.basePlot.bgc,1,2021,2021,NA,NA
+DP1.10086.001,GRSM,sls_metagenomicsPooling,2018-2024,GRSM,GRSM_060,GRSM_060.basePlot.bgc,1,2021,2021,NA,NA

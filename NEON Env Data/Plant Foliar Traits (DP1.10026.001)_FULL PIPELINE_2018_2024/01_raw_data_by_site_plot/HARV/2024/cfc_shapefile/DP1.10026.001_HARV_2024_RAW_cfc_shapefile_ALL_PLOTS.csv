@@ -1,0 +1,2 @@
+uid,startDate,endDate,domainID,siteID,downloadFileName,downloadFileUrl,shapefileAopYear,dataQF,publicationDate,release,dpID,site_download,year_download,source_table
+fede5c1b-3b81-40dd-ace7-d318a7683e5d,2024-08-06,2024-08-29,D01,HARV,HARV-2024-polygons.zip,https://storage.neonscience.org/neon-crown-shapefiles/HARV-2024-polygons.zip,2022,NA,20260106T155201Z,RELEASE-2026,DP1.10026.001,HARV,2024,cfc_shapefile

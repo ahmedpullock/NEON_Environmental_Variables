@@ -1,0 +1,11 @@
+dpID,site,table,years_averaged,siteID,plotID,namedLocation,plotType,n_raw_records,incubationLength_mean_2018_2024,soilFreshMass_mean_2018_2024,kclVolume_mean_2018_2024,year_download_mean_2018_2024,collectYear_mean_2018_2024,incubationLength_mean_2018_2024_unit,soilFreshMass_mean_2018_2024_unit,kclVolume_mean_2018_2024_unit,year_download_mean_2018_2024_unit,collectYear_mean_2018_2024_unit
+DP1.10086.001,TOOL,ntr_internalLab,2018-2024,TOOL,TOOL_001,TOOL_001.basePlot.bgc,distributed,12,13.883333333333335,10.135833333333334,100,2022,2022,day,gram,milliliter,NA,NA
+DP1.10086.001,TOOL,ntr_internalLab,2018-2024,TOOL,TOOL_002,TOOL_002.basePlot.bgc,distributed,8,14.987499999999999,10.026250000000001,100,2022,2022,day,gram,milliliter,NA,NA
+DP1.10086.001,TOOL,ntr_internalLab,2018-2024,TOOL,TOOL_003,TOOL_003.basePlot.bgc,distributed,7,12.448571428571428,10.035714285714286,100,2022,2022,day,gram,milliliter,NA,NA
+DP1.10086.001,TOOL,ntr_internalLab,2018-2024,TOOL,TOOL_004,TOOL_004.basePlot.bgc,distributed,11,13.67090909090909,10.044545454545455,100,2022,2022,day,gram,milliliter,NA,NA
+DP1.10086.001,TOOL,ntr_internalLab,2018-2024,TOOL,TOOL_005,TOOL_005.basePlot.bgc,distributed,10,14.971,10.082,100,2022,2022,day,gram,milliliter,NA,NA
+DP1.10086.001,TOOL,ntr_internalLab,2018-2024,TOOL,TOOL_006,TOOL_006.basePlot.bgc,distributed,9,13.334444444444443,10.081111111111111,100,2022,2022,day,gram,milliliter,NA,NA
+DP1.10086.001,TOOL,ntr_internalLab,2018-2024,TOOL,TOOL_041,TOOL_041.basePlot.bgc,tower,10,14.931000000000001,10.129999999999999,100,2022,2022,day,gram,milliliter,NA,NA
+DP1.10086.001,TOOL,ntr_internalLab,2018-2024,TOOL,TOOL_042,TOOL_042.basePlot.bgc,tower,8,14.8975,10.09875,100,2022,2022,day,gram,milliliter,NA,NA
+DP1.10086.001,TOOL,ntr_internalLab,2018-2024,TOOL,TOOL_043,TOOL_043.basePlot.bgc,tower,10,14.969,10.132,100,2022,2022,day,gram,milliliter,NA,NA
+DP1.10086.001,TOOL,ntr_internalLab,2018-2024,TOOL,TOOL_044,TOOL_044.basePlot.bgc,tower,12,14.918333333333333,10.093333333333334,100,2022,2022,day,gram,milliliter,NA,NA

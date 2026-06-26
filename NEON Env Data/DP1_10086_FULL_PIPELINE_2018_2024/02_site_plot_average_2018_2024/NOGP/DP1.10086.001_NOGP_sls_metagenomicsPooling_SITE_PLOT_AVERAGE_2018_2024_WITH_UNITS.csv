@@ -1,0 +1,11 @@
+dpID,site,table,years_averaged,siteID,plotID,namedLocation,n_raw_records,year_download_mean_2018_2024,collectYear_mean_2018_2024,year_download_mean_2018_2024_unit,collectYear_mean_2018_2024_unit
+DP1.10086.001,NOGP,sls_metagenomicsPooling,2018-2024,NOGP,NOGP_001,NOGP_001.basePlot.bgc,1,2020,2020,NA,NA
+DP1.10086.001,NOGP,sls_metagenomicsPooling,2018-2024,NOGP,NOGP_002,NOGP_002.basePlot.bgc,1,2020,2020,NA,NA
+DP1.10086.001,NOGP,sls_metagenomicsPooling,2018-2024,NOGP,NOGP_003,NOGP_003.basePlot.bgc,1,2020,2020,NA,NA
+DP1.10086.001,NOGP,sls_metagenomicsPooling,2018-2024,NOGP,NOGP_005,NOGP_005.basePlot.bgc,1,2020,2020,NA,NA
+DP1.10086.001,NOGP,sls_metagenomicsPooling,2018-2024,NOGP,NOGP_006,NOGP_006.basePlot.bgc,1,2020,2020,NA,NA
+DP1.10086.001,NOGP,sls_metagenomicsPooling,2018-2024,NOGP,NOGP_012,NOGP_012.basePlot.bgc,1,2020,2020,NA,NA
+DP1.10086.001,NOGP,sls_metagenomicsPooling,2018-2024,NOGP,NOGP_061,NOGP_061.basePlot.bgc,1,2020,2020,NA,NA
+DP1.10086.001,NOGP,sls_metagenomicsPooling,2018-2024,NOGP,NOGP_062,NOGP_062.basePlot.bgc,1,2020,2020,NA,NA
+DP1.10086.001,NOGP,sls_metagenomicsPooling,2018-2024,NOGP,NOGP_064,NOGP_064.basePlot.bgc,1,2020,2020,NA,NA
+DP1.10086.001,NOGP,sls_metagenomicsPooling,2018-2024,NOGP,NOGP_065,NOGP_065.basePlot.bgc,2,2020,2020,NA,NA

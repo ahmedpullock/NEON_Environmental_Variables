@@ -1,0 +1,12 @@
+dpID,site,table,years_averaged,siteID,plotID,namedLocation,n_raw_records,kclAmmoniumNConc_mean_2018_2024,ammoniumNRepNum_mean_2018_2024,kclNitrateNitriteNConc_mean_2018_2024,nitrateNitriteNRepNum_mean_2018_2024,year_download_mean_2018_2024,collectYear_mean_2018_2024,kclAmmoniumNConc_mean_2018_2024_unit,ammoniumNRepNum_mean_2018_2024_unit,kclNitrateNitriteNConc_mean_2018_2024_unit,nitrateNitriteNRepNum_mean_2018_2024_unit,year_download_mean_2018_2024_unit,collectYear_mean_2018_2024_unit
+DP1.10086.001,BLAN,ntr_externalLab,2018-2024,BLAN,BLAN_001,BLAN_001.basePlot.bgc,10,0.2302,1.1,0.5252,1.1,2020,2020,milligramsPerLiter,number,milligramsPerLiter,number,NA,NA
+DP1.10086.001,BLAN,ntr_externalLab,2018-2024,BLAN,BLAN_003,BLAN_003.basePlot.bgc,9,0.22333333333333333,1,0.19944444444444445,1,2020,2020,milligramsPerLiter,number,milligramsPerLiter,number,NA,NA
+DP1.10086.001,BLAN,ntr_externalLab,2018-2024,BLAN,BLAN_004,BLAN_004.basePlot.bgc,16,0.2855,1.0625,0.3101875,1.0625,2020,2020,milligramsPerLiter,number,milligramsPerLiter,number,NA,NA
+DP1.10086.001,BLAN,ntr_externalLab,2018-2024,BLAN,BLAN_005,BLAN_005.basePlot.bgc,16,0.303,1.0625,0.344625,1.0625,2020,2020,milligramsPerLiter,number,milligramsPerLiter,number,NA,NA
+DP1.10086.001,BLAN,ntr_externalLab,2018-2024,BLAN,BLAN_006,BLAN_006.basePlot.bgc,10,0.2726,1.1,0.2883,1.1,2020,2020,milligramsPerLiter,number,milligramsPerLiter,number,NA,NA
+DP1.10086.001,BLAN,ntr_externalLab,2018-2024,BLAN,BLAN_007,BLAN_007.basePlot.bgc,15,0.17233333333333334,1,0.6251333333333333,1,2020,2020,milligramsPerLiter,number,milligramsPerLiter,number,NA,NA
+DP1.10086.001,BLAN,ntr_externalLab,2018-2024,BLAN,BLAN_031,BLAN_031.basePlot.bgc,16,0.4365625,1.0625,0.24775,1.0625,2020,2020,milligramsPerLiter,number,milligramsPerLiter,number,NA,NA
+DP1.10086.001,BLAN,ntr_externalLab,2018-2024,BLAN,BLAN_032,BLAN_032.basePlot.bgc,16,0.36462500000000003,1.0625,0.0858125,1.0625,2020,2020,milligramsPerLiter,number,milligramsPerLiter,number,NA,NA
+DP1.10086.001,BLAN,ntr_externalLab,2018-2024,BLAN,BLAN_033,BLAN_033.basePlot.bgc,15,0.218,1,0.6477333333333333,1,2020,2020,milligramsPerLiter,number,milligramsPerLiter,number,NA,NA
+DP1.10086.001,BLAN,ntr_externalLab,2018-2024,BLAN,BLAN_038,BLAN_038.basePlot.bgc,18,0.278,1.1666666666666667,0.6936111111111112,1.1666666666666667,2020,2020,milligramsPerLiter,number,milligramsPerLiter,number,NA,NA
+DP1.10086.001,BLAN,ntr_externalLab,2018-2024,BLAN,NA,BLAN,33,0.04324242424242424,1,0.030454545454545456,1,2020,2020,milligramsPerLiter,number,milligramsPerLiter,number,NA,NA

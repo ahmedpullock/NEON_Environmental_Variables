@@ -1,0 +1,15 @@
+dpID,site,table,years_averaged,siteID,plotID,namedLocation,horizon,n_raw_records,bgcArchiveMass_mean_2018_2024,year_download_mean_2018_2024,collectYear_mean_2018_2024,bgcArchiveMass_mean_2018_2024_unit,year_download_mean_2018_2024_unit,collectYear_mean_2018_2024_unit
+DP1.10086.001,SOAP,sls_bgcSubsampling,2018-2024,SOAP,SOAP_001,SOAP_001.basePlot.bgc,M,3,NA,2018,2018,gram,NA,NA
+DP1.10086.001,SOAP,sls_bgcSubsampling,2018-2024,SOAP,SOAP_002,SOAP_002.basePlot.bgc,M,6,152.06666666666666,2021,2021,gram,NA,NA
+DP1.10086.001,SOAP,sls_bgcSubsampling,2018-2024,SOAP,SOAP_003,SOAP_003.basePlot.bgc,M,6,178.8,2021,2021,gram,NA,NA
+DP1.10086.001,SOAP,sls_bgcSubsampling,2018-2024,SOAP,SOAP_004,SOAP_004.basePlot.bgc,M,5,171.6,2021.6,2021.6,gram,NA,NA
+DP1.10086.001,SOAP,sls_bgcSubsampling,2018-2024,SOAP,SOAP_004,SOAP_004.basePlot.bgc,O,1,NA,2018,2018,gram,NA,NA
+DP1.10086.001,SOAP,sls_bgcSubsampling,2018-2024,SOAP,SOAP_005,SOAP_005.basePlot.bgc,M,3,NA,2018,2018,gram,NA,NA
+DP1.10086.001,SOAP,sls_bgcSubsampling,2018-2024,SOAP,SOAP_006,SOAP_006.basePlot.bgc,M,3,185.73333333333335,2024,2024,gram,NA,NA
+DP1.10086.001,SOAP,sls_bgcSubsampling,2018-2024,SOAP,SOAP_007,SOAP_007.basePlot.bgc,M,3,169.26666666666668,2024,2024,gram,NA,NA
+DP1.10086.001,SOAP,sls_bgcSubsampling,2018-2024,SOAP,SOAP_025,SOAP_025.basePlot.bgc,M,2,193.45,2024,2024,gram,NA,NA
+DP1.10086.001,SOAP,sls_bgcSubsampling,2018-2024,SOAP,SOAP_031,SOAP_031.basePlot.bgc,M,6,185.56666666666666,2021,2021,gram,NA,NA
+DP1.10086.001,SOAP,sls_bgcSubsampling,2018-2024,SOAP,SOAP_043,SOAP_043.basePlot.bgc,M,6,202.73333333333332,2021,2021,gram,NA,NA
+DP1.10086.001,SOAP,sls_bgcSubsampling,2018-2024,SOAP,SOAP_044,SOAP_044.basePlot.bgc,M,3,NA,2018,2018,gram,NA,NA
+DP1.10086.001,SOAP,sls_bgcSubsampling,2018-2024,SOAP,SOAP_045,SOAP_045.basePlot.bgc,M,6,199.1,2021,2021,gram,NA,NA
+DP1.10086.001,SOAP,sls_bgcSubsampling,2018-2024,SOAP,SOAP_047,SOAP_047.basePlot.bgc,M,3,192,2024,2024,gram,NA,NA

@@ -1,0 +1,11 @@
+dpID,site,table,years_averaged,siteID,plotID,namedLocation,plotType,n_raw_records,incubationLength_mean_2018_2024,soilFreshMass_mean_2018_2024,kclVolume_mean_2018_2024,year_download_mean_2018_2024,collectYear_mean_2018_2024,incubationLength_mean_2018_2024_unit,soilFreshMass_mean_2018_2024_unit,kclVolume_mean_2018_2024_unit,year_download_mean_2018_2024_unit,collectYear_mean_2018_2024_unit
+DP1.10086.001,SRER,ntr_internalLab,2018-2024,SRER,SRER_001,SRER_001.basePlot.bgc,distributed,18,11.182222222222222,5.105555555555555,50,2021,2021,day,gram,milliliter,NA,NA
+DP1.10086.001,SRER,ntr_internalLab,2018-2024,SRER,SRER_002,SRER_002.basePlot.bgc,distributed,18,11.325,5.152222222222222,50,2021,2021,day,gram,milliliter,NA,NA
+DP1.10086.001,SRER,ntr_internalLab,2018-2024,SRER,SRER_003,SRER_003.basePlot.bgc,distributed,18,11.451666666666666,5.113333333333333,50,2021,2021,day,gram,milliliter,NA,NA
+DP1.10086.001,SRER,ntr_internalLab,2018-2024,SRER,SRER_004,SRER_004.basePlot.bgc,distributed,18,11.507777777777779,5.093333333333334,50,2021,2021,day,gram,milliliter,NA,NA
+DP1.10086.001,SRER,ntr_internalLab,2018-2024,SRER,SRER_005,SRER_005.basePlot.bgc,distributed,18,11.290000000000001,5.1177777777777775,50,2021,2021,day,gram,milliliter,NA,NA
+DP1.10086.001,SRER,ntr_internalLab,2018-2024,SRER,SRER_006,SRER_006.basePlot.bgc,distributed,18,11.476111111111111,5.114444444444445,50,2021,2021,day,gram,milliliter,NA,NA
+DP1.10086.001,SRER,ntr_internalLab,2018-2024,SRER,SRER_043,SRER_043.basePlot.bgc,tower,18,11.294444444444444,5.0777777777777775,49.833333333333336,2021,2021,day,gram,milliliter,NA,NA
+DP1.10086.001,SRER,ntr_internalLab,2018-2024,SRER,SRER_047,SRER_047.basePlot.bgc,tower,18,11.457777777777778,5.108888888888889,50,2021,2021,day,gram,milliliter,NA,NA
+DP1.10086.001,SRER,ntr_internalLab,2018-2024,SRER,SRER_052,SRER_052.basePlot.bgc,tower,18,11.12111111111111,5.112777777777778,50,2021,2021,day,gram,milliliter,NA,NA
+DP1.10086.001,SRER,ntr_internalLab,2018-2024,SRER,SRER_053,SRER_053.basePlot.bgc,tower,18,11.15611111111111,5.166111111111111,50,2021,2021,day,gram,milliliter,NA,NA

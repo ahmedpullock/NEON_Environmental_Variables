@@ -1,0 +1,2 @@
+uid,startDate,endDate,domainID,siteID,downloadFileName,downloadFileUrl,shapefileAopYear,dataQF,publicationDate,release,dpID,site_download,year_download,source_table
+c581dca6-0618-46bc-b389-43c12a166554,2021-09-20,2021-10-07,D03,OSBS,OSBS-2021-polygons-v2.zip,https://storage.neonscience.org/neon-crown-shapefiles/OSBS-2021-polygons-v2.zip,2019,NA,20260106T160049Z,RELEASE-2026,DP1.10026.001,OSBS,2021,cfc_shapefile

@@ -1,0 +1,10 @@
+dpID,site,table,years_averaged,siteID,plotID,namedLocation,plotType,n_raw_records,incubationLength_mean_2018_2024,soilFreshMass_mean_2018_2024,kclVolume_mean_2018_2024,year_download_mean_2018_2024,collectYear_mean_2018_2024,incubationLength_mean_2018_2024_unit,soilFreshMass_mean_2018_2024_unit,kclVolume_mean_2018_2024_unit,year_download_mean_2018_2024_unit,collectYear_mean_2018_2024_unit
+DP1.10086.001,RMNP,ntr_internalLab,2018-2024,RMNP,RMNP_002,RMNP_002.basePlot.bgc,distributed,14,16.69142857142857,10.14,99.78571428571429,2020,2020,day,gram,milliliter,NA,NA
+DP1.10086.001,RMNP,ntr_internalLab,2018-2024,RMNP,RMNP_004,RMNP_004.basePlot.bgc,distributed,22,14.268636363636364,9.824545454545454,99.81818181818181,2020,2020,day,gram,milliliter,NA,NA
+DP1.10086.001,RMNP,ntr_internalLab,2018-2024,RMNP,RMNP_006,RMNP_006.basePlot.bgc,distributed,6,0,9.961666666666666,100.16666666666667,2020,2020,day,gram,milliliter,NA,NA
+DP1.10086.001,RMNP,ntr_internalLab,2018-2024,RMNP,RMNP_013,RMNP_013.basePlot.bgc,distributed,19,17.563157894736843,10.08736842105263,99.89473684210526,2020,2020,day,gram,milliliter,NA,NA
+DP1.10086.001,RMNP,ntr_internalLab,2018-2024,RMNP,RMNP_019,RMNP_019.basePlot.bgc,distributed,6,23.465,10.078333333333333,99.66666666666667,2020,2020,day,gram,milliliter,NA,NA
+DP1.10086.001,RMNP,ntr_internalLab,2018-2024,RMNP,RMNP_041,RMNP_041.basePlot.bgc,tower,14,13.562142857142856,10.134285714285713,100,2020,2020,day,gram,milliliter,NA,NA
+DP1.10086.001,RMNP,ntr_internalLab,2018-2024,RMNP,RMNP_043,RMNP_043.basePlot.bgc,tower,18,14.008888888888889,10.113333333333333,100.22222222222223,2020,2020,day,gram,milliliter,NA,NA
+DP1.10086.001,RMNP,ntr_internalLab,2018-2024,RMNP,RMNP_044,RMNP_044.basePlot.bgc,tower,6,21.023333333333333,9.995000000000001,100.16666666666667,2020,2020,day,gram,milliliter,NA,NA
+DP1.10086.001,RMNP,ntr_internalLab,2018-2024,RMNP,RMNP_045,RMNP_045.basePlot.bgc,tower,6,10.355,10.173333333333334,99.66666666666667,2020,2020,day,gram,milliliter,NA,NA
